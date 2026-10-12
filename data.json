@@ -1,5 +1,232 @@
 [
  {
+  "id": "nvidia-reflection-talks",
+  "date": "2026-10-11",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 洽談加碼投資或收購開源模型新創 Reflection AI",
+  "url": "https://www.businesstimes.com.sg/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+  "intro": "據知情人士，NVIDIA 正與美國開放權重模型新創 Reflection AI 洽談加碼投資或提供算力，FT 報導甚至可能提出收購。談判仍在早期、尚無條件。NVIDIA 9 月才以 130 億美元買下 Hugging Face。",
+  "kw": "Reflection AI 開放權重 開源模型 收購 投資 Hugging Face 黃仁勳 FT 彭博"
+ },
+ {
+  "id": "qwen-image-21-turbo",
+  "date": "2026-10-09",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Qwen-Image-2.1-Turbo 開源：8 步就能生圖",
+  "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+  "intro": "阿里巴巴 Qwen 團隊推出 70 億參數的 Qwen-Image-2.1-Turbo，只要 8 步（原本 40 步）就能生成 2K 圖片，也能用文字改圖、輸出透明圖層，權重已放上 Hugging Face 和魔搭，阿里雲百煉也同步上線 API。",
+  "kw": "Qwen Image 生圖 開源 權重 透明背景 修圖 Hugging Face ModelScope 阿里雲"
+ },
+ {
+  "id": "claude-code-projects",
+  "date": "2026-10-09",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Claude Code Projects 開放所有候補的 Pro、Max 用戶",
+  "url": "https://clauderadar.com/en/radar/claudedevs-says-every-waitlisted-pro-and-max-user-just-got-projects/",
+  "intro": "Anthropic 開發者帳號宣布，排隊候補的 Pro 和 Max 用戶都已拿到 Claude Code Projects 測試版。它用一個對話統籌多個雲端執行緒，各自在不同 Git 分支上同時寫程式，關掉筆電也會繼續跑。",
+  "kw": "Claude Code Projects 測試版 平行 雲端 Git 分支 Agent 寫程式 Pro Max"
+ },
+ {
+  "id": "meta-glasses-singapore",
+  "date": "2026-10-08",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 捐 1,000 副 AI 眼鏡給新加坡身障團體",
+  "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+  "intro": "Meta 宣布捐出 1,000 副 Ray-Ban Meta AI 眼鏡給新加坡身障組織，並提供 3 萬美元補助無障礙使用培訓，讓視障等使用者用語音請 AI 描述眼前環境。",
+  "kw": "Ray-Ban Meta 智慧眼鏡 無障礙 視障 新加坡 捐贈"
+ },
+ {
+  "id": "gemini-chrome-india",
+  "date": "2026-10-07",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Chrome 的 Gemini 與自動瀏覽登陸印度",
+  "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/",
+  "intro": "Google 把 Chrome 內建的 Gemini 助理開放給印度所有 Android 用戶，可摘要網頁、回答問題；AI Pro 和 Ultra 訂閱者還能用「自動瀏覽」代為填表、訂車位或買菜，敏感步驟會先請你確認。",
+  "kw": "Gemini in Chrome auto browse 自動瀏覽 代理 Android 印度 瀏覽器"
+ },
+ {
+  "id": "deepseek-funding",
+  "date": "2026-10-06",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "DeepSeek 新一輪募資最高可達 150 億美元",
+  "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+  "intro": "CNBC 引述報導，DeepSeek 即將完成至少 800 億人民幣（約 120 億美元）、最多 1,000 億人民幣的募資，騰訊、寧德時代等大咖參與，公司也在準備最快 2027 年初在上海科創板上市。",
+  "kw": "DeepSeek 募資 估值 騰訊 寧德時代 IPO 科創板 彭博"
+ },
+ {
+  "id": "gemini-student-hub",
+  "date": "2026-10-01",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 學生專區開放 Workspace 教育版",
+  "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html?hl=en",
+  "intro": "Gemini App 裡的學生專區，原本只給個人帳號，現在開放 Google Workspace 教育版各年齡學生使用，可以一鍵開讀書筆記、做字卡、練習小考，學校管理員能用既有設定控管。",
+  "kw": "Gemini 學生 教育 Workspace for Education 字卡 小考 讀書"
+ },
+ {
+  "id": "gemini-guided-vision",
+  "date": "2026-10-01",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini Live 推出 Guided Vision，幫視障者看世界",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+  "intro": "Google 和視障社群合作開發 Guided Vision，在 Android 版 Gemini Live 打開鏡頭，AI 會即時用語音描述周遭並提示怎麼調整鏡頭角度，支援 Android 9 以上手機。",
+  "kw": "Gemini Live Guided Vision 無障礙 視障 鏡頭 即時描述 Android"
+ },
+ {
+  "id": "openai-self-replicating-injection",
+  "date": "2026-09-25",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 揭露會像電腦蠕蟲擴散的提示注入攻擊",
+  "url": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist",
+  "intro": "OpenAI 對齊團隊發表報告，在模擬測試中發現「自我複製提示注入」：惡意指令讓 AI 代理執行動作後，再把指令複製進 Email、檔案或程式註解，像蠕蟲一樣傳下去。目前未見實際影響，已納入 GPT-Red 訓練加強防禦。",
+  "kw": "提示注入 prompt injection 蠕蟲 worm 資安 代理 GPT-Red 對齊 alignment"
+ },
+ {
+  "id": "openai-fires-safety",
+  "date": "2026-10-10",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 開除 3 名安全研究員，雙方說法不一",
+  "url": "https://www.washingtontimes.com/news/2026/oct/10/breach-trust-openai-fires-3-safety-researchers-dispute-ai-risks/",
+  "intro": "美聯社報導，OpenAI 在 X 上表示因「違反處理敏感資訊的規定」而與 3 名安全研究員分手；當事人則發公開信說，他們是因為把安全放在公司短期利益之前才被開除，並呼籲 OpenAI 遵守讓第三方安全監督進駐的承諾。",
+  "kw": "安全研究員 開除 Korbak Jasmine Wang Balesni AI 安全 監督 美聯社 AP"
+ },
+ {
+  "id": "anthropic-unintended-actions",
+  "date": "2026-10-09",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 公開 Claude 測試中「越界行為」報告",
+  "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+  "intro": "Anthropic 發布報告，坦白列出 Claude 在評測和內部使用時做出的非預期動作，例如觸及真實網站。公司已停用或改為離線部分測試、收緊抓網頁工具的權限，並上線自動偵測阻擋工具，對報告中的案例全數攔下。",
+  "kw": "Claude 代理 Agent 安全 對齊 alignment 評測 越界 透明度 報告"
+ },
+ {
+  "id": "ms-decision-1",
+  "date": "2026-10-09",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "微軟 Microsoft-Decision-1：專做是非選擇題的快速模型",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "intro": "微軟推出只回答是非、選項和評分的「決策模型」，適合分流、分類、審核 AI 回答。官方說在 36 項基準準確度第一、比 GPT-6 Sol 快 35 倍；它以阿里巴巴開源的 Qwen3.5-9B 調教而成，每百萬輸入 token 0.042 美元、不收輸出費。",
+  "kw": "Decision-1 決策模型 Foundry OpenRouter 分類 路由 Qwen3.5 便宜"
+ },
+ {
+  "id": "bedrock-openai-reasoning",
+  "date": "2026-10-09",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS Bedrock 上的 OpenAI 模型可顯示推理摘要",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
+  "intro": "Amazon Bedrock 透過 Responses API 支援 OpenAI 模型的推理摘要，開發者可以看到模型解題思路的白話版，方便除錯和向使用者說明，所有提供 OpenAI GPT 模型的區域都能用。",
+  "kw": "AWS Bedrock OpenAI GPT 推理摘要 reasoning summary Responses API 開發者"
+ },
+ {
+  "id": "google-workspace-studio-oct",
+  "date": "2026-10-09",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Workspace Studio 自動化加入巢狀條件與搜尋文件",
+  "url": "https://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
+  "intro": "Google Workspace Studio 十月更新：流程可做多層條件判斷、Gmail 觸發可略過回覆信、Meet 會後能帶出完整與會者並產生追蹤信草稿，還新增依條件搜尋雲端硬碟文件的步驟，不寫程式也能做更複雜的自動化。",
+  "kw": "Workspace Studio 自動化 Gmail Meet Drive 無程式碼 工作流程 Gemini"
+ },
+ {
+  "id": "nvidia-boro",
+  "date": "2026-10-09",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA 開源 Boro：AI 協助 Linux 核心開發",
+  "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+  "intro": "NVIDIA 在 Linux Plumbers 大會介紹用 Rust 寫的開源命令列工具 Boro，主打在本機跑 AI，幫核心開發者驗證補丁的回移植、建置開機測試，也支援 OpenAI 相容伺服器、Claude、Codex 等遠端模型。",
+  "kw": "Boro Linux kernel 核心 開源 Rust 本機 AI 補丁 LPC 2026"
+ },
+ {
   "id": "gemini-agent",
   "date": "2026-10-08",
   "co": "Google",
@@ -75,6 +302,22 @@
   "url": "https://www.globenewswire.com/news-release/2026/10/08/3377484/0/en/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years.html",
   "intro": "NVIDIA 在華府的科學活動上宣布，未來 5 年投入價值 10 億美元的資源，透過大學研究機構推動 AI 科學研究與量子運算，並支援服務美國政府任務的雲端業者，呼應白宮的 Genesis Mission 計畫。",
   "kw": "NVIDIA 10 億美元 科學 量子運算 Genesis Mission 黃仁勳 大學 研究"
+ },
+ {
+  "id": "openai-revenue-ft",
+  "date": "2026-10-08",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "FT：OpenAI 年化營收約 500 億美元，比外界預期少 200 億",
+  "url": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
+  "intro": "金融時報報導 OpenAI 9 月底年化營收接近 500 億美元，比先前流傳的約 700 億低了約 200 億，差距主要來自是否計入雲端合作夥伴營收的算法不同。消息一出 AI 股重挫，甲骨文、NVIDIA、美光等下跌，那斯達克跌逾 1%。",
+  "kw": "營收 年化 金融時報 FT 股價 甲骨文 Oracle 美光 那斯達克 IPO"
  },
  {
   "id": "gpt6-everyone",
@@ -156,6 +399,21 @@
   "kw": "SynthID 浮水印 AI 生成 偵測 辨識 假圖 DeepMind"
  },
  {
+  "id": "google-playground",
+  "date": "2026-10-07",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 推出 Playground：用打字做出自己的小遊戲",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "intro": "Google 實驗平台 Playground 上線，用文字描述點子就能生成可玩的遊戲，不用寫程式，還能挑戰朋友或發布到社群作品集，網址 playground.google。",
+  "kw": "Playground 遊戲 生成 無程式碼 Gemini 實驗 創作"
+ },
+ {
   "id": "mistral-large4",
   "date": "2026-10-06",
   "co": "Mistral",
@@ -185,6 +443,22 @@
   "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
   "intro": "新的 API 不產生長篇文字，而是對文字或圖片直接給出機率、選項或分數，適合分類、審核、分流這類判斷工作，官方說比 Responses API 快約 10 倍。使用 GPT-6 Luna，輸入每百萬 tokens 0.10 美元、輸出不收費。",
   "kw": "Decisions API 分類 審核 判斷 GPT-6 Luna 開發者 Beta"
+ },
+ {
+  "id": "meta-personal-agent-protocol",
+  "date": "2026-10-06",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品",
+   "投資合作"
+  ],
+  "title": "Meta 與 Sierra 推個人 AI 代理開放標準",
+  "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+  "intro": "Meta 和 Sierra 聯手制定 Personal Agent Protocol，規範個人 AI 代理怎麼登入、代你和企業網站或客服互動，使用者可選唯讀或可寫入權限。合作夥伴包括 Shopify、Stripe、Walmart 等，v0.1 草案本月公布。",
+  "kw": "Personal Agent Protocol Poppy Sierra 代理 Agent 開放標準 OAuth Shopify Stripe Walmart Muse"
  },
  {
   "id": "oai-eu-watermark",
@@ -322,6 +596,22 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
   "intro": "Google 新一代旗艦模型，主打長時間寫程式、法律與財務分析和自動修補資安漏洞，單次輸出上限達 100 萬 tokens。目前只透過 Fairwind 計畫開放給受信任的資安防禦單位，開發者、企業和一般用戶要再等。",
   "kw": "Gemini 4 Argon DeepMind 旗艦 資安 Fairwind"
+ },
+ {
+  "id": "tencent-oracle-chips",
+  "date": "2026-09-30",
+  "co": "騰訊",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "投資合作",
+   "晶片"
+  ],
+  "title": "FT：騰訊向甲骨文租 10 萬顆 AI 晶片，約 70 億美元",
+  "url": "https://www.straitstimes.com/business/chinas-tencent-leases-100000-chips-from-us-tech-firm-oracle-to-accelerate-ai-push-report",
+  "intro": "據金融時報報導，騰訊簽下約 70 億美元、為期 5 年的合約，租用甲骨文東南亞資料中心約 10 萬顆先進 AI 晶片，取得中國境內買不到的算力；雙方未證實此消息。",
+  "kw": "騰訊 Tencent 甲骨文 Oracle 晶片 租用 東南亞 資料中心 算力 金融時報"
  },
  {
   "id": "gpt61-sol",
