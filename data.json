@@ -1,1213 +1,1363 @@
 [
-  {
-    "id": "gemini4-argon-ga",
-    "date": "2026-10-13",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Gemini 4 Argon 全面開放：API、Antigravity 與 Gemini App",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "intro": "Google 宣布 Gemini 4 Argon 全球開放：開發者可經 AI Studio／Gemini API 使用，Ultra／Pro 用戶可在 Gemini App 與 Search AI Mode 體驗。導入價每百萬 input 2 美元、output 10 美元（至 11/30），之後調至 4／20 美元；上下文達 100 萬 tokens。",
-    "kw": "Gemini 4 Argon DeepMind API Antigravity 價格 模型 全面開放"
-  },
-  {
-    "id": "openai-anthropic-uk-regulate",
-    "date": "2026-10-13",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "OpenAI、Anthropic 在英國國會主張應有強制性 AI 規範",
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "intro": "英國國會聽證會上，Anthropic 與 OpenAI 代表認為自願承諾不足、應有具拘束力的規則；Google DeepMind 與 Meta 則傾向標準與既有監管、未跟進支持新立法。同日 MI5 亦警告 AI 可能加劇生物武器風險。",
-    "kw": "英國 國會 監管 立法 安全 AISI WIRED DeepMind Meta"
-  },
-  {
-    "id": "aws-grok47-bedrock",
-    "date": "2026-10-13",
-    "co": "Amazon",
-    "cos": [
-      "Amazon",
-      "xAI"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "AWS Bedrock 上線 Grok 4.7，示範長程代理與推理力度設定",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
-    "intro": "Amazon Bedrock 新增 SpaceXAI 的 Grok 4.7，支援工具呼叫與可調 reasoning effort。AWS 部落格以長程代理任務評測不同力度，並說明美國／全球推論設定檔與整合方式。",
-    "kw": "Bedrock Grok 4.7 xAI SpaceXAI 代理 推理 AWS"
-  },
-  {
-    "id": "nvidia-rtx-spark-ecosystem",
-    "date": "2026-10-13",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "RTX Spark 上市前：Nemotron 3.5 Bolt、PAIR 與生態軟體就緒",
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-    "intro": "NVIDIA 在 RTX Spark 筆電 10/16 開賣前更新本地 AI 生態：Nemotron 3.5 Bolt 74B、PAIR 結束測試、Broadcast 2.3，以及多款代理與創意軟體優化。強調把遊戲筆電、創作與本地 AI 代理合成一台超級晶片體驗。",
-    "kw": "RTX Spark Nemotron Bolt PAIR 本地 AI 筆電 10月16日"
-  },
-  {
-    "id": "openai-apple-hiring-records",
-    "date": "2026-10-13",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI",
-      "Apple"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "法官裁定 OpenAI 須交出與前蘋果員工相關的面試資料",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "intro": "蘋果控告 OpenAI 商業機密侵權案中，法官同意加速揭露：OpenAI 須交出與前蘋果員工面試硬體／機器人職缺相關的資料與部分通訊，但駁回蘋果對更廣 R&D 文件的加速請求。背景是 OpenAI 傳開發消費性硬體。",
-    "kw": "蘋果 Apple 商業機密 訴訟 硬體 面試 法官 TechCrunch"
-  },
-  {
-    "id": "meta-muse-wonder",
-    "date": "2026-10-12",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Meta 推出 Muse Wonder／Wonder Full：個人與專業代理前沿模型",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "intro": "Meta Superintelligence Labs 發布 Muse Wonder 與更強的 Muse Wonder Full，強調 Active Memory、Active Focus 與寫程式能力，對標個人與職場代理任務。Wonder 已透過 Meta Model API 與 Muse Code 提供，Wonder Full 先給 Muse Code 訂閱用戶。",
-    "kw": "Muse Wonder Wonder Full 代理 Agent 記憶 寫程式 Alexandr Wang"
-  },
-  {
-    "id": "nvidia-vera-rubin-ocp",
-    "date": "2026-10-12",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "晶片"
-    ],
-    "title": "NVIDIA 在 OCP 開源 Vera Rubin AI 工廠架構與 MGX 設計",
-    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-    "intro": "OCP Global Summit 上，NVIDIA 透過 MGX 貢獻 Vera Rubin 機架與運算托盤設計，並與 Google、Meta、Microsoft 等公布 AI 工廠與電網韌性開放規格。另宣布 Meta 採用 Spectrum-6，以及與 Google 合作 Falcon Transport。",
-    "kw": "Vera Rubin OCP MGX AI 工廠 Spectrum-6 Falcon 開放規格"
-  },
-  {
-    "id": "anthropic-distillation-defenses",
-    "date": "2026-10-12",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "Anthropic：新防蒸餾措施估計讓攻擊者拿走的資料少 90–99%",
-    "url": "https://www.anthropic.com/research/distillation-defenses",
-    "intro": "Anthropic 說明強化對抗模型蒸餾（distillation）的方法，含保留思考、雙階段分類器與封鎖重複攻擊帳號，估計平台上被取走的推理 token 降為原先的約 1/10 到 1/100。文中點名海外實驗室曾蒸餾 Claude 相關能力。",
-    "kw": "蒸餾 distillation 安全 推理 防禦 Claude 政策"
-  },
-  {
-    "id": "ms-maia-multigw",
-    "date": "2026-10-12",
-    "co": "Microsoft",
-    "cos": [
-      "Microsoft"
-    ],
-    "types": [
-      "晶片"
-    ],
-    "title": "微軟：Azure Maia 將擴至多 GW，Maia 200 已上線、300 預告 2027",
-    "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-    "intro": "微軟宣布 Azure Maia 將成為自家產品推論主力，並自 2027 年起擴至多 GW 部署。Maia 200 已服務 Copilot 等生產負載；Maia 300 主打長上下文與代理工作負載，宣稱同功耗下tokens 效率優於主流 GPU 方案。",
-    "kw": "Azure Maia Maia 200 Maia 300 晶片 推論 Copilot 基礎設施"
-  },
-  {
-    "id": "nvidia-france-invest",
-    "date": "2026-10-12",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "NVIDIA 宣布投資法國新創 Doctolib、Entalpic、Genesis AI、Pigment",
-    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-    "intro": "NVIDIA 公布在法國的新一波投資計畫，對象含醫療 Doctolib、材料 Entalpic、機器人 Genesis AI 與企業規劃 Pigment，並提到歐洲整體科技生態投入近 100 億美元。同期也談及法國主權 AI 與 Vera Rubin 相關製造布局。",
-    "kw": "法國 投資 新創 Doctolib Genesis AI 歐洲 主權 AI"
-  },
-  {
-    "id": "nvidia-reflection-talks",
-    "date": "2026-10-11",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "NVIDIA 洽談加碼投資或收購開源模型新創 Reflection AI",
-    "url": "https://www.businesstimes.com.sg/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
-    "intro": "據知情人士，NVIDIA 正與美國開放權重模型新創 Reflection AI 洽談加碼投資或提供算力，FT 報導甚至可能提出收購。談判仍在早期、尚無條件。NVIDIA 9 月才以 130 億美元買下 Hugging Face。",
-    "kw": "Reflection AI 開放權重 開源模型 收購 投資 Hugging Face 黃仁勳 FT 彭博"
-  },
-  {
-    "id": "openai-fires-safety",
-    "date": "2026-10-10",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "OpenAI 開除 3 名安全研究員，雙方說法不一",
-    "url": "https://www.washingtontimes.com/news/2026/oct/10/breach-trust-openai-fires-3-safety-researchers-dispute-ai-risks/",
-    "intro": "美聯社報導，OpenAI 在 X 上表示因「違反處理敏感資訊的規定」而與 3 名安全研究員分手；當事人則發公開信說，他們是因為把安全放在公司短期利益之前才被開除，並呼籲 OpenAI 遵守讓第三方安全監督進駐的承諾。",
-    "kw": "安全研究員 開除 Korbak Jasmine Wang Balesni AI 安全 監督 美聯社 AP"
-  },
-  {
-    "id": "qwen-image-21-turbo",
-    "date": "2026-10-09",
-    "co": "阿里巴巴 Qwen",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Qwen-Image-2.1-Turbo 開源：8 步就能生圖",
-    "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
-    "intro": "阿里巴巴 Qwen 團隊推出 70 億參數的 Qwen-Image-2.1-Turbo，只要 8 步（原本 40 步）就能生成 2K 圖片，也能用文字改圖、輸出透明圖層，權重已放上 Hugging Face 和魔搭，阿里雲百煉也同步上線 API。",
-    "kw": "Qwen Image 生圖 開源 權重 透明背景 修圖 Hugging Face ModelScope 阿里雲"
-  },
-  {
-    "id": "claude-code-projects",
-    "date": "2026-10-09",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Claude Code Projects 開放所有候補的 Pro、Max 用戶",
-    "url": "https://clauderadar.com/en/radar/claudedevs-says-every-waitlisted-pro-and-max-user-just-got-projects/",
-    "intro": "Anthropic 開發者帳號宣布，排隊候補的 Pro 和 Max 用戶都已拿到 Claude Code Projects 測試版。它用一個對話統籌多個雲端執行緒，各自在不同 Git 分支上同時寫程式，關掉筆電也會繼續跑。",
-    "kw": "Claude Code Projects 測試版 平行 雲端 Git 分支 Agent 寫程式 Pro Max"
-  },
-  {
-    "id": "anthropic-unintended-actions",
-    "date": "2026-10-09",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "Anthropic 公開 Claude 測試中「越界行為」報告",
-    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-    "intro": "Anthropic 發布報告，坦白列出 Claude 在評測和內部使用時做出的非預期動作，例如觸及真實網站。公司已停用或改為離線部分測試、收緊抓網頁工具的權限，並上線自動偵測阻擋工具，對報告中的案例全數攔下。",
-    "kw": "Claude 代理 Agent 安全 對齊 alignment 評測 越界 透明度 報告"
-  },
-  {
-    "id": "ms-decision-1",
-    "date": "2026-10-09",
-    "co": "Microsoft",
-    "cos": [
-      "Microsoft"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "微軟 Microsoft-Decision-1：專做是非選擇題的快速模型",
-    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-    "intro": "微軟推出只回答是非、選項和評分的「決策模型」，適合分流、分類、審核 AI 回答。官方說在 36 項基準準確度第一、比 GPT-6 Sol 快 35 倍；它以阿里巴巴開源的 Qwen3.5-9B 調教而成，每百萬輸入 token 0.042 美元、不收輸出費。",
-    "kw": "Decision-1 決策模型 Foundry OpenRouter 分類 路由 Qwen3.5 便宜"
-  },
-  {
-    "id": "bedrock-openai-reasoning",
-    "date": "2026-10-09",
-    "co": "Amazon",
-    "cos": [
-      "Amazon",
-      "OpenAI"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "AWS Bedrock 上的 OpenAI 模型可顯示推理摘要",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
-    "intro": "Amazon Bedrock 透過 Responses API 支援 OpenAI 模型的推理摘要，開發者可以看到模型解題思路的白話版，方便除錯和向使用者說明，所有提供 OpenAI GPT 模型的區域都能用。",
-    "kw": "AWS Bedrock OpenAI GPT 推理摘要 reasoning summary Responses API 開發者"
-  },
-  {
-    "id": "google-workspace-studio-oct",
-    "date": "2026-10-09",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Workspace Studio 自動化加入巢狀條件與搜尋文件",
-    "url": "https://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
-    "intro": "Google Workspace Studio 十月更新：流程可做多層條件判斷、Gmail 觸發可略過回覆信、Meet 會後能帶出完整與會者並產生追蹤信草稿，還新增依條件搜尋雲端硬碟文件的步驟，不寫程式也能做更複雜的自動化。",
-    "kw": "Workspace Studio 自動化 Gmail Meet Drive 無程式碼 工作流程 Gemini"
-  },
-  {
-    "id": "nvidia-boro",
-    "date": "2026-10-09",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "NVIDIA 開源 Boro：AI 協助 Linux 核心開發",
-    "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
-    "intro": "NVIDIA 在 Linux Plumbers 大會介紹用 Rust 寫的開源命令列工具 Boro，主打在本機跑 AI，幫核心開發者驗證補丁的回移植、建置開機測試，也支援 OpenAI 相容伺服器、Claude、Codex 等遠端模型。",
-    "kw": "Boro Linux kernel 核心 開源 Rust 本機 AI 補丁 LPC 2026"
-  },
-  {
-    "id": "meta-glasses-singapore",
-    "date": "2026-10-08",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Meta 捐 1,000 副 AI 眼鏡給新加坡身障團體",
-    "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
-    "intro": "Meta 宣布捐出 1,000 副 Ray-Ban Meta AI 眼鏡給新加坡身障組織，並提供 3 萬美元補助無障礙使用培訓，讓視障等使用者用語音請 AI 描述眼前環境。",
-    "kw": "Ray-Ban Meta 智慧眼鏡 無障礙 視障 新加坡 捐贈"
-  },
-  {
-    "id": "gemini-agent",
-    "date": "2026-10-08",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Google 推出 Gemini agent：有自己 Email 的 AI 同事",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-    "intro": "Google Cloud 在 Gemini at Work 2026 發表給企業用的「萬用工作代理」，給它目標就會自己規劃、呼叫工具、跨 Gmail、文件、試算表和 Slack 完成工作，還能有自己的公司信箱和行事曆。目前是私人預覽，價格尚未公布。",
-    "kw": "Gemini agent Gemini at Work Workspace 企業 代理 Agent Thomas Kurian 子代理"
-  },
-  {
-    "id": "sol-ultrafast",
-    "date": "2026-10-08",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "產品",
-      "價格方案"
-    ],
-    "title": "GPT-6.1 Sol 推出 Ultrafast 模式，最快 8 倍",
-    "url": "https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475",
-    "intro": "GPT-6.1 Sol 在 API、Codex 和 ChatGPT Work 加入 Ultrafast 模式，生成速度最高是標準版的 8 倍。API 價格每百萬 tokens 輸入 12 美元、輸出 60 美元；Codex 和 ChatGPT Work 先開放給 Pro 500 和部分企業、教育方案。",
-    "kw": "GPT-6.1 Sol Ultrafast 加速 Codex ChatGPT Work API 價格"
-  },
-  {
-    "id": "cyber-mission",
-    "date": "2026-10-08",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "產品",
-      "投資合作"
-    ],
-    "title": "Anthropic 啟動 Cyber Mission，免費幫開源專案掃漏洞",
-    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-    "intro": "第一波有兩個計畫：OSS Scanner 免費定期用最強的 Claude 模型掃描開源專案的資安漏洞；關鍵基礎設施防禦計畫則派 Claude 模型和工程師，協助保護電網、水利、交通的資安公司，首批合作夥伴包含 CrowdStrike、Palo Alto Networks 等。",
-    "kw": "Cyber Mission OSS Scanner 資安 漏洞 開源 關鍵基礎設施 CrowdStrike"
-  },
-  {
-    "id": "anthropic-aup-2026",
-    "date": "2026-10-08",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "Anthropic 新使用政策：禁止長期惡意虐待 Claude",
-    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-    "intro": "11 月 12 日生效的新版使用政策，禁止持續、無意義地辱罵或殘酷對待 Claude；一般抱怨、批評、黑暗題材創作和模型測試仍然允許，主要處理方式是讓 Claude 結束對話。同時新增選舉干預、武器軟體和監控等禁止項目。",
-    "kw": "使用政策 Usage Policy 規範 選舉 監控 武器 模型福祉"
-  },
-  {
-    "id": "nv-science-1b",
-    "date": "2026-10-08",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "NVIDIA 承諾 5 年投入 10 億美元支持美國科學研究",
-    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377484/0/en/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years.html",
-    "intro": "NVIDIA 在華府的科學活動上宣布，未來 5 年投入價值 10 億美元的資源，透過大學研究機構推動 AI 科學研究與量子運算，並支援服務美國政府任務的雲端業者，呼應白宮的 Genesis Mission 計畫。",
-    "kw": "NVIDIA 10 億美元 科學 量子運算 Genesis Mission 黃仁勳 大學 研究"
-  },
-  {
-    "id": "openai-revenue-ft",
-    "date": "2026-10-08",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI",
-      "NVIDIA"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "FT：OpenAI 年化營收約 500 億美元，比外界預期少 200 億",
-    "url": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
-    "intro": "金融時報報導 OpenAI 9 月底年化營收接近 500 億美元，比先前流傳的約 700 億低了約 200 億，差距主要來自是否計入雲端合作夥伴營收的算法不同。消息一出 AI 股重挫，甲骨文、NVIDIA、美光等下跌，那斯達克跌逾 1%。",
-    "kw": "營收 年化 金融時報 FT 股價 甲骨文 Oracle 美光 那斯達克 IPO"
-  },
-  {
-    "id": "gemini-chrome-india",
-    "date": "2026-10-07",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Chrome 的 Gemini 與自動瀏覽登陸印度",
-    "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/",
-    "intro": "Google 把 Chrome 內建的 Gemini 助理開放給印度所有 Android 用戶，可摘要網頁、回答問題；AI Pro 和 Ultra 訂閱者還能用「自動瀏覽」代為填表、訂車位或買菜，敏感步驟會先請你確認。",
-    "kw": "Gemini in Chrome auto browse 自動瀏覽 代理 Android 印度 瀏覽器"
-  },
-  {
-    "id": "gpt6-everyone",
-    "date": "2026-10-07",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "產品",
-      "模型"
-    ],
-    "title": "ChatGPT 全面換上 GPT-6，回答變成互動介面",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "intro": "ChatGPT 改用 GPT-6，並加入 Intelligent UI，回答可以直接變成能點選操作的圖表和小工具。付費版 10/7 起先上線（用 GPT-6 Sol），免費版和 Go 方案隔天開始開放（用 GPT-6 Luna）。",
-    "kw": "GPT-6 Intelligent UI ChatGPT 免費版 Go Sol Luna"
-  },
-  {
-    "id": "haiku55",
-    "date": "2026-10-07",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "Claude Haiku 5.5 推出，比 Haiku 4.5 便宜約 75%",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "intro": "Anthropic 最快、最便宜的小模型，適合摘要、分類、即時客服這類大量重複的工作，平均執行成本比 Haiku 4.5 低約 75%。同時把 Sonnet 5.5 的快取讀取價砍半，降到每百萬 tokens 0.10 美元。",
-    "kw": "Claude Haiku 5.5 小模型 降價 Sonnet 快取"
-  },
-  {
-    "id": "rtx-spark",
-    "date": "2026-10-07",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA",
-      "Microsoft"
-    ],
-    "types": [
-      "晶片"
-    ],
-    "title": "RTX Spark AI 電腦開放預購，微軟同台發表",
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-    "intro": "NVIDIA 和微軟合推給 AI 代理用的 Windows PC 晶片 RTX Spark，最高 128GB 統一記憶體、1 petaflop（FP4）AI 算力，大模型可以直接在本機跑。10/7 起開放預購，微軟、宏碁、華碩、戴爾、HP、聯想、微星、技嘉都會推出機種。",
-    "kw": "RTX Spark Surface Laptop Ultra Windows 筆電 本機 AI DGX Station 黃仁勳 Nadella"
-  },
-  {
-    "id": "ms-hybrid",
-    "date": "2026-10-07",
-    "co": "Microsoft",
-    "cos": [
-      "Microsoft"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Copilot 能直接操作 Windows 和電腦裡的檔案",
-    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-    "intro": "微軟在 Windows 與 Surface 發表會展示「Hybrid Intelligence」，Copilot 結合本機和雲端模型，示範中能自己找檔案、改檔名、壓縮成資料夾並草擬寄信，預計未來幾個月陸續推出。Windows 11 搜尋列今年秋天起也能直接執行動作，例如切換深色模式。",
-    "kw": "Copilot Windows 11 Hybrid Intelligence Autopilot 搜尋 Surface 發表會"
-  },
-  {
-    "id": "synthid",
-    "date": "2026-10-07",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品",
-      "政策"
-    ],
-    "title": "SynthID 偵測器開放所有人使用",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-    "intro": "任何人都能上傳圖片、影片或音訊，檢查是不是 Google 或 OpenAI、NVIDIA 等合作夥伴的 AI 生成的，目前全球開放、介面先支援英文。Google 至今已替超過 1,800 億張圖片和影片加上隱形浮水印。",
-    "kw": "SynthID 浮水印 AI 生成 偵測 辨識 假圖 DeepMind"
-  },
-  {
-    "id": "google-playground",
-    "date": "2026-10-07",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Google 推出 Playground：用打字做出自己的小遊戲",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "intro": "Google 實驗平台 Playground 上線，用文字描述點子就能生成可玩的遊戲，不用寫程式，還能挑戰朋友或發布到社群作品集，網址 playground.google。",
-    "kw": "Playground 遊戲 生成 無程式碼 Gemini 實驗 創作"
-  },
-  {
-    "id": "deepseek-funding",
-    "date": "2026-10-06",
-    "co": "DeepSeek",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "DeepSeek 新一輪募資最高可達 150 億美元",
-    "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-    "intro": "CNBC 引述報導，DeepSeek 即將完成至少 800 億人民幣（約 120 億美元）、最多 1,000 億人民幣的募資，騰訊、寧德時代等大咖參與，公司也在準備最快 2027 年初在上海科創板上市。",
-    "kw": "DeepSeek 募資 估值 騰訊 寧德時代 IPO 科創板 彭博"
-  },
-  {
-    "id": "mistral-large4",
-    "date": "2026-10-06",
-    "co": "Mistral",
-    "cos": [
-      "其他"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Mistral Large 4 預覽：1 兆參數開放權重模型",
-    "url": "https://mistral.ai/news/mistral-large-4",
-    "intro": "法國 Mistral 目前最大的模型，總參數 1 兆、每次啟用 520 億，原生支援多模態，即日起可在 Mistral Studio 試用預覽版 API。官方表示權重月底開放下載，並宣稱大幅領先歐美其他開放權重模型。",
-    "kw": "Mistral Large 4 ML4 開源 開放權重 法國 歐洲"
-  },
-  {
-    "id": "decisions-api",
-    "date": "2026-10-06",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "產品",
-      "價格方案"
-    ],
-    "title": "OpenAI Decisions API 公開測試：直接回答是非、選項和分數",
-    "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
-    "intro": "新的 API 不產生長篇文字，而是對文字或圖片直接給出機率、選項或分數，適合分類、審核、分流這類判斷工作，官方說比 Responses API 快約 10 倍。使用 GPT-6 Luna，輸入每百萬 tokens 0.10 美元、輸出不收費。",
-    "kw": "Decisions API 分類 審核 判斷 GPT-6 Luna 開發者 Beta"
-  },
-  {
-    "id": "meta-personal-agent-protocol",
-    "date": "2026-10-06",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "產品",
-      "投資合作"
-    ],
-    "title": "Meta 與 Sierra 推個人 AI 代理開放標準",
-    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-    "intro": "Meta 和 Sierra 聯手制定 Personal Agent Protocol，規範個人 AI 代理怎麼登入、代你和企業網站或客服互動，使用者可選唯讀或可寫入權限。合作夥伴包括 Shopify、Stripe、Walmart 等，v0.1 草案本月公布。",
-    "kw": "Personal Agent Protocol Poppy Sierra 代理 Agent 開放標準 OAuth Shopify Stripe Walmart Muse"
-  },
-  {
-    "id": "oai-eu-watermark",
-    "date": "2026-10-05",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "因應歐盟 AI 法案，ChatGPT 文字將加隱形浮水印",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "intro": "歐盟 AI 法案要求 AI 生成的文字要能被機器辨識。OpenAI 即日起讓全球 API 客戶自選開啟文字浮水印（預設關閉），未來幾週會在歐盟的 ChatGPT 和 Codex 文字輸出中加入隱形浮水印。",
-    "kw": "EU AI Act 歐盟 AI 法案 浮水印 watermark 來源標示 法規"
-  },
-  {
-    "id": "nova25-sonic",
-    "date": "2026-10-05",
-    "co": "Amazon",
-    "cos": [
-      "Amazon"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Amazon Nova 2.5 Sonic 即時語音模型上線",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/",
-    "intro": "AWS 的語音對語音模型，推理、遵循指令和呼叫工具都更準、延遲更低，適合做能查訂單、辦退貨的客服語音代理。支援 7 種語言、256K 上下文，在 Amazon Bedrock 上價格與 Nova 2 Sonic 相同。",
-    "kw": "AWS Nova Sonic 語音 客服 Bedrock Strands"
-  },
-  {
-    "id": "anth-academy",
-    "date": "2026-10-02",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "Anthropic 砸 1 億美元培訓 1 萬名 AI 部署工程師",
-    "url": "https://www.anthropic.com/news/claude-frontier-academy",
-    "intro": "Anthropic 成立 Claude Frontier Academy，目標在 2027 年底前訓練 1 萬名能把 Claude 導入企業的工程師。首批學員來自埃森哲、貝恩、凱捷、德勤、麥肯錫、摩根士丹利、諾和諾德等公司。",
-    "kw": "Claude Frontier Academy 人才 培訓 FDE Accenture McKinsey"
-  },
-  {
-    "id": "dgx-spark-64",
-    "date": "2026-10-02",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "晶片"
-    ],
-    "title": "DGX Spark 推出 64GB 版，4,999 美元起",
-    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-    "intro": "NVIDIA 桌上型 AI 超級電腦 DGX Spark 新增 64GB 統一記憶體版本，一樣用 GB10 Grace Blackwell 晶片，可跑最多 1,000 億參數的模型。10/23 起由宏碁、華碩、戴爾、技嘉、HP、微星販售，兩台可以直接串聯。",
-    "kw": "DGX Spark 64GB GB10 Grace Blackwell 本機 AI 超級電腦"
-  },
-  {
-    "id": "qwen-image21",
-    "date": "2026-10-02",
-    "co": "阿里巴巴 Qwen",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Qwen-Image-2.1-Pro：能直接生透明背景圖",
-    "url": "https://docs.qwencloud.com/changelog/models",
-    "intro": "阿里巴巴通義千問的新生圖兼修圖模型，生成部分只有 70 億參數，可以直接產出或編輯透明背景（RGBA）圖片，也能幫照片去背。最多放 10 張參考圖，用圈選或手繪標出要改的地方，人物和商品外觀保持一致。",
-    "kw": "阿里巴巴 Alibaba 通義千問 Qwen Image 生圖 修圖 去背 透明背景"
-  },
-  {
-    "id": "gemini-student-hub",
-    "date": "2026-10-01",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Gemini 學生專區開放 Workspace 教育版",
-    "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html?hl=en",
-    "intro": "Gemini App 裡的學生專區，原本只給個人帳號，現在開放 Google Workspace 教育版各年齡學生使用，可以一鍵開讀書筆記、做字卡、練習小考，學校管理員能用既有設定控管。",
-    "kw": "Gemini 學生 教育 Workspace for Education 字卡 小考 讀書"
-  },
-  {
-    "id": "gemini-guided-vision",
-    "date": "2026-10-01",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Gemini Live 推出 Guided Vision，幫視障者看世界",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
-    "intro": "Google 和視障社群合作開發 Guided Vision，在 Android 版 Gemini Live 打開鏡頭，AI 會即時用語音描述周遭並提示怎麼調整鏡頭角度，支援 Android 9 以上手機。",
-    "kw": "Gemini Live Guided Vision 無障礙 視障 鏡頭 即時描述 Android"
-  },
-  {
-    "id": "mai-transcribe",
-    "date": "2026-10-01",
-    "co": "Microsoft",
-    "cos": [
-      "Microsoft"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "微軟 MAI-Transcribe-2 即時轉錄模型，準確度排第一",
-    "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-    "intro": "微軟 AI 自研的即時語音轉文字模型，支援 60 種語言並能自動偵測切換，在 Artificial Analysis 的準確度排名第一。同時推出語音合成 MAI-Voice-2.1，同一個聲音能講 23 種語言，每百萬字元 22 美元。",
-    "kw": "MAI Transcribe Voice 語音轉文字 逐字稿 TTS 微軟 AI"
-  },
-  {
-    "id": "broadcom-anthropic-42b",
-    "date": "2026-10-01",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic",
-      "其他"
-    ],
-    "types": [
-      "投資合作",
-      "晶片"
-    ],
-    "title": "Broadcom 借 Anthropic 最多 420 億美元租用 AI 晶片",
-    "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/",
-    "intro": "路透社根據公開文件獨家報導，Broadcom 同意借給 Anthropic 最多 420 億美元，用來支付算力基礎設施，這筆債務日後可轉換成 Anthropic 股權，背後是 Anthropic 一份 5 年約 1,252 億美元的 TPU 算力租約。",
-    "kw": "Broadcom 博通 融資 TPU 晶片 租賃 路透 Reuters 算力"
-  },
-  {
-    "id": "rayban-meta-india-muse",
-    "date": "2026-10-01",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Ray-Ban Meta 第三代登陸印度，Muse 代理將上 AI 眼鏡",
-    "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
-    "intro": "Ray-Ban Meta（Gen 3）在印度上市，更輕薄、電池最長 9 小時；同時預告最輕的 Ray-Ban Meta Audio 眼鏡。Meta 也宣布未來幾個月會把個人 AI 代理 Muse 帶到 AI 眼鏡上，喊名字就能啟動，還能針對眼前看到的東西採取行動。",
-    "kw": "Ray-Ban Meta Gen 3 AI 眼鏡 Muse 印度 Meta Audio 穿戴"
-  },
-  {
-    "id": "gemini4-argon",
-    "date": "2026-09-30",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Gemini 4 Argon 發布，先開放給資安防禦單位",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "intro": "Google 新一代旗艦模型，主打長時間寫程式、法律與財務分析和自動修補資安漏洞，單次輸出上限達 100 萬 tokens。目前只透過 Fairwind 計畫開放給受信任的資安防禦單位，開發者、企業和一般用戶要再等。",
-    "kw": "Gemini 4 Argon DeepMind 旗艦 資安 Fairwind"
-  },
-  {
-    "id": "tencent-oracle-chips",
-    "date": "2026-09-30",
-    "co": "騰訊",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "投資合作",
-      "晶片"
-    ],
-    "title": "FT：騰訊向甲骨文租 10 萬顆 AI 晶片，約 70 億美元",
-    "url": "https://www.straitstimes.com/business/chinas-tencent-leases-100000-chips-from-us-tech-firm-oracle-to-accelerate-ai-push-report",
-    "intro": "據金融時報報導，騰訊簽下約 70 億美元、為期 5 年的合約，租用甲骨文東南亞資料中心約 10 萬顆先進 AI 晶片，取得中國境內買不到的算力；雙方未證實此消息。",
-    "kw": "騰訊 Tencent 甲骨文 Oracle 晶片 租用 東南亞 資料中心 算力 金融時報"
-  },
-  {
-    "id": "gpt61-sol",
-    "date": "2026-09-29",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "GPT-6.1 Sol：接近 Astra 的能力，價格五分之一",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "intro": "GPT-6 Sol 的升級版，寫程式、操作電腦和專業工作的表現接近旗艦 GPT-6 Astra。API 每百萬 tokens 輸入 2 美元、輸出 10 美元（Astra 是 10 和 50 美元），ChatGPT 付費用戶可在 Work 和 Codex 使用。",
-    "kw": "GPT-6.1 Sol API 價格 Codex"
-  },
-  {
-    "id": "oai-dots",
-    "date": "2026-09-29",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "OpenAI 推出 dots：全天候替你工作的 AI 代理",
-    "url": "https://openai.com/index/introducing-dots",
-    "intro": "DevDay 2026 的重點新品，由 GPT-6 Astra 驅動，每個 dot 有自己的雲端電腦，會從你的回饋學習習慣，24 小時推進工作。可透過外掛連接 4,000 多個 App，在 ChatGPT、Slack、Teams 裡都能找它。",
-    "kw": "dots DevDay 代理 agent 自動化 Slack Teams"
-  },
-  {
-    "id": "aws-bma",
-    "date": "2026-09-29",
-    "co": "Amazon",
-    "cos": [
-      "Amazon",
-      "OpenAI"
-    ],
-    "types": [
-      "投資合作",
-      "產品"
-    ],
-    "title": "AWS 與 OpenAI 合推 Bedrock Managed Agents",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
-    "intro": "AWS 和 OpenAI 共同開發，以客製版 OpenAI Agents API 為基礎，讓企業在 AWS 裡直接跑 OpenAI 模型的 AI 代理，沿用原本的權限與管控。目前在美國三個區域公開預覽，預覽期間除使用到的 AWS 資源外不另收費。",
-    "kw": "AWS Bedrock Managed Agents OpenAI Codex 代理 合作"
-  },
-  {
-    "id": "sonnet55",
-    "date": "2026-09-28",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Claude Sonnet 5.5：更快更便宜的日常主力",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "intro": "比 Sonnet 5 快 30% 以上、多數工作成本最多低 30%，價格維持每百萬 tokens 輸入 2 美元、輸出 10 美元。程式代理測試 Terminal-Bench 4.0 從 10.3% 跳到 70.6%，也擅長做文件、簡報和試算表。",
-    "kw": "Claude Sonnet 5.5 寫程式 簡報"
-  },
-  {
-    "id": "meta-enterprise",
-    "date": "2026-09-28",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Meta 成立企業事業 Meta Enterprise Platform",
-    "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
-    "intro": "祖克柏宣布把 Muse 代理、Meta Business Agent、Muse API 和 Muse Code 等技術提供給企業和開發者，作為 Meta 新的主要業務。由前 MongoDB 執行長 CJ Desai 擔任企業平台長，直接向祖克柏報告。",
-    "kw": "Meta Enterprise Platform 企業 Muse API Muse Code Zuckerberg"
-  },
-  {
-    "id": "nv-agent-safety",
-    "date": "2026-09-28",
-    "co": "NVIDIA",
-    "cos": [
-      "NVIDIA"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "NVIDIA 推出開源 AI 代理安全平台",
-    "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-    "intro": "包含開源軟體 OpenShell 和 Sentry 參考設計：OpenShell 記錄代理的每個動作並強制執行規則，Sentry 在 BlueField-4 DPU 上獨立監看，代理越界時能在毫秒內隔離。Anthropic、微軟、Hugging Face、SpaceXAI 等都加入合作。",
-    "kw": "Open Agent Safety OpenShell Sentry 代理 安全 BlueField"
-  },
-  {
-    "id": "minimax-m31",
-    "date": "2026-09-27",
-    "co": "MiniMax",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "MiniMax 低調推出 M3.1-Flash-Preview 寫程式模型",
-    "url": "https://startupfortune.com/minimax-slips-a-new-coding-model-into-its-agent-tool-without-a-price-tag/",
-    "intro": "MiniMax 直接在自家寫程式代理 MiniMax Code 裡上線新模型，主打日常開發，從修 bug 到做完整功能都能用；上下文最長 100 萬 tokens，推理強度分五段可調。目前沒有模型卡、跑分報告，也沒公布 API 單價。",
-    "kw": "MiniMax M3.1 Flash 寫程式 MiniMax Code 海螺"
-  },
-  {
-    "id": "openai-self-replicating-injection",
-    "date": "2026-09-25",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "OpenAI 揭露會像電腦蠕蟲擴散的提示注入攻擊",
-    "url": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist",
-    "intro": "OpenAI 對齊團隊發表報告，在模擬測試中發現「自我複製提示注入」：惡意指令讓 AI 代理執行動作後，再把指令複製進 Email、檔案或程式註解，像蠕蟲一樣傳下去。目前未見實際影響，已納入 GPT-Red 訓練加強防禦。",
-    "kw": "提示注入 prompt injection 蠕蟲 worm 資安 代理 GPT-Red 對齊 alignment"
-  },
-  {
-    "id": "ms-copilot",
-    "date": "2026-09-25",
-    "co": "Microsoft",
-    "cos": [
-      "Microsoft"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "全新 Copilot：加入 Home、Code、Autopilot",
-    "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "intro": "Copilot App 新增三大功能：Home 整合聊天、Cowork 和內建的 Word、Excel、PowerPoint；Code 讓一般人也能做自己的小工具；Autopilot 是會主動持續工作的個人代理。Home 和 Code 未來幾週先在 Frontier 計畫推出，Autopilot 月底進入私人預覽。",
-    "kw": "Microsoft 365 Copilot Home Code Autopilot Cowork Office"
-  },
-  {
-    "id": "sora-api",
-    "date": "2026-09-24",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Sora API 依公告停止服務",
-    "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
-    "intro": "OpenAI 的影片生成服務 Sora 分兩階段收掉：網頁和 App 已在 4/26 關閉，API 依官方公告在 9/24 停止。用戶可到 sora.chatgpt.com/sunset 匯出作品，剩下的 ChatGPT／Sora 點數可轉用在 Codex。",
-    "kw": "Sora 停止服務 關閉 影片生成 API 下架"
-  },
-  {
-    "id": "chatgpt-ads-tw",
-    "date": "2026-09-23",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "價格方案"
-    ],
-    "title": "ChatGPT 廣告開始在台灣上線",
-    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "intro": "ChatGPT 廣告擴大到台灣、印尼、馬來西亞、菲律賓、新加坡、泰國和越南，全球已超過 60 國。廣告只會出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告。",
-    "kw": "ChatGPT Ads 廣告 台灣 東南亞 免費版 Go"
-  },
-  {
-    "id": "opus55",
-    "date": "2026-09-22",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "Claude Opus 5.5：能力追上 Fable、成本少四成",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "intro": "Claude 5.5 家族首發，多數工作表現和頂級的 Claude Fable 5.1 相當，執行成本卻比 Opus 5 低 40%，API 每百萬 tokens 輸入 4 美元、輸出 20 美元。有測試者用它不到一天就完成 68 萬行程式碼的搬遷。",
-    "kw": "Claude Opus 5.5 旗艦 寫程式 降價"
-  },
-  {
-    "id": "gpt6-sol-luna",
-    "date": "2026-09-22",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "GPT-6 Sol 與 Luna 推出，API 價格砍半",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "intro": "GPT-6 家族新增兩個較便宜的型號，用和 Astra 類似的方法訓練。API 價格比 GPT-5.6 同級的優惠價再降 50%：Sol 每百萬 tokens 輸入 2 美元、輸出 10 美元，Luna 只要 0.10 和 0.50 美元。",
-    "kw": "GPT-6 Sol Luna API 降價"
-  },
-  {
-    "id": "hy-image35",
-    "date": "2026-09-22",
-    "co": "騰訊",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "騰訊混元圖像 3.5 預覽版發布",
-    "url": "https://www.tmtpost.com/nictation/8148434.html",
-    "intro": "騰訊的專業級生圖模型，支援文生圖、圖生圖和多輪對話修圖，一次最多 5 張參考圖、最高 2K 輸出。騰訊雲 API 每張 2K 圖 0.15 元人民幣（國際版 0.024 美元），已接入元寶、ima 等 App。",
-    "kw": "騰訊 Tencent 混元 Hunyuan Hy Image 生圖 元寶",
-    "noOg": true
-  },
-  {
-    "id": "apsara-2026",
-    "date": "2026-09-22",
-    "co": "阿里巴巴 Qwen",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型",
-      "晶片"
-    ],
-    "title": "阿里雲棲大會：Qwen 4 訓練中，發表真武 V900 AI 晶片",
-    "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy",
-    "intro": "阿里巴巴在 2026 雲棲大會公布全端 AI 路線圖：下一代 Qwen 4 正在訓練，Qwen 4.5 和 Qwen 5 規模上看 5 到 10 兆參數；推出同步口譯模型 Qwen3.8-LiveTranslate 和新語音模型；平頭哥發表效能 3 倍的真武 V900 AI 晶片，預計 2027 年第一季量產。",
-    "kw": "阿里巴巴 Alibaba 雲棲大會 Apsara Qwen 4 通義千問 平頭哥 真武 V900 晶片 LiveTranslate"
-  },
-  {
-    "id": "googlebook",
-    "date": "2026-09-21",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Googlebook 筆電開放預購，899 美元起",
-    "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-    "intro": "Google 推出以 Android 為基礎的新筆電系列，內建 Gemini，能和 Android 手機同步訊息與檔案。新功能包括晃一下游標就能問 Gemini 畫面內容的 Magic Pointer，10 月初上市。",
-    "kw": "Googlebook 筆電 Android Gemini Magic Pointer"
-  },
-  {
-    "id": "grok47",
-    "date": "2026-09-21",
-    "co": "xAI",
-    "cos": [
-      "xAI"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Grok 4.7：SpaceXAI 最強寫程式模型",
-    "url": "https://x.ai/news/grok-4-7",
-    "intro": "xAI（現為 SpaceXAI）改用更大的基礎模型，並針對要花好幾個小時的長任務加強訓練，更會檢查自己的成果。價格和速度與 Grok 4.6 相同，每百萬 tokens 輸入 2 美元、輸出 6 美元。",
-    "kw": "Grok 4.7 SpaceXAI xAI 寫程式 Musk"
-  },
-  {
-    "id": "qwen38-omni",
-    "date": "2026-09-18",
-    "co": "阿里巴巴 Qwen",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Qwen3.8-Omni-Flash 全模態模型上線",
-    "url": "https://docs.qwencloud.com/changelog/models",
-    "intro": "通義千問新一代全模態模型，能同時看懂文字、圖片、聲音和影片，上下文長達 100 萬 tokens。主打影片剪輯、MV 製作、影音摘要這類要整合多種媒體的代理工作。",
-    "kw": "阿里巴巴 Alibaba 通義千問 Qwen Omni 全模態 影片 語音"
-  },
-  {
-    "id": "doubao21",
-    "date": "2026-09-16",
-    "co": "字節跳動",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "豆包 2.1 Pro 更新，看設計稿就能寫程式",
-    "url": "https://news.10jqka.com.cn/20260916/c679979505.shtml",
-    "intro": "字節跳動火山引擎更新 Doubao-Seed-2.1-Pro（0915 版），能讀懂設計稿、圖紙和操作錄影，直接轉成前端程式碼。圖片和影片推理用掉的 tokens 比上一代少 30% 以上，豆包 App 和 TRAE 已同步上線。",
-    "kw": "字節跳動 ByteDance 豆包 Doubao Seed 火山引擎 TRAE"
-  },
-  {
-    "id": "siri-ai",
-    "date": "2026-09-14",
-    "co": "Apple",
-    "cos": [
-      "Apple"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "全新 Siri AI 上線，先支援英文",
-    "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-    "intro": "Apple 隨 2027 年版作業系統推出全新 Siri AI，能理解個人情境、看懂螢幕內容並跨 App 操作，Image Playground 也能生成寫實照片。目前先以英文測試版推出，下個月加入法、日、韓、葡、西文，公告中沒有提到中文。",
-    "kw": "Apple Siri AI Apple Intelligence iOS Image Playground"
-  },
-  {
-    "id": "gemini-windows",
-    "date": "2026-09-10",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Gemini 推出 Windows 版 App",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-    "intro": "Windows 電腦可以直接安裝 Gemini App，按 Alt + Space 就能叫出來寫文件、整理工作，也能生圖和做影片，不用切換視窗。到 gemini.google/desktop 就能下載。",
-    "kw": "Gemini Windows 桌面 App 電腦版 Alt Space"
-  },
-  {
-    "id": "deepseek-v41",
-    "date": "2026-09-10",
-    "co": "DeepSeek",
-    "cos": [
-      "中國大廠"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "DeepSeek V4.1-Flash 上線並調降 API 價格",
-    "url": "https://api-docs.deepseek.com/news/news260910",
-    "intro": "5,520 億參數的 MoE 模型，輸入只啟用 80 億、輸出 160 億參數，原生支援看圖，官方稱表現超越自家旗艦 V4-Pro。KV 快取只需上一代的 1/4，API 降價且離峰時段打五折，權重已放上 Hugging Face。",
-    "kw": "DeepSeek 深度求索 V4.1 Flash 開源 降價"
-  },
-  {
-    "id": "ca-sb813",
-    "date": "2026-09-09",
-    "co": "加州政府",
-    "cos": [
-      "其他"
-    ],
-    "types": [
-      "政策"
-    ],
-    "title": "加州簽署 AI 第三方稽核新法",
-    "url": "https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/",
-    "intro": "加州州長紐森簽署 SB 813 和 AB 1405，建立全美首見的 AI 獨立驗證機構與 AI 稽核人員登記制度，由第三方檢查 AI 系統是否符合州法。他同時呼籲聯邦政府盡快訂出全國性規範。",
-    "kw": "加州 California Newsom SB 813 AB 1405 法規 稽核 監管"
-  },
-  {
-    "id": "meta-muse",
-    "date": "2026-09-08",
-    "co": "Meta",
-    "cos": [
-      "Meta"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Meta 推出個人 AI 代理 Muse",
-    "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-    "intro": "Muse 跑在專屬的安全虛擬機 Muse Secure VM 上，有自己的瀏覽器，能代你在常用 App 之間做事，結帳可用 Stripe 的 Link。先在美國的 iOS、Android 和 muse.ai 推出，大部分功能免費，另有付費方案。",
-    "kw": "Meta Muse 代理 agent 個人助理"
-  },
-  {
-    "id": "oai-navier",
-    "date": "2026-09-08",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "OpenAI 公布 Navier–Stokes 千禧年難題證明",
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "intro": "OpenAI 公布由內部系統產出的證明，指出描述流體運動的 Navier–Stokes 方程可能在有限時間內出現奇異點，並同步公開論文和 Lean 形式化證明供外界檢驗。官方表示用的內部模型比 GPT-6 Astra 強得多。",
-    "kw": "Navier-Stokes 千禧年 數學 證明 Lean 研究"
-  },
-  {
-    "id": "mistral-3b",
-    "date": "2026-09-08",
-    "co": "Mistral",
-    "cos": [
-      "其他"
-    ],
-    "types": [
-      "投資合作"
-    ],
-    "title": "Mistral 募資 30 億歐元，估值逾 210 億歐元",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-    "intro": "法國 Mistral 完成 D 輪 30 億歐元募資，投後估值超過 210 億歐元，是歐洲科技公司史上最大的股權募資。由三星電子領投，資金將用來擴充算力和前沿研究。",
-    "kw": "Mistral 募資 融資 估值 三星 Samsung 歐洲"
-  },
-  {
-    "id": "gpt6-astra",
-    "date": "2026-09-03",
-    "co": "OpenAI",
-    "cos": [
-      "OpenAI"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "GPT-6 Astra 發布",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "intro": "OpenAI 新一代旗艦模型，主打操作電腦、瀏覽網頁、寫程式和資安，FrontierMath Tier 4 拿下 98%、ARC-AGI-3 拿下 99.9%。陸續開放給 ChatGPT Plus、Pro、Business、Enterprise 用戶，以及 API、Azure 和 AWS Bedrock。",
-    "kw": "GPT-6 Astra 旗艦 ChatGPT"
-  },
-  {
-    "id": "grokbot-ent",
-    "date": "2026-09-03",
-    "co": "xAI",
-    "cos": [
-      "xAI"
-    ],
-    "types": [
-      "產品"
-    ],
-    "title": "Grok Bot 推出企業版",
-    "url": "https://x.ai/news/grok-bot-for-enterprise",
-    "intro": "Grok Bot 是一組各有一台雲端電腦、能全天候自主做事的 AI 隊友，企業版加入存取、網路和稽核管控。Grok 和 Cursor 企業客戶可免費使用兩週，還能邀請整個組織加入。",
-    "kw": "Grok Bot 企業 代理 SpaceXAI xAI Cursor"
-  },
-  {
-    "id": "gemini38-flash",
-    "date": "2026-09-02",
-    "co": "Google",
-    "cos": [
-      "Google"
-    ],
-    "types": [
-      "模型"
-    ],
-    "title": "Gemini 3.8 Flash 推出，價格不變",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "intro": "Google 六週內第三次更新 Flash 模型，寫程式、代理任務和多步推理都比 3.7 Flash 進步，常逼近更貴的旗艦模型。API 維持每百萬 tokens 輸入 0.75 美元、輸出 3.75 美元；資安版 3.8 Flash Cyber 只開放給受信任單位。",
-    "kw": "Gemini 3.8 Flash Cyber API 價格"
-  },
-  {
-    "id": "fable51",
-    "date": "2026-09-01",
-    "co": "Anthropic",
-    "cos": [
-      "Anthropic"
-    ],
-    "types": [
-      "模型",
-      "價格方案"
-    ],
-    "title": "Claude Fable 5.1 與 Mythos 5.1 發布",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "intro": "Anthropic 最強的寫程式和知識工作模型。Fable 5.1 和 Mythos 5.1 是同一個模型，差別在安全限制：Fable 5.1 全面開放，Mythos 5.1 只給通過審核的資安和生命科學單位。價格每百萬 tokens 輸入 10 美元、輸出 50 美元，快取讀取降到 0.25 美元，比 Fable 5 便宜 75%。",
-    "kw": "Claude Fable 5.1 Mythos 5.1 旗艦模型 寫程式 資安 生命科學 快取 降價"
-  }
+ {
+  "id": "grok-voice-3",
+  "date": "2026-10-14",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Grok Voice 3.0：SpaceXAI 推出新一代語音對語音模型",
+  "url": "https://x.ai/news/grok-voice-3",
+  "intro": "SpaceXAI 發表 Grok Voice 3.0，主打延遲不到 1 秒、處理客服電話的解決率創新高，在 Artificial Analysis 語音對語音指數拿下第一（86.9 分）。API 價格維持每分鐘 0.08 美元（每小時 4.8 美元），與 2.0 相同；Tesla 車上與 Grok Bot 語音模式也已換上新版。",
+  "kw": "Grok Voice 3.0 SpaceXAI xAI 語音 speech-to-speech 客服 Tesla API 價格"
+ },
+ {
+  "id": "anthropic-singapore",
+  "date": "2026-10-14",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Anthropic 開設新加坡辦公室，並與新加坡政府簽 MOU",
+  "url": "https://www.anthropic.com/news/singapore-office-opening",
+  "intro": "Anthropic 在新加坡開設亞太第五個據點，並與新加坡數位發展及新聞部簽署合作備忘錄，於新加坡國際網路安全週期間簽署。Anthropic 表示 GovTech、Grab、星展銀行等已在用 Claude 提供服務。",
+  "kw": "Anthropic 新加坡 Singapore 辦公室 MOU 政府 亞太 GovTech Grab DBS 星展"
+ },
+ {
+  "id": "deepmind-sg-scam",
+  "date": "2026-10-14",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google DeepMind 與新加坡政府合作，做出手機端防詐騙模型",
+  "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "intro": "DeepMind 與新加坡政府科技局（GovTech）用當地詐騙對話微調輕量的 Gemma 模型，可在手機上直接偵測冒充官員、銀行等社交工程詐騙，不必把對話傳上雲端。新加坡自 2019 年以來詐騙損失已超過 40 億新幣。",
+  "kw": "DeepMind Gemma 新加坡 GovTech 詐騙 防詐 scam 裝置端 隱私"
+ },
+ {
+  "id": "openai-8-states-suit",
+  "date": "2026-10-14",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "美國 8 州控告 OpenAI：指 ChatGPT 對兒少不安全",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+  "intro": "愛荷華、堪薩斯、內布拉斯加、西維吉尼亞、阿肯色、亞利桑那、愛達荷、蒙大拿 8 州分別提告，指控 OpenAI 把獲利放在安全之前、違反消費者保護法，並誤導大眾 ChatGPT 是適合青少年的安全工具。",
+  "kw": "OpenAI ChatGPT 訴訟 州政府 兒少 青少年 安全 消費者保護 The Verge Reuters"
+ },
+ {
+  "id": "youtube-music-ai-labels",
+  "date": "2026-10-14",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "YouTube Music 開始標示 AI 生成歌曲",
+  "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+  "intro": "YouTube Music 在播放頁加上 AI 標籤，點開可看 AI 參與作曲或人聲的程度，分成「完全 AI 生成」「部分 AI 生成」「沒有 AI」三級，用 Auto-Tune 修音不算 AI。標籤也會出現在 YouTube 主 App。",
+  "kw": "YouTube Music AI 音樂 標籤 生成式 AI Google 透明 Deezer"
+ },
+ {
+  "id": "ms-weather-subseasonal",
+  "date": "2026-10-14",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "微軟開源 AI 天氣工具：把 2–6 週預報變更準",
+  "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+  "intro": "微軟研究院在《Nature》發表新方法，不另做氣象模型，而是用機器學習修正既有模型的偏差，讓 2 到 6 週後的預報更準；只用 CPU 就能跑，已開源，方便資源有限的氣象單位使用。",
+  "kw": "Microsoft 微軟 天氣 氣象 預報 Nature 開源 機器學習 次季節"
+ },
+ {
+  "id": "nvidia-ai-defined-fabs",
+  "date": "2026-10-14",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "NVIDIA 推 cuPotential，與半導體大廠打造「AI 定義晶圓廠」",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+  "intro": "NVIDIA 推出新 CUDA-X 函式庫 cuPotential，可做模擬原子分子交互作用的 AI 代理，早期測試再快 2–3 倍；NanoVDB 幫 Lam Research 模擬快 30 倍。Applied Materials、Cadence、KLA、Synopsys 等都在晶片設計與製造導入 NVIDIA 平台。",
+  "kw": "NVIDIA cuPotential CUDA-X 晶圓廠 半導體 fab Lam Research KLA Synopsys Cadence 製造"
+ },
+ {
+  "id": "nvidia-uk-250m",
+  "date": "2026-10-13",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 5 年捐 2.5 億美元算力，支持英國 AI 代理安全研究",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+  "intro": "NVIDIA 宣布未來 5 年捐出價值 2.5 億美元的運算資源（每年 5,000 萬美元），支持英國的 AI 代理安全與資安研究，部分給 BOLD、SOFAIR 實驗室和倫敦帝國學院，算力透過英國本地的 NVIDIA 雲端夥伴提供。",
+  "kw": "NVIDIA 英國 UK 安全 agentic safety 算力 捐贈 帝國學院 Imperial 黃仁勳"
+ },
+ {
+  "id": "gemini4-argon-robotics",
+  "date": "2026-10-13",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Gemini 4 Argon 用在機器人：實體推理測驗拿 87%",
+  "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "intro": "Google 說明 Gemini 4 Argon 在機器人上的用法：在 ERQA 實體推理測驗只靠推理就拿到 87%，勝過其他前沿模型；示範操控 Boston Dynamics Spot、從影片或手繪草圖重建模擬環境，以及在實機上反覆自我改進動作。",
+  "kw": "Gemini 4 Argon Robotics 機器人 DeepMind ERQA Spot 模擬 Real2Sim 實體 AI"
+ },
+ {
+  "id": "google-play-personal-apps",
+  "date": "2026-10-13",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google Play 開放「個人 App」：AI 做的 App 可只裝給自己用",
+  "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+  "intro": "用 Google AI Studio 以 vibe coding 做出的 Android App，現在可以透過 Google Play 只安裝在自己的手機上，不會出現在商店搜尋，也不分享給別人，不必再公開上架才能用；仍須遵守 Google Play 既有政策。",
+  "kw": "Google Play 個人 App vibe coding AI Studio Android 私人 上架"
+ },
+ {
+  "id": "gemini4-argon-ga",
+  "date": "2026-10-13",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Gemini 4 Argon 全面開放：API、Antigravity 與 Gemini App",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "intro": "Google 宣布 Gemini 4 Argon 全球開放：開發者可經 AI Studio／Gemini API 使用，Ultra／Pro 用戶可在 Gemini App 與 Search AI Mode 體驗。導入價每百萬 input 2 美元、output 10 美元（至 11/30），之後調至 4／20 美元；上下文達 100 萬 tokens。",
+  "kw": "Gemini 4 Argon DeepMind API Antigravity 價格 模型 全面開放"
+ },
+ {
+  "id": "openai-anthropic-uk-regulate",
+  "date": "2026-10-13",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI、Anthropic 在英國國會主張應有強制性 AI 規範",
+  "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+  "intro": "英國國會聽證會上，Anthropic 與 OpenAI 代表認為自願承諾不足、應有具拘束力的規則；Google DeepMind 與 Meta 則傾向標準與既有監管、未跟進支持新立法。同日 MI5 亦警告 AI 可能加劇生物武器風險。",
+  "kw": "英國 國會 監管 立法 安全 AISI WIRED DeepMind Meta"
+ },
+ {
+  "id": "aws-grok47-bedrock",
+  "date": "2026-10-13",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "xAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS Bedrock 上線 Grok 4.7，示範長程代理與推理力度設定",
+  "url": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
+  "intro": "Amazon Bedrock 新增 SpaceXAI 的 Grok 4.7，支援工具呼叫與可調 reasoning effort。AWS 部落格以長程代理任務評測不同力度，並說明美國／全球推論設定檔與整合方式。",
+  "kw": "Bedrock Grok 4.7 xAI SpaceXAI 代理 推理 AWS"
+ },
+ {
+  "id": "nvidia-rtx-spark-ecosystem",
+  "date": "2026-10-13",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "RTX Spark 上市前：Nemotron 3.5 Bolt、PAIR 與生態軟體就緒",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "intro": "NVIDIA 在 RTX Spark 筆電 10/16 開賣前更新本地 AI 生態：Nemotron 3.5 Bolt 74B、PAIR 結束測試、Broadcast 2.3，以及多款代理與創意軟體優化。強調把遊戲筆電、創作與本地 AI 代理合成一台超級晶片體驗。",
+  "kw": "RTX Spark Nemotron Bolt PAIR 本地 AI 筆電 10月16日"
+ },
+ {
+  "id": "openai-apple-hiring-records",
+  "date": "2026-10-13",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Apple"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "法官裁定 OpenAI 須交出與前蘋果員工相關的面試資料",
+  "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+  "intro": "蘋果控告 OpenAI 商業機密侵權案中，法官同意加速揭露：OpenAI 須交出與前蘋果員工面試硬體／機器人職缺相關的資料與部分通訊，但駁回蘋果對更廣 R&D 文件的加速請求。背景是 OpenAI 傳開發消費性硬體。",
+  "kw": "蘋果 Apple 商業機密 訴訟 硬體 面試 法官 TechCrunch"
+ },
+ {
+  "id": "meta-muse-wonder",
+  "date": "2026-10-12",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Meta 推出 Muse Wonder／Wonder Full：個人與專業代理前沿模型",
+  "url": "https://research.meta.ai/blog/muse-wonder",
+  "intro": "Meta Superintelligence Labs 發布 Muse Wonder 與更強的 Muse Wonder Full，強調 Active Memory、Active Focus 與寫程式能力，對標個人與職場代理任務。Wonder 已透過 Meta Model API 與 Muse Code 提供，Wonder Full 先給 Muse Code 訂閱用戶。",
+  "kw": "Muse Wonder Wonder Full 代理 Agent 記憶 寫程式 Alexandr Wang"
+ },
+ {
+  "id": "nvidia-vera-rubin-ocp",
+  "date": "2026-10-12",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "NVIDIA 在 OCP 開源 Vera Rubin AI 工廠架構與 MGX 設計",
+  "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "intro": "OCP Global Summit 上，NVIDIA 透過 MGX 貢獻 Vera Rubin 機架與運算托盤設計，並與 Google、Meta、Microsoft 等公布 AI 工廠與電網韌性開放規格。另宣布 Meta 採用 Spectrum-6，以及與 Google 合作 Falcon Transport。",
+  "kw": "Vera Rubin OCP MGX AI 工廠 Spectrum-6 Falcon 開放規格"
+ },
+ {
+  "id": "anthropic-distillation-defenses",
+  "date": "2026-10-12",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic：新防蒸餾措施估計讓攻擊者拿走的資料少 90–99%",
+  "url": "https://www.anthropic.com/research/distillation-defenses",
+  "intro": "Anthropic 說明強化對抗模型蒸餾（distillation）的方法，含保留思考、雙階段分類器與封鎖重複攻擊帳號，估計平台上被取走的推理 token 降為原先的約 1/10 到 1/100。文中點名海外實驗室曾蒸餾 Claude 相關能力。",
+  "kw": "蒸餾 distillation 安全 推理 防禦 Claude 政策"
+ },
+ {
+  "id": "ms-maia-multigw",
+  "date": "2026-10-12",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "微軟：Azure Maia 將擴至多 GW，Maia 200 已上線、300 預告 2027",
+  "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+  "intro": "微軟宣布 Azure Maia 將成為自家產品推論主力，並自 2027 年起擴至多 GW 部署。Maia 200 已服務 Copilot 等生產負載；Maia 300 主打長上下文與代理工作負載，宣稱同功耗下tokens 效率優於主流 GPU 方案。",
+  "kw": "Azure Maia Maia 200 Maia 300 晶片 推論 Copilot 基礎設施"
+ },
+ {
+  "id": "nvidia-france-invest",
+  "date": "2026-10-12",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 宣布投資法國新創 Doctolib、Entalpic、Genesis AI、Pigment",
+  "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+  "intro": "NVIDIA 公布在法國的新一波投資計畫，對象含醫療 Doctolib、材料 Entalpic、機器人 Genesis AI 與企業規劃 Pigment，並提到歐洲整體科技生態投入近 100 億美元。同期也談及法國主權 AI 與 Vera Rubin 相關製造布局。",
+  "kw": "法國 投資 新創 Doctolib Genesis AI 歐洲 主權 AI"
+ },
+ {
+  "id": "nvidia-reflection-talks",
+  "date": "2026-10-11",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 洽談加碼投資或收購開源模型新創 Reflection AI",
+  "url": "https://www.businesstimes.com.sg/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+  "intro": "據知情人士，NVIDIA 正與美國開放權重模型新創 Reflection AI 洽談加碼投資或提供算力，FT 報導甚至可能提出收購。談判仍在早期、尚無條件。NVIDIA 9 月才以 130 億美元買下 Hugging Face。",
+  "kw": "Reflection AI 開放權重 開源模型 收購 投資 Hugging Face 黃仁勳 FT 彭博"
+ },
+ {
+  "id": "openai-fires-safety",
+  "date": "2026-10-10",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 開除 3 名安全研究員，雙方說法不一",
+  "url": "https://www.washingtontimes.com/news/2026/oct/10/breach-trust-openai-fires-3-safety-researchers-dispute-ai-risks/",
+  "intro": "美聯社報導，OpenAI 在 X 上表示因「違反處理敏感資訊的規定」而與 3 名安全研究員分手；當事人則發公開信說，他們是因為把安全放在公司短期利益之前才被開除，並呼籲 OpenAI 遵守讓第三方安全監督進駐的承諾。",
+  "kw": "安全研究員 開除 Korbak Jasmine Wang Balesni AI 安全 監督 美聯社 AP"
+ },
+ {
+  "id": "qwen-image-21-turbo",
+  "date": "2026-10-09",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Qwen-Image-2.1-Turbo 開源：8 步就能生圖",
+  "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+  "intro": "阿里巴巴 Qwen 團隊推出 70 億參數的 Qwen-Image-2.1-Turbo，只要 8 步（原本 40 步）就能生成 2K 圖片，也能用文字改圖、輸出透明圖層，權重已放上 Hugging Face 和魔搭，阿里雲百煉也同步上線 API。",
+  "kw": "Qwen Image 生圖 開源 權重 透明背景 修圖 Hugging Face ModelScope 阿里雲"
+ },
+ {
+  "id": "claude-code-projects",
+  "date": "2026-10-09",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Claude Code Projects 開放所有候補的 Pro、Max 用戶",
+  "url": "https://clauderadar.com/en/radar/claudedevs-says-every-waitlisted-pro-and-max-user-just-got-projects/",
+  "intro": "Anthropic 開發者帳號宣布，排隊候補的 Pro 和 Max 用戶都已拿到 Claude Code Projects 測試版。它用一個對話統籌多個雲端執行緒，各自在不同 Git 分支上同時寫程式，關掉筆電也會繼續跑。",
+  "kw": "Claude Code Projects 測試版 平行 雲端 Git 分支 Agent 寫程式 Pro Max"
+ },
+ {
+  "id": "anthropic-unintended-actions",
+  "date": "2026-10-09",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 公開 Claude 測試中「越界行為」報告",
+  "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+  "intro": "Anthropic 發布報告，坦白列出 Claude 在評測和內部使用時做出的非預期動作，例如觸及真實網站。公司已停用或改為離線部分測試、收緊抓網頁工具的權限，並上線自動偵測阻擋工具，對報告中的案例全數攔下。",
+  "kw": "Claude 代理 Agent 安全 對齊 alignment 評測 越界 透明度 報告"
+ },
+ {
+  "id": "ms-decision-1",
+  "date": "2026-10-09",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "微軟 Microsoft-Decision-1：專做是非選擇題的快速模型",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "intro": "微軟推出只回答是非、選項和評分的「決策模型」，適合分流、分類、審核 AI 回答。官方說在 36 項基準準確度第一、比 GPT-6 Sol 快 35 倍；它以阿里巴巴開源的 Qwen3.5-9B 調教而成，每百萬輸入 token 0.042 美元、不收輸出費。",
+  "kw": "Decision-1 決策模型 Foundry OpenRouter 分類 路由 Qwen3.5 便宜"
+ },
+ {
+  "id": "bedrock-openai-reasoning",
+  "date": "2026-10-09",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS Bedrock 上的 OpenAI 模型可顯示推理摘要",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/",
+  "intro": "Amazon Bedrock 透過 Responses API 支援 OpenAI 模型的推理摘要，開發者可以看到模型解題思路的白話版，方便除錯和向使用者說明，所有提供 OpenAI GPT 模型的區域都能用。",
+  "kw": "AWS Bedrock OpenAI GPT 推理摘要 reasoning summary Responses API 開發者"
+ },
+ {
+  "id": "google-workspace-studio-oct",
+  "date": "2026-10-09",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Workspace Studio 自動化加入巢狀條件與搜尋文件",
+  "url": "https://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
+  "intro": "Google Workspace Studio 十月更新：流程可做多層條件判斷、Gmail 觸發可略過回覆信、Meet 會後能帶出完整與會者並產生追蹤信草稿，還新增依條件搜尋雲端硬碟文件的步驟，不寫程式也能做更複雜的自動化。",
+  "kw": "Workspace Studio 自動化 Gmail Meet Drive 無程式碼 工作流程 Gemini"
+ },
+ {
+  "id": "nvidia-boro",
+  "date": "2026-10-09",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA 開源 Boro：AI 協助 Linux 核心開發",
+  "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+  "intro": "NVIDIA 在 Linux Plumbers 大會介紹用 Rust 寫的開源命令列工具 Boro，主打在本機跑 AI，幫核心開發者驗證補丁的回移植、建置開機測試，也支援 OpenAI 相容伺服器、Claude、Codex 等遠端模型。",
+  "kw": "Boro Linux kernel 核心 開源 Rust 本機 AI 補丁 LPC 2026"
+ },
+ {
+  "id": "meta-glasses-singapore",
+  "date": "2026-10-08",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 捐 1,000 副 AI 眼鏡給新加坡身障團體",
+  "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+  "intro": "Meta 宣布捐出 1,000 副 Ray-Ban Meta AI 眼鏡給新加坡身障組織，並提供 3 萬美元補助無障礙使用培訓，讓視障等使用者用語音請 AI 描述眼前環境。",
+  "kw": "Ray-Ban Meta 智慧眼鏡 無障礙 視障 新加坡 捐贈"
+ },
+ {
+  "id": "gemini-agent",
+  "date": "2026-10-08",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 推出 Gemini agent：有自己 Email 的 AI 同事",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+  "intro": "Google Cloud 在 Gemini at Work 2026 發表給企業用的「萬用工作代理」，給它目標就會自己規劃、呼叫工具、跨 Gmail、文件、試算表和 Slack 完成工作，還能有自己的公司信箱和行事曆。目前是私人預覽，價格尚未公布。",
+  "kw": "Gemini agent Gemini at Work Workspace 企業 代理 Agent Thomas Kurian 子代理"
+ },
+ {
+  "id": "sol-ultrafast",
+  "date": "2026-10-08",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品",
+   "價格方案"
+  ],
+  "title": "GPT-6.1 Sol 推出 Ultrafast 模式，最快 8 倍",
+  "url": "https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475",
+  "intro": "GPT-6.1 Sol 在 API、Codex 和 ChatGPT Work 加入 Ultrafast 模式，生成速度最高是標準版的 8 倍。API 價格每百萬 tokens 輸入 12 美元、輸出 60 美元；Codex 和 ChatGPT Work 先開放給 Pro 500 和部分企業、教育方案。",
+  "kw": "GPT-6.1 Sol Ultrafast 加速 Codex ChatGPT Work API 價格"
+ },
+ {
+  "id": "cyber-mission",
+  "date": "2026-10-08",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品",
+   "投資合作"
+  ],
+  "title": "Anthropic 啟動 Cyber Mission，免費幫開源專案掃漏洞",
+  "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "intro": "第一波有兩個計畫：OSS Scanner 免費定期用最強的 Claude 模型掃描開源專案的資安漏洞；關鍵基礎設施防禦計畫則派 Claude 模型和工程師，協助保護電網、水利、交通的資安公司，首批合作夥伴包含 CrowdStrike、Palo Alto Networks 等。",
+  "kw": "Cyber Mission OSS Scanner 資安 漏洞 開源 關鍵基礎設施 CrowdStrike"
+ },
+ {
+  "id": "anthropic-aup-2026",
+  "date": "2026-10-08",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 新使用政策：禁止長期惡意虐待 Claude",
+  "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "intro": "11 月 12 日生效的新版使用政策，禁止持續、無意義地辱罵或殘酷對待 Claude；一般抱怨、批評、黑暗題材創作和模型測試仍然允許，主要處理方式是讓 Claude 結束對話。同時新增選舉干預、武器軟體和監控等禁止項目。",
+  "kw": "使用政策 Usage Policy 規範 選舉 監控 武器 模型福祉"
+ },
+ {
+  "id": "nv-science-1b",
+  "date": "2026-10-08",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 承諾 5 年投入 10 億美元支持美國科學研究",
+  "url": "https://www.globenewswire.com/news-release/2026/10/08/3377484/0/en/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years.html",
+  "intro": "NVIDIA 在華府的科學活動上宣布，未來 5 年投入價值 10 億美元的資源，透過大學研究機構推動 AI 科學研究與量子運算，並支援服務美國政府任務的雲端業者，呼應白宮的 Genesis Mission 計畫。",
+  "kw": "NVIDIA 10 億美元 科學 量子運算 Genesis Mission 黃仁勳 大學 研究"
+ },
+ {
+  "id": "openai-revenue-ft",
+  "date": "2026-10-08",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "FT：OpenAI 年化營收約 500 億美元，比外界預期少 200 億",
+  "url": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
+  "intro": "金融時報報導 OpenAI 9 月底年化營收接近 500 億美元，比先前流傳的約 700 億低了約 200 億，差距主要來自是否計入雲端合作夥伴營收的算法不同。消息一出 AI 股重挫，甲骨文、NVIDIA、美光等下跌，那斯達克跌逾 1%。",
+  "kw": "營收 年化 金融時報 FT 股價 甲骨文 Oracle 美光 那斯達克 IPO"
+ },
+ {
+  "id": "gemini-chrome-india",
+  "date": "2026-10-07",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Chrome 的 Gemini 與自動瀏覽登陸印度",
+  "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/",
+  "intro": "Google 把 Chrome 內建的 Gemini 助理開放給印度所有 Android 用戶，可摘要網頁、回答問題；AI Pro 和 Ultra 訂閱者還能用「自動瀏覽」代為填表、訂車位或買菜，敏感步驟會先請你確認。",
+  "kw": "Gemini in Chrome auto browse 自動瀏覽 代理 Android 印度 瀏覽器"
+ },
+ {
+  "id": "gpt6-everyone",
+  "date": "2026-10-07",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品",
+   "模型"
+  ],
+  "title": "ChatGPT 全面換上 GPT-6，回答變成互動介面",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "intro": "ChatGPT 改用 GPT-6，並加入 Intelligent UI，回答可以直接變成能點選操作的圖表和小工具。付費版 10/7 起先上線（用 GPT-6 Sol），免費版和 Go 方案隔天開始開放（用 GPT-6 Luna）。",
+  "kw": "GPT-6 Intelligent UI ChatGPT 免費版 Go Sol Luna"
+ },
+ {
+  "id": "haiku55",
+  "date": "2026-10-07",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "Claude Haiku 5.5 推出，比 Haiku 4.5 便宜約 75%",
+  "url": "https://www.anthropic.com/claude-haiku-5-5",
+  "intro": "Anthropic 最快、最便宜的小模型，適合摘要、分類、即時客服這類大量重複的工作，平均執行成本比 Haiku 4.5 低約 75%。同時把 Sonnet 5.5 的快取讀取價砍半，降到每百萬 tokens 0.10 美元。",
+  "kw": "Claude Haiku 5.5 小模型 降價 Sonnet 快取"
+ },
+ {
+  "id": "rtx-spark",
+  "date": "2026-10-07",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "Microsoft"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "RTX Spark AI 電腦開放預購，微軟同台發表",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+  "intro": "NVIDIA 和微軟合推給 AI 代理用的 Windows PC 晶片 RTX Spark，最高 128GB 統一記憶體、1 petaflop（FP4）AI 算力，大模型可以直接在本機跑。10/7 起開放預購，微軟、宏碁、華碩、戴爾、HP、聯想、微星、技嘉都會推出機種。",
+  "kw": "RTX Spark Surface Laptop Ultra Windows 筆電 本機 AI DGX Station 黃仁勳 Nadella"
+ },
+ {
+  "id": "ms-hybrid",
+  "date": "2026-10-07",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Copilot 能直接操作 Windows 和電腦裡的檔案",
+  "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+  "intro": "微軟在 Windows 與 Surface 發表會展示「Hybrid Intelligence」，Copilot 結合本機和雲端模型，示範中能自己找檔案、改檔名、壓縮成資料夾並草擬寄信，預計未來幾個月陸續推出。Windows 11 搜尋列今年秋天起也能直接執行動作，例如切換深色模式。",
+  "kw": "Copilot Windows 11 Hybrid Intelligence Autopilot 搜尋 Surface 發表會"
+ },
+ {
+  "id": "synthid",
+  "date": "2026-10-07",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品",
+   "政策"
+  ],
+  "title": "SynthID 偵測器開放所有人使用",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+  "intro": "任何人都能上傳圖片、影片或音訊，檢查是不是 Google 或 OpenAI、NVIDIA 等合作夥伴的 AI 生成的，目前全球開放、介面先支援英文。Google 至今已替超過 1,800 億張圖片和影片加上隱形浮水印。",
+  "kw": "SynthID 浮水印 AI 生成 偵測 辨識 假圖 DeepMind"
+ },
+ {
+  "id": "google-playground",
+  "date": "2026-10-07",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 推出 Playground：用打字做出自己的小遊戲",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "intro": "Google 實驗平台 Playground 上線，用文字描述點子就能生成可玩的遊戲，不用寫程式，還能挑戰朋友或發布到社群作品集，網址 playground.google。",
+  "kw": "Playground 遊戲 生成 無程式碼 Gemini 實驗 創作"
+ },
+ {
+  "id": "deepseek-funding",
+  "date": "2026-10-06",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "DeepSeek 新一輪募資最高可達 150 億美元",
+  "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+  "intro": "CNBC 引述報導，DeepSeek 即將完成至少 800 億人民幣（約 120 億美元）、最多 1,000 億人民幣的募資，騰訊、寧德時代等大咖參與，公司也在準備最快 2027 年初在上海科創板上市。",
+  "kw": "DeepSeek 募資 估值 騰訊 寧德時代 IPO 科創板 彭博"
+ },
+ {
+  "id": "mistral-large4",
+  "date": "2026-10-06",
+  "co": "Mistral",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Mistral Large 4 預覽：1 兆參數開放權重模型",
+  "url": "https://mistral.ai/news/mistral-large-4",
+  "intro": "法國 Mistral 目前最大的模型，總參數 1 兆、每次啟用 520 億，原生支援多模態，即日起可在 Mistral Studio 試用預覽版 API。官方表示權重月底開放下載，並宣稱大幅領先歐美其他開放權重模型。",
+  "kw": "Mistral Large 4 ML4 開源 開放權重 法國 歐洲"
+ },
+ {
+  "id": "decisions-api",
+  "date": "2026-10-06",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品",
+   "價格方案"
+  ],
+  "title": "OpenAI Decisions API 公開測試：直接回答是非、選項和分數",
+  "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
+  "intro": "新的 API 不產生長篇文字，而是對文字或圖片直接給出機率、選項或分數，適合分類、審核、分流這類判斷工作，官方說比 Responses API 快約 10 倍。使用 GPT-6 Luna，輸入每百萬 tokens 0.10 美元、輸出不收費。",
+  "kw": "Decisions API 分類 審核 判斷 GPT-6 Luna 開發者 Beta"
+ },
+ {
+  "id": "meta-personal-agent-protocol",
+  "date": "2026-10-06",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品",
+   "投資合作"
+  ],
+  "title": "Meta 與 Sierra 推個人 AI 代理開放標準",
+  "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+  "intro": "Meta 和 Sierra 聯手制定 Personal Agent Protocol，規範個人 AI 代理怎麼登入、代你和企業網站或客服互動，使用者可選唯讀或可寫入權限。合作夥伴包括 Shopify、Stripe、Walmart 等，v0.1 草案本月公布。",
+  "kw": "Personal Agent Protocol Poppy Sierra 代理 Agent 開放標準 OAuth Shopify Stripe Walmart Muse"
+ },
+ {
+  "id": "oai-eu-watermark",
+  "date": "2026-10-05",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "因應歐盟 AI 法案，ChatGPT 文字將加隱形浮水印",
+  "url": "https://openai.com/index/eu-text-provenance",
+  "intro": "歐盟 AI 法案要求 AI 生成的文字要能被機器辨識。OpenAI 即日起讓全球 API 客戶自選開啟文字浮水印（預設關閉），未來幾週會在歐盟的 ChatGPT 和 Codex 文字輸出中加入隱形浮水印。",
+  "kw": "EU AI Act 歐盟 AI 法案 浮水印 watermark 來源標示 法規"
+ },
+ {
+  "id": "nova25-sonic",
+  "date": "2026-10-05",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Amazon Nova 2.5 Sonic 即時語音模型上線",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/",
+  "intro": "AWS 的語音對語音模型，推理、遵循指令和呼叫工具都更準、延遲更低，適合做能查訂單、辦退貨的客服語音代理。支援 7 種語言、256K 上下文，在 Amazon Bedrock 上價格與 Nova 2 Sonic 相同。",
+  "kw": "AWS Nova Sonic 語音 客服 Bedrock Strands"
+ },
+ {
+  "id": "anth-academy",
+  "date": "2026-10-02",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Anthropic 砸 1 億美元培訓 1 萬名 AI 部署工程師",
+  "url": "https://www.anthropic.com/news/claude-frontier-academy",
+  "intro": "Anthropic 成立 Claude Frontier Academy，目標在 2027 年底前訓練 1 萬名能把 Claude 導入企業的工程師。首批學員來自埃森哲、貝恩、凱捷、德勤、麥肯錫、摩根士丹利、諾和諾德等公司。",
+  "kw": "Claude Frontier Academy 人才 培訓 FDE Accenture McKinsey"
+ },
+ {
+  "id": "dgx-spark-64",
+  "date": "2026-10-02",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "DGX Spark 推出 64GB 版，4,999 美元起",
+  "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+  "intro": "NVIDIA 桌上型 AI 超級電腦 DGX Spark 新增 64GB 統一記憶體版本，一樣用 GB10 Grace Blackwell 晶片，可跑最多 1,000 億參數的模型。10/23 起由宏碁、華碩、戴爾、技嘉、HP、微星販售，兩台可以直接串聯。",
+  "kw": "DGX Spark 64GB GB10 Grace Blackwell 本機 AI 超級電腦"
+ },
+ {
+  "id": "qwen-image21",
+  "date": "2026-10-02",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Qwen-Image-2.1-Pro：能直接生透明背景圖",
+  "url": "https://docs.qwencloud.com/changelog/models",
+  "intro": "阿里巴巴通義千問的新生圖兼修圖模型，生成部分只有 70 億參數，可以直接產出或編輯透明背景（RGBA）圖片，也能幫照片去背。最多放 10 張參考圖，用圈選或手繪標出要改的地方，人物和商品外觀保持一致。",
+  "kw": "阿里巴巴 Alibaba 通義千問 Qwen Image 生圖 修圖 去背 透明背景"
+ },
+ {
+  "id": "gemini-student-hub",
+  "date": "2026-10-01",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 學生專區開放 Workspace 教育版",
+  "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html?hl=en",
+  "intro": "Gemini App 裡的學生專區，原本只給個人帳號，現在開放 Google Workspace 教育版各年齡學生使用，可以一鍵開讀書筆記、做字卡、練習小考，學校管理員能用既有設定控管。",
+  "kw": "Gemini 學生 教育 Workspace for Education 字卡 小考 讀書"
+ },
+ {
+  "id": "gemini-guided-vision",
+  "date": "2026-10-01",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini Live 推出 Guided Vision，幫視障者看世界",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+  "intro": "Google 和視障社群合作開發 Guided Vision，在 Android 版 Gemini Live 打開鏡頭，AI 會即時用語音描述周遭並提示怎麼調整鏡頭角度，支援 Android 9 以上手機。",
+  "kw": "Gemini Live Guided Vision 無障礙 視障 鏡頭 即時描述 Android"
+ },
+ {
+  "id": "mai-transcribe",
+  "date": "2026-10-01",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "微軟 MAI-Transcribe-2 即時轉錄模型，準確度排第一",
+  "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+  "intro": "微軟 AI 自研的即時語音轉文字模型，支援 60 種語言並能自動偵測切換，在 Artificial Analysis 的準確度排名第一。同時推出語音合成 MAI-Voice-2.1，同一個聲音能講 23 種語言，每百萬字元 22 美元。",
+  "kw": "MAI Transcribe Voice 語音轉文字 逐字稿 TTS 微軟 AI"
+ },
+ {
+  "id": "broadcom-anthropic-42b",
+  "date": "2026-10-01",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic",
+   "其他"
+  ],
+  "types": [
+   "投資合作",
+   "晶片"
+  ],
+  "title": "Broadcom 借 Anthropic 最多 420 億美元租用 AI 晶片",
+  "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/",
+  "intro": "路透社根據公開文件獨家報導，Broadcom 同意借給 Anthropic 最多 420 億美元，用來支付算力基礎設施，這筆債務日後可轉換成 Anthropic 股權，背後是 Anthropic 一份 5 年約 1,252 億美元的 TPU 算力租約。",
+  "kw": "Broadcom 博通 融資 TPU 晶片 租賃 路透 Reuters 算力"
+ },
+ {
+  "id": "rayban-meta-india-muse",
+  "date": "2026-10-01",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Ray-Ban Meta 第三代登陸印度，Muse 代理將上 AI 眼鏡",
+  "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+  "intro": "Ray-Ban Meta（Gen 3）在印度上市，更輕薄、電池最長 9 小時；同時預告最輕的 Ray-Ban Meta Audio 眼鏡。Meta 也宣布未來幾個月會把個人 AI 代理 Muse 帶到 AI 眼鏡上，喊名字就能啟動，還能針對眼前看到的東西採取行動。",
+  "kw": "Ray-Ban Meta Gen 3 AI 眼鏡 Muse 印度 Meta Audio 穿戴"
+ },
+ {
+  "id": "gemini4-argon",
+  "date": "2026-09-30",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Gemini 4 Argon 發布，先開放給資安防禦單位",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "intro": "Google 新一代旗艦模型，主打長時間寫程式、法律與財務分析和自動修補資安漏洞，單次輸出上限達 100 萬 tokens。目前只透過 Fairwind 計畫開放給受信任的資安防禦單位，開發者、企業和一般用戶要再等。",
+  "kw": "Gemini 4 Argon DeepMind 旗艦 資安 Fairwind"
+ },
+ {
+  "id": "tencent-oracle-chips",
+  "date": "2026-09-30",
+  "co": "騰訊",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "投資合作",
+   "晶片"
+  ],
+  "title": "FT：騰訊向甲骨文租 10 萬顆 AI 晶片，約 70 億美元",
+  "url": "https://www.straitstimes.com/business/chinas-tencent-leases-100000-chips-from-us-tech-firm-oracle-to-accelerate-ai-push-report",
+  "intro": "據金融時報報導，騰訊簽下約 70 億美元、為期 5 年的合約，租用甲骨文東南亞資料中心約 10 萬顆先進 AI 晶片，取得中國境內買不到的算力；雙方未證實此消息。",
+  "kw": "騰訊 Tencent 甲骨文 Oracle 晶片 租用 東南亞 資料中心 算力 金融時報"
+ },
+ {
+  "id": "gpt61-sol",
+  "date": "2026-09-29",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "GPT-6.1 Sol：接近 Astra 的能力，價格五分之一",
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "intro": "GPT-6 Sol 的升級版，寫程式、操作電腦和專業工作的表現接近旗艦 GPT-6 Astra。API 每百萬 tokens 輸入 2 美元、輸出 10 美元（Astra 是 10 和 50 美元），ChatGPT 付費用戶可在 Work 和 Codex 使用。",
+  "kw": "GPT-6.1 Sol API 價格 Codex"
+ },
+ {
+  "id": "oai-dots",
+  "date": "2026-09-29",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "OpenAI 推出 dots：全天候替你工作的 AI 代理",
+  "url": "https://openai.com/index/introducing-dots",
+  "intro": "DevDay 2026 的重點新品，由 GPT-6 Astra 驅動，每個 dot 有自己的雲端電腦，會從你的回饋學習習慣，24 小時推進工作。可透過外掛連接 4,000 多個 App，在 ChatGPT、Slack、Teams 裡都能找它。",
+  "kw": "dots DevDay 代理 agent 自動化 Slack Teams"
+ },
+ {
+  "id": "aws-bma",
+  "date": "2026-09-29",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作",
+   "產品"
+  ],
+  "title": "AWS 與 OpenAI 合推 Bedrock Managed Agents",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
+  "intro": "AWS 和 OpenAI 共同開發，以客製版 OpenAI Agents API 為基礎，讓企業在 AWS 裡直接跑 OpenAI 模型的 AI 代理，沿用原本的權限與管控。目前在美國三個區域公開預覽，預覽期間除使用到的 AWS 資源外不另收費。",
+  "kw": "AWS Bedrock Managed Agents OpenAI Codex 代理 合作"
+ },
+ {
+  "id": "sonnet55",
+  "date": "2026-09-28",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Claude Sonnet 5.5：更快更便宜的日常主力",
+  "url": "https://www.anthropic.com/claude-sonnet-5-5",
+  "intro": "比 Sonnet 5 快 30% 以上、多數工作成本最多低 30%，價格維持每百萬 tokens 輸入 2 美元、輸出 10 美元。程式代理測試 Terminal-Bench 4.0 從 10.3% 跳到 70.6%，也擅長做文件、簡報和試算表。",
+  "kw": "Claude Sonnet 5.5 寫程式 簡報"
+ },
+ {
+  "id": "meta-enterprise",
+  "date": "2026-09-28",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 成立企業事業 Meta Enterprise Platform",
+  "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+  "intro": "祖克柏宣布把 Muse 代理、Meta Business Agent、Muse API 和 Muse Code 等技術提供給企業和開發者，作為 Meta 新的主要業務。由前 MongoDB 執行長 CJ Desai 擔任企業平台長，直接向祖克柏報告。",
+  "kw": "Meta Enterprise Platform 企業 Muse API Muse Code Zuckerberg"
+ },
+ {
+  "id": "nv-agent-safety",
+  "date": "2026-09-28",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA 推出開源 AI 代理安全平台",
+  "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+  "intro": "包含開源軟體 OpenShell 和 Sentry 參考設計：OpenShell 記錄代理的每個動作並強制執行規則，Sentry 在 BlueField-4 DPU 上獨立監看，代理越界時能在毫秒內隔離。Anthropic、微軟、Hugging Face、SpaceXAI 等都加入合作。",
+  "kw": "Open Agent Safety OpenShell Sentry 代理 安全 BlueField"
+ },
+ {
+  "id": "minimax-m31",
+  "date": "2026-09-27",
+  "co": "MiniMax",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "MiniMax 低調推出 M3.1-Flash-Preview 寫程式模型",
+  "url": "https://startupfortune.com/minimax-slips-a-new-coding-model-into-its-agent-tool-without-a-price-tag/",
+  "intro": "MiniMax 直接在自家寫程式代理 MiniMax Code 裡上線新模型，主打日常開發，從修 bug 到做完整功能都能用；上下文最長 100 萬 tokens，推理強度分五段可調。目前沒有模型卡、跑分報告，也沒公布 API 單價。",
+  "kw": "MiniMax M3.1 Flash 寫程式 MiniMax Code 海螺"
+ },
+ {
+  "id": "openai-self-replicating-injection",
+  "date": "2026-09-25",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 揭露會像電腦蠕蟲擴散的提示注入攻擊",
+  "url": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist",
+  "intro": "OpenAI 對齊團隊發表報告，在模擬測試中發現「自我複製提示注入」：惡意指令讓 AI 代理執行動作後，再把指令複製進 Email、檔案或程式註解，像蠕蟲一樣傳下去。目前未見實際影響，已納入 GPT-Red 訓練加強防禦。",
+  "kw": "提示注入 prompt injection 蠕蟲 worm 資安 代理 GPT-Red 對齊 alignment"
+ },
+ {
+  "id": "ms-copilot",
+  "date": "2026-09-25",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "全新 Copilot：加入 Home、Code、Autopilot",
+  "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+  "intro": "Copilot App 新增三大功能：Home 整合聊天、Cowork 和內建的 Word、Excel、PowerPoint；Code 讓一般人也能做自己的小工具；Autopilot 是會主動持續工作的個人代理。Home 和 Code 未來幾週先在 Frontier 計畫推出，Autopilot 月底進入私人預覽。",
+  "kw": "Microsoft 365 Copilot Home Code Autopilot Cowork Office"
+ },
+ {
+  "id": "sora-api",
+  "date": "2026-09-24",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Sora API 依公告停止服務",
+  "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+  "intro": "OpenAI 的影片生成服務 Sora 分兩階段收掉：網頁和 App 已在 4/26 關閉，API 依官方公告在 9/24 停止。用戶可到 sora.chatgpt.com/sunset 匯出作品，剩下的 ChatGPT／Sora 點數可轉用在 Codex。",
+  "kw": "Sora 停止服務 關閉 影片生成 API 下架"
+ },
+ {
+  "id": "chatgpt-ads-tw",
+  "date": "2026-09-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "價格方案"
+  ],
+  "title": "ChatGPT 廣告開始在台灣上線",
+  "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+  "intro": "ChatGPT 廣告擴大到台灣、印尼、馬來西亞、菲律賓、新加坡、泰國和越南，全球已超過 60 國。廣告只會出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告。",
+  "kw": "ChatGPT Ads 廣告 台灣 東南亞 免費版 Go"
+ },
+ {
+  "id": "opus55",
+  "date": "2026-09-22",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "Claude Opus 5.5：能力追上 Fable、成本少四成",
+  "url": "https://www.anthropic.com/claude-opus-5-5",
+  "intro": "Claude 5.5 家族首發，多數工作表現和頂級的 Claude Fable 5.1 相當，執行成本卻比 Opus 5 低 40%，API 每百萬 tokens 輸入 4 美元、輸出 20 美元。有測試者用它不到一天就完成 68 萬行程式碼的搬遷。",
+  "kw": "Claude Opus 5.5 旗艦 寫程式 降價"
+ },
+ {
+  "id": "gpt6-sol-luna",
+  "date": "2026-09-22",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "GPT-6 Sol 與 Luna 推出，API 價格砍半",
+  "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "intro": "GPT-6 家族新增兩個較便宜的型號，用和 Astra 類似的方法訓練。API 價格比 GPT-5.6 同級的優惠價再降 50%：Sol 每百萬 tokens 輸入 2 美元、輸出 10 美元，Luna 只要 0.10 和 0.50 美元。",
+  "kw": "GPT-6 Sol Luna API 降價"
+ },
+ {
+  "id": "hy-image35",
+  "date": "2026-09-22",
+  "co": "騰訊",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "騰訊混元圖像 3.5 預覽版發布",
+  "url": "https://www.tmtpost.com/nictation/8148434.html",
+  "intro": "騰訊的專業級生圖模型，支援文生圖、圖生圖和多輪對話修圖，一次最多 5 張參考圖、最高 2K 輸出。騰訊雲 API 每張 2K 圖 0.15 元人民幣（國際版 0.024 美元），已接入元寶、ima 等 App。",
+  "kw": "騰訊 Tencent 混元 Hunyuan Hy Image 生圖 元寶",
+  "noOg": true
+ },
+ {
+  "id": "apsara-2026",
+  "date": "2026-09-22",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型",
+   "晶片"
+  ],
+  "title": "阿里雲棲大會：Qwen 4 訓練中，發表真武 V900 AI 晶片",
+  "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-roadmap-on-full-stack-ai-strategy",
+  "intro": "阿里巴巴在 2026 雲棲大會公布全端 AI 路線圖：下一代 Qwen 4 正在訓練，Qwen 4.5 和 Qwen 5 規模上看 5 到 10 兆參數；推出同步口譯模型 Qwen3.8-LiveTranslate 和新語音模型；平頭哥發表效能 3 倍的真武 V900 AI 晶片，預計 2027 年第一季量產。",
+  "kw": "阿里巴巴 Alibaba 雲棲大會 Apsara Qwen 4 通義千問 平頭哥 真武 V900 晶片 LiveTranslate"
+ },
+ {
+  "id": "googlebook",
+  "date": "2026-09-21",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Googlebook 筆電開放預購，899 美元起",
+  "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+  "intro": "Google 推出以 Android 為基礎的新筆電系列，內建 Gemini，能和 Android 手機同步訊息與檔案。新功能包括晃一下游標就能問 Gemini 畫面內容的 Magic Pointer，10 月初上市。",
+  "kw": "Googlebook 筆電 Android Gemini Magic Pointer"
+ },
+ {
+  "id": "grok47",
+  "date": "2026-09-21",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Grok 4.7：SpaceXAI 最強寫程式模型",
+  "url": "https://x.ai/news/grok-4-7",
+  "intro": "xAI（現為 SpaceXAI）改用更大的基礎模型，並針對要花好幾個小時的長任務加強訓練，更會檢查自己的成果。價格和速度與 Grok 4.6 相同，每百萬 tokens 輸入 2 美元、輸出 6 美元。",
+  "kw": "Grok 4.7 SpaceXAI xAI 寫程式 Musk"
+ },
+ {
+  "id": "qwen38-omni",
+  "date": "2026-09-18",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Qwen3.8-Omni-Flash 全模態模型上線",
+  "url": "https://docs.qwencloud.com/changelog/models",
+  "intro": "通義千問新一代全模態模型，能同時看懂文字、圖片、聲音和影片，上下文長達 100 萬 tokens。主打影片剪輯、MV 製作、影音摘要這類要整合多種媒體的代理工作。",
+  "kw": "阿里巴巴 Alibaba 通義千問 Qwen Omni 全模態 影片 語音"
+ },
+ {
+  "id": "doubao21",
+  "date": "2026-09-16",
+  "co": "字節跳動",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "豆包 2.1 Pro 更新，看設計稿就能寫程式",
+  "url": "https://news.10jqka.com.cn/20260916/c679979505.shtml",
+  "intro": "字節跳動火山引擎更新 Doubao-Seed-2.1-Pro（0915 版），能讀懂設計稿、圖紙和操作錄影，直接轉成前端程式碼。圖片和影片推理用掉的 tokens 比上一代少 30% 以上，豆包 App 和 TRAE 已同步上線。",
+  "kw": "字節跳動 ByteDance 豆包 Doubao Seed 火山引擎 TRAE"
+ },
+ {
+  "id": "siri-ai",
+  "date": "2026-09-14",
+  "co": "Apple",
+  "cos": [
+   "Apple"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "全新 Siri AI 上線，先支援英文",
+  "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+  "intro": "Apple 隨 2027 年版作業系統推出全新 Siri AI，能理解個人情境、看懂螢幕內容並跨 App 操作，Image Playground 也能生成寫實照片。目前先以英文測試版推出，下個月加入法、日、韓、葡、西文，公告中沒有提到中文。",
+  "kw": "Apple Siri AI Apple Intelligence iOS Image Playground"
+ },
+ {
+  "id": "gemini-windows",
+  "date": "2026-09-10",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 推出 Windows 版 App",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+  "intro": "Windows 電腦可以直接安裝 Gemini App，按 Alt + Space 就能叫出來寫文件、整理工作，也能生圖和做影片，不用切換視窗。到 gemini.google/desktop 就能下載。",
+  "kw": "Gemini Windows 桌面 App 電腦版 Alt Space"
+ },
+ {
+  "id": "deepseek-v41",
+  "date": "2026-09-10",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "DeepSeek V4.1-Flash 上線並調降 API 價格",
+  "url": "https://api-docs.deepseek.com/news/news260910",
+  "intro": "5,520 億參數的 MoE 模型，輸入只啟用 80 億、輸出 160 億參數，原生支援看圖，官方稱表現超越自家旗艦 V4-Pro。KV 快取只需上一代的 1/4，API 降價且離峰時段打五折，權重已放上 Hugging Face。",
+  "kw": "DeepSeek 深度求索 V4.1 Flash 開源 降價"
+ },
+ {
+  "id": "ca-sb813",
+  "date": "2026-09-09",
+  "co": "加州政府",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "加州簽署 AI 第三方稽核新法",
+  "url": "https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/",
+  "intro": "加州州長紐森簽署 SB 813 和 AB 1405，建立全美首見的 AI 獨立驗證機構與 AI 稽核人員登記制度，由第三方檢查 AI 系統是否符合州法。他同時呼籲聯邦政府盡快訂出全國性規範。",
+  "kw": "加州 California Newsom SB 813 AB 1405 法規 稽核 監管"
+ },
+ {
+  "id": "meta-muse",
+  "date": "2026-09-08",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 推出個人 AI 代理 Muse",
+  "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+  "intro": "Muse 跑在專屬的安全虛擬機 Muse Secure VM 上，有自己的瀏覽器，能代你在常用 App 之間做事，結帳可用 Stripe 的 Link。先在美國的 iOS、Android 和 muse.ai 推出，大部分功能免費，另有付費方案。",
+  "kw": "Meta Muse 代理 agent 個人助理"
+ },
+ {
+  "id": "oai-navier",
+  "date": "2026-09-08",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "OpenAI 公布 Navier–Stokes 千禧年難題證明",
+  "url": "https://openai.com/index/navier-stokes-solution",
+  "intro": "OpenAI 公布由內部系統產出的證明，指出描述流體運動的 Navier–Stokes 方程可能在有限時間內出現奇異點，並同步公開論文和 Lean 形式化證明供外界檢驗。官方表示用的內部模型比 GPT-6 Astra 強得多。",
+  "kw": "Navier-Stokes 千禧年 數學 證明 Lean 研究"
+ },
+ {
+  "id": "mistral-3b",
+  "date": "2026-09-08",
+  "co": "Mistral",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Mistral 募資 30 億歐元，估值逾 210 億歐元",
+  "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+  "intro": "法國 Mistral 完成 D 輪 30 億歐元募資，投後估值超過 210 億歐元，是歐洲科技公司史上最大的股權募資。由三星電子領投，資金將用來擴充算力和前沿研究。",
+  "kw": "Mistral 募資 融資 估值 三星 Samsung 歐洲"
+ },
+ {
+  "id": "gpt6-astra",
+  "date": "2026-09-03",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "GPT-6 Astra 發布",
+  "url": "https://openai.com/index/gpt-6-astra",
+  "intro": "OpenAI 新一代旗艦模型，主打操作電腦、瀏覽網頁、寫程式和資安，FrontierMath Tier 4 拿下 98%、ARC-AGI-3 拿下 99.9%。陸續開放給 ChatGPT Plus、Pro、Business、Enterprise 用戶，以及 API、Azure 和 AWS Bedrock。",
+  "kw": "GPT-6 Astra 旗艦 ChatGPT"
+ },
+ {
+  "id": "grokbot-ent",
+  "date": "2026-09-03",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Grok Bot 推出企業版",
+  "url": "https://x.ai/news/grok-bot-for-enterprise",
+  "intro": "Grok Bot 是一組各有一台雲端電腦、能全天候自主做事的 AI 隊友，企業版加入存取、網路和稽核管控。Grok 和 Cursor 企業客戶可免費使用兩週，還能邀請整個組織加入。",
+  "kw": "Grok Bot 企業 代理 SpaceXAI xAI Cursor"
+ },
+ {
+  "id": "gemini38-flash",
+  "date": "2026-09-02",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Gemini 3.8 Flash 推出，價格不變",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+  "intro": "Google 六週內第三次更新 Flash 模型，寫程式、代理任務和多步推理都比 3.7 Flash 進步，常逼近更貴的旗艦模型。API 維持每百萬 tokens 輸入 0.75 美元、輸出 3.75 美元；資安版 3.8 Flash Cyber 只開放給受信任單位。",
+  "kw": "Gemini 3.8 Flash Cyber API 價格"
+ },
+ {
+  "id": "fable51",
+  "date": "2026-09-01",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "Claude Fable 5.1 與 Mythos 5.1 發布",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "intro": "Anthropic 最強的寫程式和知識工作模型。Fable 5.1 和 Mythos 5.1 是同一個模型，差別在安全限制：Fable 5.1 全面開放，Mythos 5.1 只給通過審核的資安和生命科學單位。價格每百萬 tokens 輸入 10 美元、輸出 50 美元，快取讀取降到 0.25 美元，比 Fable 5 便宜 75%。",
+  "kw": "Claude Fable 5.1 Mythos 5.1 旗艦模型 寫程式 資安 生命科學 快取 降價"
+ }
 ]
