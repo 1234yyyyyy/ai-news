@@ -1,5 +1,158 @@
 [
  {
+  "id": "meta-muse-spark-open",
+  "date": "2026-10-15",
+  "co": "Meta",
+  "cos": [
+   "Meta",
+   "Apple"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Meta 開源 Muse Spark Open：816B MoE，可在兩台 Mac Studio 本機跑",
+  "url": "https://research.meta.ai/blog/muse-spark-open",
+  "intro": "Meta 釋出 Muse Spark Open 權重，自稱迄今最強美國開源權重模型：總參數 816B（每 token 啟動 42B）、100 萬 token 上下文，主打寫程式與代理任務。官方表示可用兩台搭載 Apple M5 Ultra 的 Mac Studio，搭配 MLX 在桌面本機執行。",
+  "kw": "Meta Muse Spark Open 開源 MoE 816B Apple Mac Studio MLX Hugging Face"
+ },
+ {
+  "id": "nvidia-nemotron-35-super-vl",
+  "date": "2026-10-15",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "NVIDIA 推出 Nemotron 3.5 Super VL 與 Bolt：開源多模態代理模型",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "intro": "NVIDIA 發布開源 Nemotron 3.5 Super VL（120B MoE、每 token 啟動 12B），整合文字、影像、文件與影片理解，主打企業常駐代理；同日推出面向本機的 Bolt 74B-A9B（24GB）與稍後上線的 Bolt E4B。官方稱 Super VL 在同級開源模型中任務吞吐可達約 5 倍。",
+  "kw": "NVIDIA Nemotron 3.5 Super VL Bolt 開源 多模態 代理 MoE DGX Spark"
+ },
+ {
+  "id": "openai-rosalind-academic",
+  "date": "2026-10-15",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品",
+   "價格方案"
+  ],
+  "title": "OpenAI 推 Rosalind Academic Plan：學術實驗室可免費用 GPT-Rosalind",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+  "intro": "OpenAI 推出 Rosalind Academic Plan，美國大學合格實驗室最多可獲 30 個 Business Standard 席位、長達 12 個月免費，經信任存取審核後可用生命科學專用模型 GPT-Rosalind 與 Rosalind Workbench。預設不拿研究資料訓練模型，目前不含 API。",
+  "kw": "OpenAI GPT-Rosalind Academic Plan 學術 生命科學 免費 實驗室"
+ },
+ {
+  "id": "deepmind-antigravity-amp",
+  "date": "2026-10-15",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "DeepMind：用 Google Antigravity 加速尋找抗微生物胜肽候選",
+  "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "intro": "Google DeepMind 示範以代理式科學工作台 Antigravity，搭配 ProtNLM 與 AlphaFold 結構資料庫，從 UniProt 未註解序列中篩出肺炎鏈球菌相關的新抗微生物胜肽候選，並產生實驗計畫；該候選目前進入濕實驗驗證。",
+  "kw": "DeepMind Google Antigravity 抗微生物胜肽 AMP ProtNLM AlphaFold 科學"
+ },
+ {
+  "id": "ms-mai-base-2",
+  "date": "2026-10-15",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "微軟完成 MAI-Base-2 預訓練：80B 啟動／2.8T 總參數 MoE",
+  "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+  "intro": "Microsoft AI 宣布完成 MAI-Base-2 預訓練，為 80B 啟動、2.8 兆總參數的 MoE 基礎模型，用約 1.6 萬顆 GB200、訓練 38 天。官方稱在內部留存評測勝過所測開源權重基座，且預訓練 FLOPs 效率約為 DeepSeek-V4-Pro-Base 的 4–12 倍；模型正進行後訓練。",
+  "kw": "Microsoft MAI-Base-2 預訓練 MoE GB200 DeepSeek Foundry"
+ },
+ {
+  "id": "simons-openai-anthropic-15m",
+  "date": "2026-10-15",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Simons 基金會聯手 OpenAI、Anthropic：砸 1,500 萬美元助數學界應對 AI",
+  "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+  "intro": "Simons Foundation 與 OpenAI、Anthropic 合計投入 1,500 萬美元與資源，由基金會管理並公開徵件，支持工作坊與計畫，協助數學家檢驗 AI 產出結果、學習新工具並建立使用共識。OpenAI 另表示貢獻 500 萬美元，並提供模型與算力。",
+  "kw": "Simons Foundation OpenAI Anthropic 數學 AI 1500萬 投資合作"
+ },
+ {
+  "id": "anthropic-independent-evaluators",
+  "date": "2026-10-15",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic：給 METR 近乎員工級存取，推動獨立第三方評估",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "intro": "Anthropic 宣布已讓非營利組織 METR 的六名人員獲得近乎員工級的內部系統與工具存取，以評估前沿模型風險；METR 可公開發表結論，公司僅能依預設範圍要求遮罩。另與 SecureBio、Accenture、Faculty 等合作，並規劃三層評估存取。",
+  "kw": "Anthropic METR 獨立評估 第三方 安全 政策 SecureBio Accenture"
+ },
+ {
+  "id": "anthropic-q3-revenue",
+  "date": "2026-10-15",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Anthropic 向投資人披露 Q3 營收約 168 億美元，並稱現金流轉正",
+  "url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+  "intro": "Axios 報導 Anthropic 向潛在 IPO 投資人展示第三季財報：營收約 168 億美元，較上一季成長近五成，並稱當季現金流已轉正。報導指出數字先前由《金融時報》率先披露，同時提醒公司仍面臨龐大算力與訓練成本。",
+  "kw": "Anthropic 營收 Q3 IPO 168億 現金流 Axios FT"
+ },
+ {
+  "id": "openai-gpt-live-11",
+  "date": "2026-10-15",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "ChatGPT Voice 上線 GPT-Live-1.1：新增多語口音與新語音",
+  "url": "https://openai.com/products/release-notes/",
+  "intro": "OpenAI 在產品更新說明宣布，ChatGPT Voice 開始推出 GPT-Live-1.1 與精簡版 Quip，口音更自然，並新增法、德、印地、日、韓、墨西哥西語等語音選項，以及英語 Bubbie。搜尋時也會用更多樣的短句提示狀態。",
+  "kw": "OpenAI GPT-Live-1.1 ChatGPT Voice 語音 多語 Quip 口音"
+ },
+ {
+  "id": "anthropic-otel-tracing",
+  "date": "2026-10-14",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Claude Platform 支援 OpenTelemetry：代理追蹤公開測試",
+  "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+  "intro": "Anthropic 宣布 Claude Platform 可把 Managed Agents、Messages API 與 SDK 的追蹤以 OpenTelemetry 送到既有觀測工具，涵蓋延遲、token 與工具呼叫。公開測試中，SDK 可自動匯出；API 需在 Console 設定 OTLP 目的地。",
+  "kw": "Anthropic Claude OpenTelemetry OTel 追蹤 代理 觀測 Managed Agents"
+ },
+ {
   "id": "grok-voice-3",
   "date": "2026-10-14",
   "co": "xAI",
