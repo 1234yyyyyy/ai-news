@@ -1,5 +1,161 @@
 [
  {
+  "id": "chatgpt-chrome-tabs",
+  "date": "2026-10-16",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "ChatGPT 的 Chrome 擴充升級：看得懂分頁，還能幫你操作",
+  "url": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
+  "intro": "OpenAI 更新 Chrome 版 ChatGPT 擴充功能：能根據你開著的分頁回答問題，也能直接操作分頁，例如傳訊息、填表單、下載檔案，或把一堆分頁分組整理，另外新增類似 Chrome 內建 Gemini 的側邊欄介面。擴充功能已上架 Chrome 線上應用程式商店。",
+  "kw": "OpenAI ChatGPT Chrome 擴充 extension 分頁 瀏覽器 代理 填表 側邊欄"
+ },
+ {
+  "id": "anthropic-ecdsa-seeds",
+  "date": "2026-10-16",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Claude 不到半小時解開 NIST 橢圓曲線種子的來源之謎",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "intro": "Anthropic 發文表示，內部研究模型在不到半小時內找出 NIST P-192、P-224、P-256、P-384、P-521 等 ECDSA 曲線種子的產生方式：不是雜湊結果，而是用 Unix 時間戳當種子的 C 函式庫 lrand48 亂數產生器。Anthropic 認為這讓外界更有把握這些曲線沒有被刻意埋下後門。",
+  "kw": "Anthropic Claude ECDSA NIST 橢圓曲線 密碼學 lrand48 研究 資安 後門"
+ },
+ {
+  "id": "rtx-spark-available",
+  "date": "2026-10-16",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "Microsoft"
+  ],
+  "types": [
+   "晶片",
+   "產品"
+  ],
+  "title": "RTX Spark 筆電今天開賣：2,599 美元起，最多 128GB 統一記憶體",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+  "intro": "NVIDIA 宣布 RTX Spark 筆電即日起由 ASUS、Dell、HP、Lenovo、Microsoft、MSI 推出，2,599 美元起，價格與規格依地區而異。這款把 RTX 繪圖與 NVIDIA AI 平台整合進單一超級晶片的輕薄 Windows 筆電，最多 128GB 統一記憶體、1 petaflop FP4 AI 算力，主打在本機跑大型模型和 AI 代理。",
+  "kw": "NVIDIA RTX Spark 筆電 Windows GB10 統一記憶體 本機 AI ASUS Dell HP Lenovo MSI 開賣"
+ },
+ {
+  "id": "ms-nvidia-openweight-risk",
+  "date": "2026-10-16",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft",
+   "NVIDIA"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "微軟與 NVIDIA 合寫企業版開放權重模型風險管理指南",
+  "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+  "intro": "微軟與 NVIDIA 發表《Risk Management for Open-Weight Models in Enterprise》，提出雙方共用的風險分類，並依 ISO 標準與美國 NIST AI 風險管理框架，說明企業部署開放權重模型時怎麼評估與控管風險。這是系列第一篇，之後會延伸到執行環境、代理框架和應用層。",
+  "kw": "Microsoft 微軟 NVIDIA 開放權重 open-weight 風險管理 資安 NIST ISO 企業 指南"
+ },
+ {
+  "id": "grok-nyc-council",
+  "date": "2026-10-16",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "紐約市議會質詢 SpaceX：Grok 防護措施遭當場打臉",
+  "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+  "intro": "SpaceX 的 AI 政府事務主管出席紐約市議會 AI 安全調查聽證，稱 Grok 有嚴格防護；議長 Julie Menin 當場反駁，表示自己當天早上就用 Grok 找到本人的不當合成圖像。xAI 前員工 Devin Kim 也作證，說他任職時只有 3 人負責 AI 安全。議會打算用這些證詞研擬新規範。",
+  "kw": "xAI SpaceX SpaceXAI Grok 紐約市議會 AI 安全 聽證 監管 圖像 Devin Kim"
+ },
+ {
+  "id": "meet-next-steps",
+  "date": "2026-10-16",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google Meet 推「下一步」：會後自動起草信件、匯出待辦",
+  "url": "https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-16-2026.html",
+  "intro": "Google Workspace 每週更新指出，Google Meet 新增由 Gemini 與 Workspace Studio 驅動的「next steps」，能把會議討論直接變成行動，例如在 Gmail 起草後續信件、把待辦匯到 Google Tasks。同週 Gmail Live 語音問信箱開放付費 Workspace 手機用戶，Gemini App 的 skills 也開始推出，預計 11 月中完成。",
+  "kw": "Google Meet Gemini Workspace Studio next steps 會議 待辦 Gmail Live skills 自動化"
+ },
+ {
+  "id": "gemini-notebook-study",
+  "date": "2026-10-16",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini Notebook 新增 60 秒短影片導覽與更多測驗題型",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+  "intro": "Google 介紹 Gemini Notebook 三項讀書新功能：可以生成 60 秒的短影片導覽快速講解觀念；在 Reports 建立互動式學習導覽，把摘要、投影片、測驗和字卡串成逐步複習；測驗新增簡答、多選與填空題，做完還能請筆記本指出該加強的地方。",
+  "kw": "Google Gemini Notebook NotebookLM 學習 讀書 考試 測驗 字卡 短影片 教育"
+ },
+ {
+  "id": "opus55-fast-ga",
+  "date": "2026-10-15",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic",
+   "Microsoft"
+  ],
+  "types": [
+   "價格方案"
+  ],
+  "title": "Claude Opus 5.5 快速模式結束預覽：免申請，速度最高 2.5 倍",
+  "url": "https://platform.claude.com/docs/en/release-notes/overview",
+  "intro": "Anthropic 宣布 Claude API 上 Opus 5.5 的快速模式不再是研究預覽，不用申請、也不必加 beta 標頭，Start、Build、Scale 各用量等級都有預設額度，並同步開放給 Azure 託管的 Microsoft Foundry。輸出速度最高 2.5 倍，價格是每百萬 token 輸入 8 美元、輸出 40 美元，為標準模式的兩倍。",
+  "kw": "Anthropic Claude Opus 5.5 fast mode 快速模式 API 價格 Microsoft Foundry Azure"
+ },
+ {
+  "id": "apple-intelligence-china",
+  "date": "2026-10-15",
+  "co": "Apple",
+  "cos": [
+   "Apple",
+   "中國大廠"
+  ],
+  "types": [
+   "產品",
+   "政策"
+  ],
+  "title": "Apple Intelligence 獲准進入中國，月底推測試版、接入阿里千問",
+  "url": "https://www.chinadaily.com.cn/a/202610/15/WS6ad09bd8e4b06d4aa0563014.html",
+  "intro": "蘋果執行董事長庫克在上海受訪表示，Apple Intelligence 已獲准在中國推出，本月稍晚發布測試版，首批功能包括即時翻譯、寫作工具和照片清除，新 Siri 暫不在內。工信部更新的紀錄顯示，這次新備案的大模型包含 Apple Intelligence 與阿里巴巴通義千問。",
+  "kw": "Apple 蘋果 Apple Intelligence 中國 庫克 Tim Cook 阿里巴巴 通義千問 Qwen 備案 iPhone"
+ },
+ {
+  "id": "deepseek-outage-1015",
+  "date": "2026-10-15",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "DeepSeek 服務中斷近 5 小時，退還一週 API 消費當補償",
+  "url": "https://www.thepaper.cn/newsDetail_forward_34257131",
+  "intro": "DeepSeek 在北京時間 10 月 15 日 8:11 到 13:04 出現服務故障，對話與 V4 Pro、V4 Flash API 都無法正常使用。官方致歉並公布補償：依各帳號 10 月 8 日至 14 日共 7 天的 API 消費金額，全額以贈金返還、自動到帳，之後扣款優先使用贈金。",
+  "kw": "DeepSeek 深度求索 當機 故障 中斷 補償 贈金 API V4 澎湃"
+ },
+ {
   "id": "meta-muse-spark-open",
   "date": "2026-10-15",
   "co": "Meta",

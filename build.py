@@ -28,9 +28,9 @@ cnt.textContent=n+' 則';em.style.display=n?'none':'block';}
 bs.forEach(function(b){b.addEventListener('click',function(){bs.forEach(function(x){x.classList.remove('on')});b.classList.add('on');cat=b.dataset.k;run();});});
 ps.forEach(function(b){b.addEventListener('click',function(){ps.forEach(function(x){x.classList.remove('on')});b.classList.add('on');typ=b.dataset.p;run();});});
 q.addEventListener('input',run);document.getElementById('qc').addEventListener('click',function(){q.value='';run();q.focus();});})();'''
-H = f'''<!DOCTYPE html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大廠 AI 消息 {N} 則 2026-10-16</title><style>
+H = f'''<!DOCTYPE html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大廠 AI 消息 {N} 則 2026-10-17</title><style>
 {CSS}</style></head>
-<body><h1>大廠 AI 消息 {N} 則</h1><div class="s">2026-10-16 更新・只收 2026 年 9 月以後・點卡片看原始報導</div><div class="f" id="f"><div class="sb"><input id="q" type="search" placeholder="搜尋公司、模型、關鍵字（例：GPT-6、Claude、降價、台灣）" autocomplete="off"><button id="qc" type="button">清除</button></div>{cb}<div class="pr">{pb}<span class="cnt" id="cnt">{N} 則</span></div></div><div id="em">找不到符合的消息，換個關鍵字試試</div><div class="g">{"".join(cards)}</div><script>
+<body><h1>大廠 AI 消息 {N} 則</h1><div class="s">2026-10-17 更新・只收 2026 年 9 月以後・點卡片看原始報導</div><div class="f" id="f"><div class="sb"><input id="q" type="search" placeholder="搜尋公司、模型、關鍵字（例：GPT-6、Claude、降價、台灣）" autocomplete="off"><button id="qc" type="button">清除</button></div>{cb}<div class="pr">{pb}<span class="cnt" id="cnt">{N} 則</span></div></div><div id="em">找不到符合的消息，換個關鍵字試試</div><div class="g">{"".join(cards)}</div><script>
 {JS}
 </script></body></html>'''
 open(f"{D}/index.html", "w", encoding="utf-8").write(H)
