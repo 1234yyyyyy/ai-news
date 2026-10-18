@@ -1,5 +1,97 @@
 [
  {
+  "id": "meta-terms-scraping-removed",
+  "date": "2026-10-17",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Meta 撤回商業條款爭議文字：不會藉此抓新聞網站訓練 AI",
+  "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "intro": "Meta 先前更新商業使用條款，寫著可用企業帳號網域與網頁上的任何內容來「開發、改進、訓練」自家產品，法律專家擔心等於允許抓取有 Meta 商業帳號的新聞網站來訓練 AI。Meta 已刪除這段文字，並表示相關條款只適用於廣告與企業產品，也不會改變它使用網路爬蟲的方式。",
+  "kw": "Meta 使用條款 爬蟲 scraping AI 訓練 新聞網站 出版商 版權 Nieman Lab"
+ },
+ {
+  "id": "replit-openai-default",
+  "date": "2026-10-17",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Replit 改用 OpenAI 當預設模型，Claude 退居可選",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "intro": "AI 寫程式平台 Replit 執行長 Amjad Masad 在 TechCrunch Disrupt 表示，基於成本、合作關係和自家評測表現，Replit Agent 改以 OpenAI 模型為預設，但用戶仍可自選 Claude 等模型。Replit 過去曾是 Anthropic 前五大客戶；知情人士則說雙方合作仍在。Masad 也透露企業合約今年已占約 15% 營收。",
+  "kw": "Replit OpenAI Anthropic Claude 預設模型 Replit Agent vibe coding 寫程式 Disrupt 客戶"
+ },
+ {
+  "id": "anthropic-employment-report",
+  "date": "2026-10-16",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 公開內部就業報告：資淺工程師錄取變少，AI 代理工時是員工 6 倍",
+  "url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "intro": "Anthropic 用內部人事、AI 使用量、行事曆與訪談資料分析 AI 如何改變自家工作：技術部門資淺職缺比例下降，到 8 月 AI 代理的互動工時已是員工的 6 倍，每人寫的程式、成交數與處理合約都變多；但「人的注意力」成了瓶頸，連非技術員工要讀完代理產出都得花半週，會議時間也比去年多約兩成。",
+  "kw": "Anthropic 就業 勞動 報告 經濟研究 資淺 招聘 AI 代理 Claude 生產力 會議 未來工作"
+ },
+ {
+  "id": "anthropic-quantum-circuits",
+  "date": "2026-10-16",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Claude 自己設計量子電路，部分比已發表最佳設計省一個數量級",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "intro": "Anthropic 給 Claude 8 種來自化學、最佳化、物理模擬和數論的量子電路規格，加上自動評分器，讓它大致自主地設計電路；結果多項設計勝過已發表的最佳電路，有些甚至好上 10 倍以上，可大幅減少實用量子演算法需要的資源。研究與哈佛大學及 QuEra 合作，論文已上 arXiv。",
+  "kw": "Anthropic Claude 量子電腦 量子電路 Toffoli 研究 科學 哈佛 QuEra arXiv"
+ },
+ {
+  "id": "deepseek-product-dept",
+  "date": "2026-10-16",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "DeepSeek 成立「產品部」，Harness 負責人崔添翼掌舵",
+  "url": "https://www.thepaper.cn/newsDetail_forward_34262324",
+  "intro": "澎湃新聞報導，DeepSeek 把 Agent 框架 Harness 團隊與 Web、App、開放平台團隊整併成「產品部」，負責所有產品、設計與研發，由原 Harness 負責人崔添翼帶領，本人已證實。Harness 8 月以 MIT 授權開源，10 月新版還加入實驗性的 Claude Code 擴充相容層；產品部正在招募產品經理與設計師。",
+  "kw": "DeepSeek 深度求索 產品部 Harness 崔添翼 Agent 組織調整 開源 Claude Code 招聘 中國"
+ },
+ {
+  "id": "nvidia-mercedes-av",
+  "date": "2026-10-16",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "其他"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 與賓士擴大合作，共同開發下一代自動駕駛",
+  "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+  "intro": "賓士與 NVIDIA 宣布延長策略合作，把賓士的 MB.OS 作業系統結合 NVIDIA Hyperion 車載運算與感測架構、具 AI 推理能力的 Alpamayo 駕駛軟體和 Halos 安全系統，開發都市點對點輔助駕駛、自動停車，以及未來 L4 等級的自動駕駛禮車。賓士的工程模擬與數位生產系統也持續採用 NVIDIA 技術。",
+  "kw": "NVIDIA 賓士 Mercedes-Benz 自動駕駛 Hyperion Alpamayo Halos MB.OS L4 汽車"
+ },
+ {
   "id": "chatgpt-chrome-tabs",
   "date": "2026-10-16",
   "co": "OpenAI",
@@ -106,6 +198,68 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
   "intro": "Google 介紹 Gemini Notebook 三項讀書新功能：可以生成 60 秒的短影片導覽快速講解觀念；在 Reports 建立互動式學習導覽，把摘要、投影片、測驗和字卡串成逐步複習；測驗新增簡答、多選與填空題，做完還能請筆記本指出該加強的地方。",
   "kw": "Google Gemini Notebook NotebookLM 學習 讀書 考試 測驗 字卡 短影片 教育"
+ },
+ {
+  "id": "nvidia-adobe-agentic",
+  "date": "2026-10-15",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "其他"
+  ],
+  "types": [
+   "投資合作",
+   "產品"
+  ],
+  "title": "Adobe 與 NVIDIA 擴大合作：Photoshop、Premiere 在 RTX Spark 上 AI 快 2 倍",
+  "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+  "intro": "Adobe 把 Photoshop、Premiere 和 Substance 3D 針對 NVIDIA RTX Spark 晶片最佳化，AI 處理、剪輯、調色與特效最多快 2 倍；企業對話工具 Brand Concierge 改用 NVIDIA Nemotron 開放模型，NVIDIA 官網也會採用它來回應顧客。Frame.io 等工具同樣在合作範圍內。",
+  "kw": "NVIDIA Adobe Photoshop Premiere Substance 3D RTX Spark Nemotron Brand Concierge Frame.io 創作"
+ },
+ {
+  "id": "amazon-bee-frontier-eclipse",
+  "date": "2026-10-15",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Amazon 旗下 Bee 推兩款 AI 隨身裝置：手環 Bee Frontier、手機磁吸 Bee Eclipse",
+  "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
+  "intro": "會記住對話重點的個人 AI「Bee」推出新一代穿戴裝置 Bee Frontier（74.99 美元，可戴手腕或夾衣服，續航最長 7 天、IP67 防水）和磁吸在手機背後的 Bee Eclipse（99.99 美元起，即將上市），能把對話整理成摘要、待辦與提醒，並可串 Alexa+ 和 Amazon 購物。Bee Pro 訂閱每月 11.99 美元，新用戶免費 30 天。",
+  "kw": "Amazon Bee Frontier Bee Eclipse 穿戴裝置 AI 手環 錄音 摘要 待辦 Alexa+ 硬體"
+ },
+ {
+  "id": "google-ai-mode-links",
+  "date": "2026-10-15",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google AI 模式與 AI 摘要加入更多內嵌連結和新聞輪播",
+  "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+  "intro": "Google 更新搜尋的 AI 模式和 AI 摘要：內嵌連結會更常出現在回答前段；測試在回答頂端單獨列出「官方網站」並說明為什麼有用；時事新聞輪播擴展到更多地區與語言並優先顯示你的「偏好來源」；影片結果的創作者名稱也能點進其搜尋個人頁。",
+  "kw": "Google 搜尋 AI Mode AI 模式 AI Overviews AI 摘要 連結 新聞 偏好來源 出版商 創作者"
+ },
+ {
+  "id": "google-universal-cart",
+  "date": "2026-10-15",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google「通用購物車」在美上線：跨店收藏、追降價、找折扣碼",
+  "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+  "intro": "Google 在美國的搜尋和 Gemini App 推出 Universal Cart，可把不同零售商的商品放進同一個購物車，用 AI 提醒降價或補貨、找出可用的折扣碼、建議最划算的付款方式，再用 Google Pay 結帳或轉到商家網站完成購買，主打年底購物季。",
+  "kw": "Google Universal Cart 通用購物車 購物 Gemini 搜尋 降價提醒 折扣碼 Google Pay 電商 代理"
  },
  {
   "id": "opus55-fast-ga",
