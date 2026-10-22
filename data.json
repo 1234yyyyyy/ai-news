@@ -1,5 +1,158 @@
 [
  {
+  "id": "claude-duet",
+  "date": "2026-10-21",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Anthropic 推 Claude Duet：會主動提醒、背景做事的個人 AI 代理",
+  "url": "https://claude.com/resources/articles/claude-duet",
+  "intro": "Anthropic 開放 Claude Duet 研究預覽，這是獨立的 iOS、Android 與網頁 App，以 Claude Opus 5.5 為核心：每天早上整理已連結 App 裡的重點，有需要你處理的事才通知，也能在你離開時繼續做排會議、做報表等工作，代替你行動前會先問你。先開放美國 Pro 與 Max 訂閱用戶排隊加入，用量與 Claude 共用。",
+  "kw": "Claude Duet 個人代理 AI agent 主動 背景任務 Opus 5.5 研究預覽 Pro Max 候補 Muse 競爭"
+ },
+ {
+  "id": "claude-security-continuous",
+  "date": "2026-10-21",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Claude Security 改成持續掃描程式碼，修好的漏洞會自動結案",
+  "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+  "intro": "Claude Security 新版不用再手動啟動掃描：連上 GitHub 或 GitLab 等程式庫後，會先做完整基準掃描，再依變更的風險定期複查，修正上線就自動標記已修復，問題再出現會重新開啟。新增 API、Webhook、MCP 連接器與角色權限，先以公開測試提供給 Claude Enterprise 客戶，連續兩個月每月送 2.5 萬美元用量額度。",
+  "kw": "Claude Security 資安 漏洞掃描 持續監控 程式碼 GitHub GitLab API MCP Enterprise Mythos 公開測試"
+ },
+ {
+  "id": "hcltech-claude",
+  "date": "2026-10-21",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "印度 HCLTech 成為 Claude 全球頂級合作夥伴",
+  "url": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
+  "intro": "擁有 23 萬多名員工的 HCLTech 加入 Claude 合作夥伴網路，將成立專門的 Anthropic 事業單位與卓越中心，替銀行、醫院、電信和製造業客戶打造 Claude 代理；旗下 HCLSoftware 會把 Claude 放進 BigFix、AppScan 等產品，IT 服務平台 AI Force 也會導入 Claude 與 Claude Code，影響正式系統的變更都要人工審核。",
+  "kw": "HCLTech Claude Partner Network 合作夥伴 印度 IT 服務 企業 AI Force Claude Code BigFix AppScan"
+ },
+ {
+  "id": "vw-copilot-330k",
+  "date": "2026-10-21",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "福斯集團 33 萬名員工全面用上 Microsoft Copilot",
+  "url": "https://news.microsoft.com/source/2026/10/21/microsoft-empowers-more-than-330000-volkswagen-group-employees-with-copilot/",
+  "intro": "微軟宣布福斯汽車集團已替超過 33 萬名員工配置 Microsoft Copilot。福斯採分階段導入，先開放 Copilot Chat，每月活躍用戶一度超過 30 萬；現在員工改用結合 Work IQ 的 Copilot，把 AI 用在研發、生產、採購與銷售流程中，內部也已建立超過 2.6 萬個代理。",
+  "kw": "Microsoft 微軟 Copilot Volkswagen 福斯 汽車 企業導入 Work IQ Copilot Chat 代理 Agent"
+ },
+ {
+  "id": "chatgpt-ads-89",
+  "date": "2026-10-21",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "ChatGPT 廣告再擴大 26 國、已有 10 萬家廣告主",
+  "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+  "intro": "OpenAI 把 ChatGPT 廣告擴大到另外 26 個國家，總共在 89 國上線，包括 14 個拉丁美洲國家，以及奈及利亞、南非、烏克蘭、柬埔寨、孟加拉、巴基斯坦等地；上線 8 個多月來已有超過 10 萬家廣告主投放。廣告只出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告，OpenAI 表示不會把對話內容提供給廣告主。",
+  "kw": "OpenAI ChatGPT 廣告 Ads 擴大 89 國 廣告主 免費版 Go 方案 Ads Manager 台灣"
+ },
+ {
+  "id": "openai-orchestra-bio",
+  "date": "2026-10-20",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 收購新藥開發平台 Orchestra Bio，併入生技 AI「Rosalind」",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "intro": "OpenAI 宣布收購 Orchestra Bio，這個平台讓藥廠團隊和 AI 代理一起追蹤、協調新藥開發的各項研究與時程。OpenAI 會把它的團隊和技術與生命科學工具 Rosalind（含 GPT-Rosalind 與 Rosalind Workbench）結合，目標是做出能把研究發現接到後續試驗與決策的代理，讓新藥更快上市。收購金額未公開。",
+  "kw": "OpenAI Orchestra Bio 收購 併購 新藥開發 生技 藥廠 Rosalind GPT-Rosalind 生命科學 AI 代理"
+ },
+ {
+  "id": "gemini-small-business",
+  "date": "2026-10-20",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 推小商家專區：上傳品牌規範做圖、整理帳務、串接 Shopify",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+  "intro": "Google 為小型企業主推出 Gemini 商業專區，集中管理品牌、財務和客戶洞察；可以上傳品牌風格，讓 Gemini 產生風格一致的行銷圖，也能把雜亂的試算表整理成財務重點，並串接 Shopify、Canva 和 Google Workspace 等工具。新功能會在接下來幾天陸續全球推出。",
+  "kw": "Gemini 小商家 小型企業 商業專區 品牌 行銷圖 財務 試算表 Shopify Canva Workspace 創業"
+ },
+ {
+  "id": "google-torchtpu",
+  "date": "2026-10-20",
+  "co": "Google",
+  "cos": [
+   "Google",
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Google 開源 TorchTPU：PyTorch 程式改個設定就能跑在 TPU 上",
+  "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+  "intro": "Google 宣布 TorchTPU 開源，讓 PyTorch 寫的 AI 應用只要改設定、不必重寫，就能搬到 Google 的 TPU 晶片和 Google Cloud 上跑。Google 表示有和 Meta、Hugging Face、vLLM 與 SGLang 開發團隊合作確保相容，另推出協助搬遷與除錯的 TPU agent suite，並更新 LiteRT。TechCrunch 認為這和 Amazon 前一天的 TorchNeuron 一樣，都是在挑戰 NVIDIA 的地位。",
+  "kw": "Google TorchTPU TPU PyTorch 開源 Google Cloud NVIDIA CUDA 晶片 vLLM SGLang Hugging Face LiteRT"
+ },
+ {
+  "id": "aws-torchneuron",
+  "date": "2026-10-19",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Amazon 推 TorchNeuron：現有 PyTorch 程式不改寫就能用 Trainium",
+  "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+  "intro": "Amazon 發表 TorchNeuron，讓開發者既有的 PyTorch 程式只要改一個設定，就能原生跑在自家 AI 晶片 Trainium 上，並在 10 月 20 日的 PyTorch 大會以開源方式釋出。AWS 隨後在 Neuron 2.33 版以公開測試提供，支援 Trn2 與 Trn3。Amazon 也會把讓 PyTorch 不綁定特定晶片的程式碼回饋給主專案，被視為鬆動 NVIDIA CUDA 優勢的一步。",
+  "kw": "Amazon AWS TorchNeuron Trainium PyTorch 開源 晶片 Neuron 2.33 Trn2 Trn3 NVIDIA CUDA"
+ },
+ {
+  "id": "minimax-m31-flash",
+  "date": "2026-10-19",
+  "co": "MiniMax",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "MiniMax M3.1 Flash 正式上線：代理任務成本降 70%",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "intro": "MiniMax 正式推出 M3.1 Flash，先前以匿名代號「Space Bunny」測試時已處理超過 200 兆個 token。官方說它在代理任務、寫程式、電腦操作和資安都追上一線模型，線上推論快近 3 倍、代理任務整體成本比上一代低 70%；API 定價每百萬 token 輸入 0.15 美元、輸出 0.6 美元，已上 MiniMax API、M Plan 和 MiniMax Code，權重稍後釋出。",
+  "kw": "MiniMax M3.1 Flash 模型 代理 Agent 寫程式 電腦操作 資安 API 降價 開放權重 中國 Space Bunny"
+ },
+ {
   "id": "meta-terms-scraping-removed",
   "date": "2026-10-17",
   "co": "Meta",
