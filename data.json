@@ -1,5 +1,142 @@
 [
  {
+  "id": "openai-30b-125t",
+  "date": "2026-10-22",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "傳 OpenAI 洽談新一輪 300 億美元募資，投前估值 1.25 兆美元",
+  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "intro": "TechCrunch 引述 CNBC 消息，OpenAI 正洽談最多 300 億美元的新一輪私募，投前估值 1.25 兆美元，由 Coatue 與阿聯資金領投，可能搭配向阿聯取得更多算力的協議；條件仍在談、OpenAI 不予置評。若成局將成為史上估值最高的私人公司，也墊高之後 IPO 的門檻。",
+  "kw": "OpenAI 募資 估值 1.25 兆 兆美元 Coatue 阿聯 UAE IPO 上市 CNBC 傳聞 Anthropic IPO"
+ },
+ {
+  "id": "uber-chatgpt-work",
+  "date": "2026-10-22",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Uber 3 萬名員工全面用上 ChatGPT Work",
+  "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+  "intro": "Uber 與 OpenAI 擴大合作，全球約 3 萬名員工都將使用企業 AI 代理 ChatGPT Work。Uber 今年先找 1,000 名員工試用，其中約 8 成不是工程師，用來分析營運數據、把訓練教材在地化、做個人化儀表板；Uber 沒透露花費，會追蹤員工實際用法再決定後續部署。",
+  "kw": "OpenAI ChatGPT Work Uber 企業導入 員工 AI 代理 Agent 非工程師 企業版"
+ },
+ {
+  "id": "agent-skills-aaif",
+  "date": "2026-10-22",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Anthropic 把 Agent Skills 標準捐給 Linux 基金會旗下 AAIF",
+  "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "intro": "Anthropic 把教 AI 代理學會特定工作的開放標準 Agent Skills（一個資料夾加 SKILL.md）捐給 Linux 基金會旗下的 Agentic AI Foundation，比照先前捐出的 MCP。ChatGPT、Cursor、GitHub Copilot、VS Code 等 70 多個平台已支援，累計發布 100 萬個技能、安裝近 2.8 億次；之後由 Anthropic、Google、OpenAI 等公司的工程師共同維護。",
+  "kw": "Anthropic Agent Skills SKILL.md 開放標準 AAIF Agentic AI Foundation Linux 基金會 MCP Claude Code 代理"
+ },
+ {
+  "id": "mai-dxo-science",
+  "date": "2026-10-22",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "微軟 MAI-DxO 登上《Science》：疑難病例診斷正確率 83%，一般醫師 36%",
+  "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+  "intro": "微軟 AI 的診斷系統 MAI-DxO 讓多個 AI 代理像醫師團隊一樣問診、開檢查、討論，在《新英格蘭醫學期刊》疑難病例模擬中答對 83%，單獨作業的家醫與內科醫師為 36%（但未和專科醫師比較）。微軟 AI 執行長蘇萊曼稱這是邁向「醫療超級智慧」的一步，並與梅奧診所訓練醫療基礎模型、預計明年推出，也將在波士頓醫院做真實環境評估。",
+  "kw": "Microsoft 微軟 MAI-DxO 醫療 診斷 Science 期刊 Suleyman 蘇萊曼 醫療超級智慧 Mayo 梅奧 GPT-5.5 醫師"
+ },
+ {
+  "id": "nvidia-minerva",
+  "date": "2026-10-22",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA 推 Minerva：用 AI 監控整座 AI 工廠、提前抓出故障",
+  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+  "intro": "NVIDIA 推出 AIOps 平台 Minerva，把 GPU、網路、儲存、排程器和訓練任務的遙測資料串成知識圖譜，用機器學習偵測異常、預測故障，把大量警報整合成一個附可能根因的事件，還內建可對話的 AI 助理。IREN 已在使用，IBM、Lambda、Tesla 等計畫導入，Dell、Lenovo、Supermicro 也會提供。",
+  "kw": "NVIDIA Minerva AIOps AI 工廠 資料中心 監控 遙測 故障預測 GPU 稼動率 IREN Tesla Dell Lenovo Supermicro"
+ },
+ {
+  "id": "openai-google-cloud",
+  "date": "2026-10-21",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Google"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 模型上架 Google Cloud：GPT-6 系列進 Model Garden",
+  "url": "https://openai.com/index/openai-models-google-cloud",
+  "intro": "OpenAI 與 Google Cloud 合作，把前沿模型和 Codex 代理工作流程帶進 Google Cloud 的 Model Garden，企業可透過 Google Cloud Marketplace 購買並抵用既有雲端承諾額度；據 Google Cloud 部落格，GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 先以私人預覽提供給部分企業客戶，正式開放預計在未來幾週，之後也會進 Antigravity。OpenAI 強調微軟仍是主要雲端夥伴。",
+  "kw": "OpenAI Google Cloud Model Garden GPT-6 Astra Sol Luna Codex Antigravity Marketplace 雲端 微軟 合作"
+ },
+ {
+  "id": "php-patch-the-planet",
+  "date": "2026-10-21",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Google"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "AI 揪出 PHP 藏了 20 年的嚴重漏洞，NSA 呼籲沒修補就先下線",
+  "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+  "intro": "美國 NSA 警告 PHP 有兩個從 2004 年 PHP 5 就存在的嚴重漏洞，可讓攻擊者入侵伺服器檔案系統或資料庫，無法立即更新的網站應先下線。漏洞是參與 OpenAI「Patch the Planet」計畫的資安公司用 GPT-5.6 Sol 找到，Google 旗下 Wiz 也用 AI 代理和 Gemini 4 Argon 等模型另外發現；修補已先釋出，建議升級到 PHP 8.5.12。",
+  "kw": "OpenAI Patch the Planet Google Wiz PHP 漏洞 資安 NSA GPT-5.6 Sol Gemini 4 Argon WordPress 修補 網站"
+ },
+ {
+  "id": "meta-nonvoting-stock",
+  "date": "2026-10-21",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta 將發行無投票權新股籌措 AI 資金，Muse 個人代理破千萬人",
+  "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+  "intro": "Meta 公布第三季營收 640 億美元、年增 26%，成本則增 68%；財務長 Susan Li 證實將新增一類無投票權股票，以股票股利發給現有股東，未來可用來募資、發員工薪酬和併購，同時保住創辦人控制權。祖克柏說美加已有超過 1,000 萬人設定 Muse 個人代理，接下來進入擴大規模階段。",
+  "kw": "Meta 財報 第三季 無投票權股 新股 募資 資本支出 Muse 個人代理 1000 萬 祖克柏 Zuckerberg Susan Li"
+ },
+ {
+  "id": "doubao-work-word",
+  "date": "2026-10-21",
+  "co": "字節跳動",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "豆包工作可直接編輯本地 Word，新增可追溯的工作記憶面板",
+  "url": "https://www.bjnews.com.cn/detail/1792588237129503.html",
+  "intro": "字節跳動的 AI 辦公代理「豆包工作」在已支援 PPT、Excel 之外，新增本地 Word 編輯，可用電腦的「開啟方式」直接以豆包開檔；新的工作記憶面板會標時間列出它記住和修改過哪些偏好、這次回答參考了哪些記憶。雲電腦瀏覽器可即時看畫面並接手操作，也支援訊息排隊，關掉電腦後雲端任務仍會繼續做。",
+  "kw": "字節跳動 ByteDance 豆包 豆包工作 Doubao Work Word Office 本地檔案 記憶 雲電腦 AI 辦公 代理"
+ },
+ {
   "id": "claude-duet",
   "date": "2026-10-21",
   "co": "Anthropic",
@@ -73,6 +210,21 @@
   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
   "intro": "OpenAI 把 ChatGPT 廣告擴大到另外 26 個國家，總共在 89 國上線，包括 14 個拉丁美洲國家，以及奈及利亞、南非、烏克蘭、柬埔寨、孟加拉、巴基斯坦等地；上線 8 個多月來已有超過 10 萬家廣告主投放。廣告只出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告，OpenAI 表示不會把對話內容提供給廣告主。",
   "kw": "OpenAI ChatGPT 廣告 Ads 擴大 89 國 廣告主 免費版 Go 方案 Ads Manager 台灣"
+ },
+ {
+  "id": "gemini-cars-pi",
+  "date": "2026-10-20",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 全球上車：Android Auto 加入「個人智慧」，開車問航班、找餐廳",
+  "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+  "intro": "Google 宣布 Gemini 已在全球的 Android Auto 和內建 Google 的車款上提供，並開始推出「個人智慧」：經你同意後串接 Gmail、日曆、相簿、地圖、YouTube，開車時直接問「我的登機門在哪、航班有沒有延誤」或「帶我去昨天聊到的咖啡店」。Android Auto 即日起推出，內建 Google 車款未來幾個月跟進；限 18 歲以上個人帳號，歐洲經濟區、英國等地除外。",
+  "kw": "Google Gemini Android Auto 車用 汽車 Personal Intelligence 個人智慧 Gmail 地圖 語音 開車 Google built-in"
  },
  {
   "id": "openai-orchestra-bio",
