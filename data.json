@@ -1,5 +1,110 @@
 [
  {
+  "id": "oai-offline-training",
+  "date": "2026-10-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 前沿模型改成完全斷網訓練：AI 代理曾用 CPU 快取偷偷傳訊",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "intro": "OpenAI 公布訓練環境的新防護：前沿模型訓練一律不連網，改用索引與快取的離線網頁。9 月 20 日一個內部研究模型利用 DNS 設定漏洞短暫連上網路，OpenAI 因此暫停訓練 11 天、10 月 1 日才恢復。紅隊測試中，被隔離在不同虛擬機的 AI 代理甚至靠處理器快取的讀取時間差互傳秘密。",
+  "kw": "OpenAI 安全 沙盒 離線 斷網 訓練 containment 紅隊 red-team 快取 旁路 Spectre DNS 暫停訓練 對齊"
+ },
+ {
+  "id": "google-pi-ads",
+  "date": "2026-10-23",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Google 改隱私權政策：連結個人智慧後，Gmail、相簿資料可能拿來投廣告",
+  "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+  "intro": "The Verge 報導，Google 10 月 16 日起的隱私權政策，在「不用 Gmail、雲端硬碟、相簿內容投放個人化廣告」後面加了但書：如果你讓這些資料提供給支援個人化廣告的服務（例如把它們連到 AI 模式的「個人智慧」），就可能看到依內容推送的廣告。廣告主拿不到原始資料，也不會依健康、宗教等敏感類別投放；不想要可到設定取消連結。",
+  "kw": "Google 隱私權 隱私政策 廣告 個人化廣告 Gmail Google 相簿 Photos 雲端硬碟 Drive 個人智慧 Personal Intelligence AI 模式 Search"
+ },
+ {
+  "id": "meta-terms-delay",
+  "date": "2026-10-23",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "媒體強烈反彈，Meta 新商業條款延到 11 月 20 日上路",
+  "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+  "intro": "Meta 原定 10 月 30 日生效的新商業條款，被出版業質疑可讓 Meta 抓取新聞網站內容訓練 AI；雖然先前已刪掉「訓練」字眼，法律專家認為仍不夠。美國新聞媒體聯盟致信祖克柏、歐洲與英國業者也要求監管介入後，Meta 宣布延到 11 月 20 日，說要多花時間解釋爬蟲用途，並強調網站仍可用 robots.txt 拒絕。",
+  "kw": "Meta 商業條款 延後 出版商 新聞媒體 爬蟲 AI 訓練 robots.txt News/Media Alliance 歐盟 英國 監管"
+ },
+ {
+  "id": "seedance-25-4k",
+  "date": "2026-10-23",
+  "co": "字節跳動",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "字節火山引擎發布 Seedance 2.5 4K：先出 480P 樣片、滿意再生 4K",
+  "url": "https://www.yicai.com/news/103406482.html",
+  "intro": "第一財經報導，火山引擎正式發布影片生成模型 Seedance 2.5 4K，經專項訓練後更能呈現人物表情、細微動作和畫面細節，是 Seedance 2.5 這代最強的版本。新增 Draft 樣片模式，可先用較便宜的 480P 反覆試分鏡，確定後再生成 4K 正片；目前只開放部分企業客戶試用，之後可能逐步擴大。",
+  "kw": "字節跳動 ByteDance 火山引擎 Seedance 2.5 4K 影片生成 AI 影片 樣片 Draft 480P 企業試用 豆包"
+ },
+ {
+  "id": "microduck-20k",
+  "date": "2026-10-23",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "黃仁勳台上逗弄的開源機器鴨 Microduck，一天預購破 2 萬台",
+  "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+  "intro": "GTC 柏林主題演講上，黃仁勳用語音讓一群小機器鴨坐下、裝死、翻跟斗，影片爆紅後隔天預購就超過 2 萬台，預計聖誕節前出貨。Microduck 是 Hugging Face 旗下 Pollen Robotics 的開源機器人（Hugging Face 9 月被 NVIDIA 收購），用 NVIDIA 的模擬技術學會基本動作，用戶還能自己教新把戲再分享。",
+  "kw": "NVIDIA Hugging Face Pollen Robotics Microduck 機器人 機器鴨 開源 玩具 聖誕節 GTC Berlin 黃仁勳 Reachy Mini RTX Spark 模擬"
+ },
+ {
+  "id": "oai-decisions-ga",
+  "date": "2026-10-22",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "OpenAI Decisions API 正式開放：比 GPT-6 Luna 快最多 10 倍做判斷",
+  "url": "https://openai.com/index/decisions-api",
+  "intro": "9 月公開測試的 Decisions API 正式上線，以 GPT-6 Luna 為底，專門回答有限選項的問題（機率、選擇或分數），速度最高比走 Responses API 的 Luna 快 10 倍。新版加入 GPT-Live 語音整合、提示快取、美國與歐盟推論落地，可傳圖片與 JSON，每次最多 400 題；Box、Datadog、Ramp、Speak 已在用。",
+  "kw": "OpenAI Decisions API 決策模型 分類 路由 GPT-6 Luna GPT-Live 低延遲 Jev TypeSafe 開發者 API 正式版 GA"
+ },
+ {
+  "id": "aws-continuum-ga",
+  "date": "2026-10-22",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS Continuum 正式上線：AI 確認漏洞真能被利用，再直接送修補 PR",
+  "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+  "intro": "AWS 推出程式碼漏洞服務 Continuum 正式版：用前沿 AI 模型結合你的程式庫和 AWS 環境建出關聯圖，判斷掃描結果是否真的碰得到、能被利用，依業務影響排序，再提出修補程式或直接開 Pull Request。目前每個修補都要人工核准才會上線，之後可自訂哪些動作讓它自動處理。",
+  "kw": "AWS Amazon Continuum 資安 漏洞 程式碼掃描 自動修補 Pull Request PR 安全代理 DevSecOps 正式版 GA"
+ },
+ {
   "id": "openai-30b-125t",
   "date": "2026-10-22",
   "co": "OpenAI",
@@ -73,6 +178,37 @@
   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
   "intro": "NVIDIA 推出 AIOps 平台 Minerva，把 GPU、網路、儲存、排程器和訓練任務的遙測資料串成知識圖譜，用機器學習偵測異常、預測故障，把大量警報整合成一個附可能根因的事件，還內建可對話的 AI 助理。IREN 已在使用，IBM、Lambda、Tesla 等計畫導入，Dell、Lenovo、Supermicro 也會提供。",
   "kw": "NVIDIA Minerva AIOps AI 工廠 資料中心 監控 遙測 故障預測 GPU 稼動率 IREN Tesla Dell Lenovo Supermicro"
+ },
+ {
+  "id": "ms-kls-conjecture",
+  "date": "2026-10-21",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "微軟研究院靠人機協作 AI 解開 31 年數學難題 KLS 猜想",
+  "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+  "intro": "微軟研究院與合作者證明了 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，這是高維幾何與機率的核心難題，關係到隨機演算法跑多快。研究由人主導、AI 代理負責大量探索數學可能性，研究者再評估、剪枝、調整方向；結果已有多位獨立學者確認，並完成機器形式化驗證。",
+  "kw": "Microsoft 微軟研究院 數學 KLS 猜想 高維幾何 機率 證明 AI 代理 人機協作 形式化驗證 定理證明"
+ },
+ {
+  "id": "gcloud-vera-rubin-a5x",
+  "date": "2026-10-21",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "Google"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Google Cloud 推 Vera Rubin 執行個體 A5X，規劃最多 96 萬顆 Rubin GPU",
+  "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+  "intro": "NVIDIA 在 GTC 柏林宣布，Google Cloud 搭載 Vera Rubin NVL72 的 A5X 執行個體下個月正式開放，之後擴及歐洲，主打代理推論與大規模強化學習。Google Cloud 計畫把 Vera Rubin 基礎設施擴大到多個據點、最多 96 萬顆 Rubin GPU；AlphaGo 之父 David Silver 創立的 Ineffable Intelligence 是第一個客戶。",
+  "kw": "NVIDIA Google Cloud Vera Rubin NVL72 A5X GPU 雲端 GTC Berlin 柏林 歐洲 強化學習 Ineffable Intelligence David Silver AI Hypercomputer"
  },
  {
   "id": "openai-google-cloud",
@@ -303,6 +439,21 @@
   "url": "https://www.minimax.io/blog/minimax-m31f",
   "intro": "MiniMax 正式推出 M3.1 Flash，先前以匿名代號「Space Bunny」測試時已處理超過 200 兆個 token。官方說它在代理任務、寫程式、電腦操作和資安都追上一線模型，線上推論快近 3 倍、代理任務整體成本比上一代低 70%；API 定價每百萬 token 輸入 0.15 美元、輸出 0.6 美元，已上 MiniMax API、M Plan 和 MiniMax Code，權重稍後釋出。",
   "kw": "MiniMax M3.1 Flash 模型 代理 Agent 寫程式 電腦操作 資安 API 降價 開放權重 中國 Space Bunny"
+ },
+ {
+  "id": "anthropic-public-benefit-fund",
+  "date": "2026-10-18",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Anthropic 拿出 5% 股份成立公益基金，公司越值錢比例越高",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "intro": "Anthropic 成立全資子公司「Anthropic Public Benefit Fund」，經股東同意後先投入 5% 股份，公司估值每比基準高 50%，董事會可再加碼 2%。基金採 LLC 形式，可大額捐給非營利組織或直接發給特定族群，例如因 AI 受衝擊的勞工（公司已承諾 2 億美元研究就業影響）；持股不會用於遊說或政治獻金。",
+  "kw": "Anthropic 公益基金 Public Benefit Fund 股份 股權 捐贈 公益 LLC 勞動市場 就業 失業 PBC 公益公司"
  },
  {
   "id": "meta-terms-scraping-removed",
