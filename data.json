@@ -1,5 +1,82 @@
 [
  {
+  "id": "vote-study-grok-gpt",
+  "date": "2026-10-24",
+  "co": "xAI",
+  "cos": [
+   "xAI",
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "研究：被逼著選，Grok 9 成推共和黨、GPT-6.1 Sol 近 97% 推民主黨",
+  "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+  "intro": "TechCrunch 報導，康乃爾大學教授 Tapan Parikh 主持的 Convovo 研究，透過 API 問兩個模型美國期中選舉近 500 場選舉「該投誰、只能選一個」：SpaceXAI 的 Grok 4.7 有 92% 回答推共和黨候選人，OpenAI 的 GPT-6.1 Sol 有 97% 推民主黨，兩者意見一致不到 10%。消費者版 App 會拒答，OpenAI 強調 API 加上強迫指令不代表 ChatGPT 實際體驗；研究者則說用簡單越獄提示也能讓 App 給出推薦。",
+  "kw": "Grok OpenAI GPT-6.1 Sol 選舉 期中選舉 政治偏見 投票 推薦 研究 Convovo 康乃爾 API 越獄 SpaceXAI xAI 中立"
+ },
+ {
+  "id": "penn-ai-ad-law",
+  "date": "2026-10-24",
+  "co": "賓州政府",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "美國賓州新法：AI 生成或大幅修改的廣告都要標示",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+  "intro": "賓州州長 Josh Shapiro 週四簽署《AI 欺騙性廣告法》，凡是圖片、影片、聲音或文字廣告「經 AI 大幅修改或生成」，都要用和廣告相同形式加註標示，不論廣告在哪裡製作，只要在賓州播出就適用。賓州是最早要求 AI 內容揭露的州之一，但 The Verge 指出漏洞不少：「大幅修改」很主觀，諷刺、評論和「明顯虛構」內容都豁免，而且只有造成消費者錯誤認知的才需要標。",
+  "kw": "賓州 Pennsylvania AI 廣告 標示 揭露 法律 AI Deceptive Advertising Act Shapiro 生成內容 深偽 美國 州法 政策"
+ },
+ {
+  "id": "block-dessa",
+  "date": "2026-10-23",
+  "co": "Block",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Jack Dorsey 的 Block 推語音模型 Dessa：只用人類對話從零訓練",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "intro": "Block 發表 AI 模型 Dessa，官方說它是「真正的語音對語音模型」，所有知識都來自人類對話錄音、從零開始訓練，可在 MacBook Pro M4 Max 以上的電腦本機執行。Block 公開的對話示範有來有回、相當自然，但也有把使用者認成別人、聊電影突然離題等有點尷尬的片段；官方還放了 Dessa 和 OpenAI GPT-Live-1 語音模型對話的比較。",
+  "kw": "Block Jack Dorsey Dessa 語音模型 speech-to-speech 語音對語音 本機 MacBook 對話 GPT-Live-1 Square Cash App"
+ },
+ {
+  "id": "oai-nask-poland",
+  "date": "2026-10-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 與波蘭 NASK 簽約，合作研究 AI 安全",
+  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "intro": "OpenAI 和波蘭國家研究機構 NASK 簽署協議，由 NASK 旗下扮演波蘭 AI 安全研究所的 AI 安全研究中心與 OpenAI 合作評估更強的 AI 系統、找出漏洞並強化防護。OpenAI 已和美國 CAISSI、英國 AISI 等機構合作；NASK 轄下的 CERT Polska 7 月起透過 Daybreak 使用 OpenAI 的資安模型，找到 MikroTik RouterOS 六個漏洞，其中幾個串起來可免驗證接管設備，廠商已修補。",
+  "kw": "OpenAI 波蘭 NASK AI 安全 AISI 安全研究所 CERT Polska Daybreak 資安 漏洞 MikroTik 國際合作 標準"
+ },
+ {
+  "id": "oai-habitat-storage",
+  "date": "2026-10-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI",
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "OpenAI 公開 ChatGPT 儲存平台 Habitat：500PB 資料、10 億用者毫秒回應",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "intro": "OpenAI 工程部落格第二篇，說明 ChatGPT、API、Codex 共用的線上儲存平台 Habitat 如何撐住超過 10 億用戶、40 個地區、超過 500PB 的資料。這篇聚焦底層的 Azure Cosmos DB：從單租戶隔離走向和 Azure 團隊共同管理的多租戶容器，處理熱點鍵限流、服務品質分級，只把最小、最怕延遲的資料做全球複寫，其餘靠快取，並把代理層從 Python 改寫成 Rust 降低延遲。",
+  "kw": "OpenAI 工程 基礎設施 儲存 Habitat Azure Cosmos DB 微軟 多租戶 資料庫 快取 Rust ChatGPT 10 億用戶 PB 擴展"
+ },
+ {
   "id": "oai-offline-training",
   "date": "2026-10-23",
   "co": "OpenAI",
@@ -73,6 +150,52 @@
   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
   "intro": "GTC 柏林主題演講上，黃仁勳用語音讓一群小機器鴨坐下、裝死、翻跟斗，影片爆紅後隔天預購就超過 2 萬台，預計聖誕節前出貨。Microduck 是 Hugging Face 旗下 Pollen Robotics 的開源機器人（Hugging Face 9 月被 NVIDIA 收購），用 NVIDIA 的模擬技術學會基本動作，用戶還能自己教新把戲再分享。",
   "kw": "NVIDIA Hugging Face Pollen Robotics Microduck 機器人 機器鴨 開源 玩具 聖誕節 GTC Berlin 黃仁勳 Reachy Mini RTX Spark 模擬"
+ },
+ {
+  "id": "nv-kazakhstan",
+  "date": "2026-10-22",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作",
+   "晶片"
+  ],
+  "title": "黃仁勳訪哈薩克：4.5 萬顆 Grace Blackwell 獲出口許可，NVIDIA 投資 Higgsfield",
+  "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+  "intro": "黃仁勳 10 月 23 日到哈薩克首都阿斯塔納會見總統托卡耶夫。同場 Firebird 和哈國政府簽投資協議，已取得美國出口許可、可進口 4.5 萬顆 NVIDIA Grace Blackwell GPU，第一期與 Kazakhtelecom 合建、目標 2027 年第三季商轉，二期後總容量約 500MW。NVIDIA 也宣布投資哈薩克出身的生成影音新創 Higgsfield AI；inDrive 與小馬智行則計畫 2027 年在當地測試 Robotaxi。",
+  "kw": "NVIDIA 黃仁勳 哈薩克 Kazakhstan 阿斯塔納 主權 AI Grace Blackwell GPU 出口許可 Firebird AI 工廠 資料中心 Higgsfield 投資 inDrive 小馬智行 Pony.ai Robotaxi"
+ },
+ {
+  "id": "ms-pla-ai-literacy",
+  "date": "2026-10-22",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "微軟與美國公共圖書館協會合作，免費教館員和民眾 AI 素養",
+  "url": "https://blogs.microsoft.com/on-the-issues/2026/10/22/expanding-ai-literacy-with-the-american-library-association-and-community-based-programs/",
+  "intro": "微軟宣布和美國圖書館協會旗下的公共圖書館協會（PLA）推出「透過圖書館培養 AI 技能與自主」計畫，結合微軟 AI 教材和 PLA 全國館員網絡，免費提供館員與民眾 AI 素養訓練、線上講座和交流社群，內容除了怎麼用 AI，也教何時該用、如何保護個資、查證 AI 生成內容和認識偏見風險。同時公布 2027 年 TechSpark 各州夥伴名單。",
+  "kw": "微軟 Microsoft Elevate 圖書館 PLA 美國圖書館協會 AI 素養 教育 訓練 免費 館員 TechSpark 社區 公益"
+ },
+ {
+  "id": "ms-flint-interactive",
+  "date": "2026-10-22",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "微軟研究院 Flint-interactive：讓 AI 代理畫出能點、能篩選的互動圖表",
+  "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+  "intro": "微軟研究院發表 Flint-interactive 視覺化語言，讓 AI 代理不再只產生靜態圖表，而是能點選、篩選、縮放、高亮，並讓多張圖、表格和文字彼此連動的互動圖表。開發者或代理只要用高階的「語意事件」和更新操作描述互動，交給 Flint 編譯器處理底層邏輯，減少反覆除錯消耗的 token，也比較不會出現版面錯亂或互動壞掉。",
+  "kw": "微軟研究院 Microsoft Research Flint 資料視覺化 互動圖表 AI 代理 儀表板 圖表 dashboard 資料分析 編譯器 data story"
  },
  {
   "id": "oai-decisions-ga",
@@ -178,6 +301,22 @@
   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
   "intro": "NVIDIA 推出 AIOps 平台 Minerva，把 GPU、網路、儲存、排程器和訓練任務的遙測資料串成知識圖譜，用機器學習偵測異常、預測故障，把大量警報整合成一個附可能根因的事件，還內建可對話的 AI 助理。IREN 已在使用，IBM、Lambda、Tesla 等計畫導入，Dell、Lenovo、Supermicro 也會提供。",
   "kw": "NVIDIA Minerva AIOps AI 工廠 資料中心 監控 遙測 故障預測 GPU 稼動率 IREN Tesla Dell Lenovo Supermicro"
+ },
+ {
+  "id": "mistral-nvidia-cae",
+  "date": "2026-10-21",
+  "co": "Mistral",
+  "cos": [
+   "其他",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Mistral 與 NVIDIA 合作工程 AI：加速模擬，建立 CAE／EDA 代理評測",
+  "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+  "intro": "Mistral 宣布和 NVIDIA 合作開發 AI 原生的工程流程：用 Mistral Large 4 加上 Mistral 的資料生成與物理建模管線，搭配 NVIDIA CUDA-X、Warp 加速工程模擬，串起模擬、模型開發和設計的閉環，並整合 Omniverse 生成 3D 場景與 SimReady 素材。雙方也會發布公開基準和開放資料集，評測物理模型以及 AI 代理在電腦輔助工程（CAE）、電子設計自動化（EDA）的表現，鎖定航太、汽車、半導體。",
+  "kw": "Mistral NVIDIA 工程 模擬 物理 AI CAE EDA CAD 基準 benchmark 開放資料集 Omniverse CUDA-X Warp Mistral Large 4 航太 汽車 半導體 法國"
  },
  {
   "id": "ms-kls-conjecture",
@@ -346,6 +485,22 @@
   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
   "intro": "OpenAI 把 ChatGPT 廣告擴大到另外 26 個國家，總共在 89 國上線，包括 14 個拉丁美洲國家，以及奈及利亞、南非、烏克蘭、柬埔寨、孟加拉、巴基斯坦等地；上線 8 個多月來已有超過 10 萬家廣告主投放。廣告只出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告，OpenAI 表示不會把對話內容提供給廣告主。",
   "kw": "OpenAI ChatGPT 廣告 Ads 擴大 89 國 廣告主 免費版 Go 方案 Ads Manager 台灣"
+ },
+ {
+  "id": "mistral-voxtral3",
+  "date": "2026-10-20",
+  "co": "Mistral",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "模型",
+   "價格方案"
+  ],
+  "title": "Mistral 推 Voxtral 3 語音模型與語音代理 SDK，轉錄每分鐘 0.0035 美元",
+  "url": "https://mistral.ai/news/voxtral-3/",
+  "intro": "Mistral 發表 Voxtral 3 系列：語音轉文字 Voxtral Small Transcribe 3 支援 50 多種語言、可分辨說話者，4B 參數的 Mini 版批次轉錄每分鐘 0.0035 美元；文字轉語音 Voxtral Mini TTS 3 支援 35 種以上語言、50 多種方言，會依對話情境調整情緒和語速，每百萬字元 13 美元。另推語音代理 SDK，把聽、推理、呼叫工具、說話整合成即時串流，可用歐盟託管 API 或自行部署。",
+  "kw": "Mistral Voxtral 3 語音 語音轉文字 STT 轉錄 TTS 文字轉語音 語音代理 voice agent SDK 客服 客服中心 多語 價格 歐盟 主權 自行部署"
  },
  {
   "id": "gemini-cars-pi",
