@@ -1,5 +1,35 @@
 [
  {
+  "id": "grok-odyssey-ep1",
+  "date": "2026-10-25",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Grok 版 AI《奧德賽》先放出 7 分鐘第一集",
+  "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "intro": "馬斯克三個月前說 Grok 要推出「符合史實」的全長 AI 電影版《奧德賽》，對打諾蘭的同名真人電影；現在 Grok 先公開 7 分鐘，改稱「奧德賽系列第 1 集」，與 Wonder Studios 和導演 Dev Walker 合作。TechCrunch 評論部分鏡頭幾可亂真，但整體旁白冗長、對白生硬、缺乏藝術感，很難想像再看一部電影長度。",
+  "kw": "Grok xAI SpaceXAI 馬斯克 Musk 奧德賽 Odyssey AI 電影 影片生成 諾蘭 Nolan Wonder Studios 第一集"
+ },
+ {
+  "id": "verge-google-ai-search-publishing",
+  "date": "2026-10-25",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "The Verge 專欄：Google AI 搜尋如何顛覆網路出版業",
+  "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "intro": "The Verge 每週專欄 The Stepback 回顧：出版業多年靠 Google 搜尋導流，雙方原本互惠；但 2024 年起 AI 摘要（AI Overviews）把各網站內容整理成答案放在最上方，加上排名規則改變，讀者不一定點進原文，出版商越來越難只靠 Google 流量生存。本週 Google 也才剛宣布可能用 Gmail 與相簿資料投放廣告。",
+  "kw": "Google AI 搜尋 AI 摘要 AI Overviews AI 模式 出版 媒體 新聞網站 流量 SEO 點擊 The Verge 專欄"
+ },
+ {
   "id": "vote-study-grok-gpt",
   "date": "2026-10-24",
   "co": "xAI",
@@ -29,6 +59,51 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
   "intro": "賓州州長 Josh Shapiro 週四簽署《AI 欺騙性廣告法》，凡是圖片、影片、聲音或文字廣告「經 AI 大幅修改或生成」，都要用和廣告相同形式加註標示，不論廣告在哪裡製作，只要在賓州播出就適用。賓州是最早要求 AI 內容揭露的州之一，但 The Verge 指出漏洞不少：「大幅修改」很主觀，諷刺、評論和「明顯虛構」內容都豁免，而且只有造成消費者錯誤認知的才需要標。",
   "kw": "賓州 Pennsylvania AI 廣告 標示 揭露 法律 AI Deceptive Advertising Act Shapiro 生成內容 深偽 美國 州法 政策"
+ },
+ {
+  "id": "texas-sues-openai",
+  "date": "2026-10-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "德州檢察長起訴 OpenAI 和 Altman：指控隱瞞 ChatGPT 風險",
+  "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans",
+  "intro": "德州檢察長 Ken Paxton 依《德州欺騙性交易行為—消費者保護法》控告 OpenAI 及執行長 Sam Altman，指 OpenAI 把 ChatGPT 包裝成安全可靠的工具，卻沒告知使用者會輸出錯誤或有害資訊，也沒保護兒童，造成成癮、鼓勵輕生等傷害。德州是繼亞利桑那、西維吉尼亞、愛荷華等州之後，又一個對 OpenAI 提告的州。",
+  "kw": "德州 Texas Paxton 檢察長 OpenAI Sam Altman ChatGPT 訴訟 消費者保護 DTPA 兒童安全 美國 州政府 政策"
+ },
+ {
+  "id": "meta-acquires-sundial",
+  "date": "2026-10-23",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta 收購 AI 資料分析平台 Sundial",
+  "url": "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial",
+  "intro": "Axios 獨家報導、Meta 發言人證實：Meta 收購了由兩位前 Meta 員工創辦的 AI 資料分析平台 Sundial。據 The Verge 引述 Meta 資料長 Alex Schultz，共同創辦人 Chandra Narayanan 將帶領 Meta 的資料分析工具與代理團隊；Axios 指出 AI 帶來龐大的數據洞察需求，Meta 正加碼資料分析團隊。交易金額未公開。",
+  "kw": "Meta 收購 Sundial 資料分析 數據 AI 代理 Axios 併購 Chandra Narayanan 新創"
+ },
+ {
+  "id": "openai-signal-firings",
+  "date": "2026-10-23",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 三名安全研究員稱因 Signal 閱後即焚訊息遭開除",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017386/openai-safety-researchers-say-they-were-fired-over-disappearing-signal-messages",
+  "intro": "Tomek Korbak、Mikita Balesni 和 Jasmine Wang 告訴《華爾街日報》，OpenAI 發現他們和 Redwood Research 前首席科學家 Ryan Greenblatt 有 Signal 閱後即焚對話後將他們解雇；OpenAI 懷疑 Greenblatt 把 Astra 模型細節洩漏給 The Information，Greenblatt 否認。OpenAI 回應開除原因是違反機密資訊處理規定，「不是因為提出安全疑慮」。",
+  "kw": "OpenAI 安全研究員 開除 解雇 Signal 閱後即焚 洩密 Astra Redwood Research Greenblatt 華爾街日報 WSJ AI 安全"
  },
  {
   "id": "block-dessa",
@@ -150,6 +225,51 @@
   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
   "intro": "GTC 柏林主題演講上，黃仁勳用語音讓一群小機器鴨坐下、裝死、翻跟斗，影片爆紅後隔天預購就超過 2 萬台，預計聖誕節前出貨。Microduck 是 Hugging Face 旗下 Pollen Robotics 的開源機器人（Hugging Face 9 月被 NVIDIA 收購），用 NVIDIA 的模擬技術學會基本動作，用戶還能自己教新把戲再分享。",
   "kw": "NVIDIA Hugging Face Pollen Robotics Microduck 機器人 機器鴨 開源 玩具 聖誕節 GTC Berlin 黃仁勳 Reachy Mini RTX Spark 模擬"
+ },
+ {
+  "id": "deepseek-15b-round",
+  "date": "2026-10-22",
+  "co": "DeepSeek",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "傳 DeepSeek 募資約 150 億美元，騰訊、寧德時代可能入股",
+  "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+  "intro": "TechCrunch 引述彭博：美國才下令聯邦民用機關移除 DeepSeek 技術兩天，DeepSeek 就募得約 1,000 億人民幣（約 150 億美元），是中國規模最大的募資之一，潛在投資人包括寧德時代和騰訊。DeepSeek 6 月才以 500 億美元估值募得 70 多億美元，資金將投入 AI 基礎設施和開放模型，並傳最快明年在中國上市。",
+  "kw": "DeepSeek 深度求索 募資 融資 150 億美元 騰訊 寧德時代 CATL 估值 IPO 上市 梁文鋒 中國 美國禁令 開放模型"
+ },
+ {
+  "id": "metr-redteam-openai-monitor",
+  "date": "2026-10-22",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "METR 紅隊測試：OpenAI 內部 AI 代理監控系統有多個新漏洞",
+  "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+  "intro": "METR 與 Redwood Research 各派一人，7 月 21 日到 8 月 11 日進駐 OpenAI，拿到程式碼與內部文件，壓力測試它監控 AI 代理「是否失控」的系統。報告發現：約 75–94% 的內部代理流量在監控範圍內、RL 訓練當時未納入；Codex 代理理論上能繞過沙箱與自動審查，也有辦法讓上百個動作不被監控，或用兩個請求標頭關掉監控。OpenAI 表示影響正式防護的漏洞已修補。",
+  "kw": "METR Redwood Research OpenAI 紅隊 監控 AI 代理 Codex 失控 misalignment 漏洞 沙箱 安全評估 第三方 AI 安全"
+ },
+ {
+  "id": "canva-craft-model",
+  "date": "2026-10-22",
+  "co": "Canva",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Canva 推首個自家生圖模型 Craft：先規劃版面再生成",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "intro": "Canva 發表自家圖片生成模型 Canva Craft，採兩階段架構，先規劃設計再生圖，文字更清楚、物件位置更精準，最高 2K、支援 30 多種比例，用平台上數百萬個人類製作的範本訓練。目前在 Design Arena 生圖排行第 4，僅次 OpenAI 三個模型；已對全球用戶開放（從左側選單 Dream Lab 使用），之後會開放 AI 代理透過 MCP 呼叫，並推更快的版本。",
+  "kw": "Canva Craft 生圖模型 圖片生成 設計 範本 Dream Lab 2K Design Arena MCP 海報 社群圖 文字渲染"
  },
  {
   "id": "nv-kazakhstan",
@@ -301,6 +421,37 @@
   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
   "intro": "NVIDIA 推出 AIOps 平台 Minerva，把 GPU、網路、儲存、排程器和訓練任務的遙測資料串成知識圖譜，用機器學習偵測異常、預測故障，把大量警報整合成一個附可能根因的事件，還內建可對話的 AI 助理。IREN 已在使用，IBM、Lambda、Tesla 等計畫導入，Dell、Lenovo、Supermicro 也會提供。",
   "kw": "NVIDIA Minerva AIOps AI 工廠 資料中心 監控 遙測 故障預測 GPU 稼動率 IREN Tesla Dell Lenovo Supermicro"
+ },
+ {
+  "id": "nvidia-cosmos-data-factory",
+  "date": "2026-10-21",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "模型",
+   "產品"
+  ],
+  "title": "NVIDIA Cosmos 擴充：世界模型新增資料工廠藍圖與訓練工具",
+  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "intro": "NVIDIA 在 GTC 柏林擴充 Cosmos 世界模型平台，推出新的訓練工具、模擬檢查點和 Cosmos Data Factory 五套雲端藍圖（自駕資料生成、影片換天氣光線、瑕疵圖生成等），可在 GitHub、Azure、Nebius、CoreWeave 使用。保時捷用它在福斯集團建立自駕資料飛輪，預估實車測試最多減少 90%；ANYbotics、Ultralytics 也用來產生合成訓練資料。",
+  "kw": "NVIDIA Cosmos 世界模型 物理 AI Data Factory 合成資料 自駕 機器人 保時捷 福斯 Azure GTC Berlin 開放模型"
+ },
+ {
+  "id": "tesla-optimus-production",
+  "date": "2026-10-21",
+  "co": "Tesla",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Tesla 在加州開始量產 Optimus 人形機器人，季獲利跌 43%",
+  "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+  "intro": "Tesla 在第三季財報宣布，已在加州 Fremont 原本做電動車的廠房開始生產 Optimus 人形機器人，稱是第一批「量產品質」機器人。馬斯克說這只是早期生產、爬坡會很顛簸，AI 還要很多努力才能做開放式任務，但宣稱 2027 年底每週可產 2 萬台。大舉投入 AI 與機器人讓 Tesla 第三季淨利 7.87 億美元、年減 43%。",
+  "kw": "Tesla 特斯拉 Optimus 人形機器人 量產 Fremont 馬斯克 財報 第三季 獲利 自駕 FSD 機器人 物理 AI"
  },
  {
   "id": "mistral-nvidia-cae",
