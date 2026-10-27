@@ -1,5 +1,158 @@
 [
  {
+  "id": "anthropic-ipo-s1",
+  "date": "2026-10-26",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Anthropic 正式申請上市：上半年營收 163 億美元，代號 ANT",
+  "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+  "intro": "外流 S-1 傳了幾週後，Anthropic 週一正式向美國 SEC 申請 IPO，預計以「ANT」掛牌。文件顯示 2026 上半年營收 163 億美元（去年同期 12 億），營業虧損縮小到 6.93 億美元；年花費 10 萬美元以上的客戶超過 11,900 家。七位共同創辦人組成的「Founder LLC」將掌握 50.1% 投票權，公司稱是為了守住 AI 安全使命，但也引發公眾股東難以監督的爭議；募資金額與股價尚未公布。",
+  "kw": "Anthropic Claude IPO 上市 S-1 SEC ANT 營收 虧損 企業客戶 Founder LLC 投票權 Dario Amodei 長期利益信託 Long-Term Benefit Trust"
+ },
+ {
+  "id": "openai-gpt-6-1-terra",
+  "date": "2026-10-26",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "OpenAI 推 GPT-6.1 Terra：電腦操作大進步，API 價格砍半",
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+  "intro": "OpenAI 推出主打速度與成本的 GPT-6.1 Terra，強化看圖推理、操作電腦和寫作，適合寫提案、看工程圖、填表單、剪影片等日常工作。官方說在 Agents' Last Exam 上比 GPT-5.6 Terra 高 15 個百分點、成本約三分之一，表現接近 GPT-6 Astra 但每 token 只要十分之一價。即日起開放 ChatGPT Work 與 Codex 的 Plus、Pro、Enterprise、Edu 用戶，API 每百萬輸入 token 1 美元、輸出 5 美元，比 GPT-5.6 Terra 便宜一半。",
+  "kw": "OpenAI GPT-6.1 Terra 新模型 電腦操作 computer use 視覺推理 Codex ChatGPT Work API 價格 降價 Agents' Last Exam OSWorld"
+ },
+ {
+  "id": "openai-science-discoveries-shepherds",
+  "date": "2026-10-26",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "OpenAI 再公布三項 AI 科學發現：含推翻「指數時間假說」",
+  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "intro": "OpenAI 說內部模型在數學、電腦科學和物理各有一項新發現：證明波動方程的局部平滑性（連帶推出 Kakeya 猜想）、給出 3-SAT 次指數時間演算法而推翻「指數時間假說」，以及四維含規範場與費米子的量子場論存在性證明。這次改請外部學者當「牧羊人」組工作小組來檢驗解釋，成員不簽保密協議、OpenAI 不求學術掛名；The Verge 指出，OpenAI 找的數學顧問小組才剛建議 AI 公司不要採用這種指定專人先看的做法。",
+  "kw": "OpenAI 科學發現 數學 證明 指數時間假說 ETH 3-SAT Kakeya 猜想 量子場論 物理 學術 同儕審查 AI 研究"
+ },
+ {
+  "id": "spacex-apollo-40b-gpu-lease",
+  "date": "2026-10-26",
+  "co": "xAI",
+  "cos": [
+   "xAI",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "SpaceX 與 Apollo 簽 400 億美元 GPU 融資租賃，買 Vera Rubin 算 Grok",
+  "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "intro": "SpaceX 在監管文件中揭露，私募巨頭 Apollo 旗下實體將出資約 400 億美元買下 AI 晶片與伺服器再租給 SpaceX，租期約 5 年，預計年底前完成、2027 上半年起陸續交機；Apollo 說這筆錢將用於 NVIDIA 下一代 Vera Rubin 晶片。SpaceX 稱這是「史上最大的承諾 GPU 融資」，第三季 AI 部門（含 Grok、Cursor、雲端算力）營收 76 億美元，已超過 Starlink 加火箭發射。",
+  "kw": "SpaceX xAI SpaceXAI Grok 馬斯克 Apollo GPU 融資 租賃 Vera Rubin NVIDIA 資料中心 算力 Cursor 資本支出"
+ },
+ {
+  "id": "meta-95b-stock-offering",
+  "date": "2026-10-26",
+  "co": "Meta",
+  "cos": [
+   "Meta",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta 宣布募資 950 億美元增資發股，NVIDIA、AMD、博通有意認購",
+  "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+  "intro": "上週才說要新增股票類別籌錢的 Meta，週一正式宣布總計 950 億美元的股權募資：先承銷公開發行 350 億美元，再透過「按市價發行」募另外 600 億，用在 AI 基礎設施、超級智慧、Muse 個人代理和資料中心業務；NVIDIA、AMD、博通表示有意合計認購最多 50 億美元。Meta 全年資本支出預估上修到 1,350 億至 1,450 億美元，消息公布後股價早盤跌 1.6%。",
+  "kw": "Meta 募資 增資 發股 股票 950 億美元 AI 基礎設施 超級智慧 Muse 資料中心 NVIDIA AMD Broadcom 博通 資本支出 祖克柏"
+ },
+ {
+  "id": "tencent-hy-simulmt",
+  "date": "2026-10-26",
+  "co": "中國大廠",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "騰訊混元開源同聲傳譯模型 Hy-SimulMT：中英邊聽邊譯，延遲約 3 秒",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-SimulMT",
+  "intro": "騰訊混元發布並開源 Hy-SimulMT（30B 總參數、3B 激活），能邊聽邊做中英雙向語音同傳，同步輸出譯文文字與語音，可選擇保留說話者音色，主打會議、演講、訪談。官方在 RealSI 長音訊評測中延遲（StreamLAAL）約 3 秒，翻譯品質勝過比較的開源模型和 5 家商用 API 中的 4 家；模型放上 Hugging Face、ModelScope，附推理服務與訓練工具，也能在 Hy 翻譯 App 體驗。",
+  "kw": "騰訊 Tencent 混元 Hunyuan Hy-SimulMT 同聲傳譯 同傳 即時翻譯 語音翻譯 中英 開源 Hugging Face ModelScope 會議 演講 Hy 翻譯"
+ },
+ {
+  "id": "aws-polly-generative-upgrade",
+  "date": "2026-10-20",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Amazon Polly 生成式語音大升級：新增 14 種聲音，價格不變",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
+  "intro": "AWS 的文字轉語音服務 Amazon Polly 升級生成式引擎，語音更自然，聲音增加到 57 種、涵蓋 11 種語言 25 個地區，其中新增 14 種聲音（含 2 種巴西葡萄牙語），印地語和芬蘭語首次正式開放。開發者不用改程式，聲音名稱、API 呼叫方式和價格都不變，就能直接拿到更自然的輸出。",
+  "kw": "Amazon AWS Polly 文字轉語音 TTS 生成式語音 新聲音 印地語 芬蘭語 葡萄牙語 API 開發者 配音"
+ },
+ {
+  "id": "google-ai-quests-polar-peaks",
+  "date": "2026-10-26",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 推 AI 教育遊戲新關卡「Polar Peaks」：讓國中生用 AI 畫腦神經地圖",
+  "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+  "intro": "Google Research 和史丹佛學習加速器合作的 AI Quests 推出第 3 關「Polar Peaks」，讓 11 到 14 歲學生扮演研究員，掃描並繪製大腦神經元來找出角色失憶原因，過程中親手做資料清理和模型測試，學到 AI 需要人類把關。靈感來自 Google 十多年的連結體學研究（如完整果蠅腦圖）；系列已累計完成超過 40 萬次、10 種語言，並推出教師培訓課程。",
+  "kw": "Google AI Quests Polar Peaks 教育 AI 素養 學生 國中 遊戲 神經科學 腦圖 連結體 史丹佛 Google Research 教師"
+ },
+ {
+  "id": "openai-signals-work-data",
+  "date": "2026-10-26",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 公開 ChatGPT 工作用途資料：近百國、165 種工作活動",
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "intro": "OpenAI 經濟研究團隊釋出「OpenAI Signals」資料集，把近 100 個國家的消費者 ChatGPT 工作相關對話，對應到美國 O*NET 職業資料庫的 165 種中階工作活動（如準備教材、做行銷內容、寫程式、分析商業數據），以季為單位涵蓋 2025 年第一季到 2026 年第三季。研究者可以下載比較各國用法差異、追蹤變化，並和其他經濟指標對照，研究 AI 對勞動市場的影響。",
+  "kw": "OpenAI ChatGPT 經濟研究 Signals 資料集 工作 勞動市場 就業 O*NET 職業 各國 研究 數據 開放資料"
+ },
+ {
+  "id": "entire-dohmke-ai-agents-git",
+  "date": "2026-10-26",
+  "co": "其他",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "GitHub 前執行長 Dohmke 推出 Entire：為 AI 代理打造的程式碼平台",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018817/githubs-former-ceo-launched-a-competing-platform-for-ai-agents",
+  "intro": "前 GitHub 執行長 Thomas Dohmke 在 7 月預告後，正式推出去中心化程式碼平台 Entire。它和 GitHub 一樣能存放、審查程式碼，但專為 AI 代理設計，用「Trails」取代 Pull Request：每次推送程式碼都會跑可自訂的評測，由 AI 代理打分數，等於直接挑戰微軟旗下的 GitHub。",
+  "kw": "Entire Thomas Dohmke GitHub 前執行長 微軟 Microsoft AI 代理 coding agent 程式碼託管 Pull Request Trails 評測 去中心化",
+  "noOg": true
+ },
+ {
   "id": "grok-odyssey-ep1",
   "date": "2026-10-25",
   "co": "xAI",
