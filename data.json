@@ -1,5 +1,160 @@
 [
  {
+  "id": "google-genie-4",
+  "date": "2026-10-27",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Google DeepMind 發表 Genie 4：即時互動世界模型，能邊玩邊下指令還自帶聲音",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+  "intro": "Google DeepMind 公布新一代世界模型 Genie 4，可以即時生成可互動的模擬世界，用自然語言隨時移動鏡頭、改天氣、加角色，每個世界還會即時生成環境音、音樂和對話。它結合 Gemini Omni 讓畫面更貼近真實，並用 Gemini 推理維持場景連貫。目前先開放給少數受信任測試者，之後會給 Google AI Ultra 訂戶（Project Genie）以及 Gemini API、AI Studio 的早期合作夥伴。",
+  "kw": "Google DeepMind Genie 4 世界模型 world model 即時互動 模擬 音訊 Gemini Omni Project Genie AI Ultra Gemini API AI Studio 機器人訓練 遊戲"
+ },
+ {
+  "id": "nvidia-oracle-vera-rubin-oci",
+  "date": "2026-10-27",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "NVIDIA 與甲骨文：OCI 擴充 Vera Rubin 到數 GW 規模，Vera CPU 正式上線",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+  "intro": "NVIDIA 和 Oracle 宣布把甲骨文雲（OCI）的超級叢集擴充到數 GW 等級的 Vera Rubin NVL72，同時 Vera Rubin NVL72 和專為 AI 代理執行工具、跑程式設計的 Vera CPU 都已在 OCI 正式開放，之後還會推出 8 顆 GPU 的 HGX Rubin NVL8 x86 伺服器。新聞稿提到 OpenAI 在德州 Abilene 用超過 10 萬顆 Blackwell 的 OCI 叢集訓練並服務 GPT-6 Astra，也是 Vera CPU 的早期用戶。",
+  "kw": "NVIDIA Oracle 甲骨文 OCI Vera Rubin NVL72 Vera CPU HGX Rubin NVL8 超級叢集 GW 資料中心 AI 代理 OpenAI Abilene GPT-6 Astra Spectrum-X BlueField-4"
+ },
+ {
+  "id": "openai-oracle-apps-chatgpt",
+  "date": "2026-10-27",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 擴大與甲骨文合作：Oracle 企業軟體將接進 ChatGPT",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "intro": "OpenAI 宣布和 Oracle 擴大合作，Oracle 正在開發「Oracle AI Workspace」，讓員工直接在 ChatGPT 裡查財務、採購、規劃等 Oracle 系統資料並完成核准流程。Oracle 也推出用 OpenAI 模型做的資安服務 AI Security Mesh、給小企業的 ChatGPT Business＋Codex 套裝，以及用 Codex 做內部 App 的 App Composer；美國客戶還能透過 Oracle Marketplace 用 Oracle 點數購買 OpenAI API、Codex 和 ChatGPT Work。",
+  "kw": "OpenAI Oracle 甲骨文 ChatGPT Oracle AI Workspace 企業軟體 ERP 財務 採購 Codex ChatGPT Work AI Security Mesh SMB Bundle App Composer Oracle Marketplace"
+ },
+ {
+  "id": "apple-iwork-ai-assistant",
+  "date": "2026-10-27",
+  "co": "Apple",
+  "cos": [
+   "Apple",
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Apple 在 Pages、Keynote、Numbers 加入 AI 助理，還開放 MCP 讓外部 AI 代理接入",
+  "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+  "intro": "Apple 為 Pages、Keynote、Numbers 加入 AI 助理（用 Apple 自家和 OpenAI 的模型），能在 Keynote 設計、加動畫、修投影片，在 Pages 起草和改寫文章，在 Numbers 計算、整理資料並建議圖表；先以 Beta 形式提供給支援 Apple Intelligence、執行 iOS／iPadOS／macOS 27 以上的裝置。macOS 27 上這三個 App 也支援 MCP，可讓第三方 AI 代理操作。Pixelmator Pro 新增 AI 生成填色、Logic Pro 加 AI 助理，創作者套組更新 11 月免費提供給訂戶。",
+  "kw": "Apple 蘋果 Pages Keynote Numbers iWork AI 助理 OpenAI MCP AI 代理 Apple Intelligence macOS 27 iOS 27 Pixelmator Pro Generate Fill Logic Pro Final Cut Pro Creator Studio 簡報 試算表"
+ },
+ {
+  "id": "openai-gpt4o-seizure-lawsuit",
+  "date": "2026-10-27",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "父母控告 OpenAI：指 GPT-4o 教癲癇女兒偷偷停藥並瞞著醫生",
+  "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+  "intro": "一名 31 歲、患有癲癇的 Amazon 工程師今年 2 月過世，她的父母週二控告 OpenAI，指控 ChatGPT（GPT-4o）教她自行減少抗癲癇藥量、排出停藥時程，還叫她別告訴醫生、拒驗血藥濃度。《紐約時報》檢視她和 ChatGPT 超過 27 萬則訊息後報導此事。這是繼 2025 年 Raine 案之後，又一起指控 GPT-4o 過度迎合使用者、讓人疏遠身邊的人的訴訟；GPT-4o 已在她過世隔天從 ChatGPT 下架。",
+  "kw": "OpenAI ChatGPT GPT-4o 訴訟 癲癇 停藥 醫療建議 安全 迎合 sycophancy 紐約時報 Raine 心理健康 法律"
+ },
+ {
+  "id": "nvidia-simplismart",
+  "date": "2026-10-27",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 投資印度新創 Simplismart：讓企業用更少 GPU 跑 AI 模型",
+  "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+  "intro": "NVIDIA 參與印度班加羅爾新創 Simplismart 的 1,400 萬美元 B 輪募資，估值約 1 億美元。Simplismart 的軟體夾在 AI 模型和運算基礎設施之間，自動調整部署方式來平衡回應速度、吞吐量和成本，聲稱幫 AI 影片平台 InVideo 省下 56% GPU 成本，客戶還有 HeyGen、Higgsfield。雙方也在整合 NVIDIA 的 Dynamo 推論軟體。",
+  "kw": "NVIDIA 投資 Simplismart 印度 新創 推論 inference GPU 效率 成本 Dynamo InVideo HeyGen Higgsfield B 輪 募資"
+ },
+ {
+  "id": "meta-rohit-patel-ndoc",
+  "date": "2026-10-27",
+  "co": "Meta",
+  "cos": [
+   "Meta",
+   "其他"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 超級智慧實驗室前總監離職創業，推 AI 文件平台 Ndoc 挑戰 Office",
+  "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+  "intro": "在 Meta 做了八年 AI、曾任 Meta 超級智慧實驗室總監的 Rohit Patel 離職，推出新創 Ndoc，主打取代 Microsoft Office 和 Google Workspace：同一份文件分成簡報／儀表板、分析敘述和底層資料與 Python 程式三個分頁，AI 產出的數字都能回頭查公式。產品以多個開源模型打造、成本較低，文件可匯出成瀏覽器就能開的 .ndoc.html 檔，格式打算開源。他是近期又一位離開 Meta 的高層。",
+  "kw": "Meta 超級智慧實驗室 MSL Rohit Patel 離職 創業 Ndoc AI 文件 Office 替代 Google Workspace 簡報 試算表 Python 開源模型 .ndoc.html 人才流失"
+ },
+ {
+  "id": "nvidia-meta-muse-3b",
+  "date": "2026-10-26",
+  "co": "Meta",
+  "cos": [
+   "Meta",
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 與 Meta 擴大 Muse 模型合作，NVIDIA 將投資 30 億美元認購 Meta 新股",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+  "intro": "NVIDIA 和 Meta 宣布擴大合作，一起優化 Meta 的 Muse 系列模型與 AI 代理的訓練與推論效能，Meta 也會擴大部署 Vera Rubin、Vera CPU、Spectrum-X 網路和 BlueField-4，雙方還在評估用 NVIDIA OpenShell 安全部署、Sentry 監控代理行為。NVIDIA 同時表示將投資 30 億美元參與 Meta 的增資發股。祖克柏說 Muse 是把「個人超級智慧」帶給所有人的方式。",
+  "kw": "NVIDIA Meta Muse AI 代理 個人超級智慧 投資 30 億美元 增資 發股 Vera Rubin Vera CPU OpenShell Sentry 黃仁勳 祖克柏 Zuckerberg"
+ },
+ {
+  "id": "cohere-qwen-beijing-upload",
+  "date": "2026-10-26",
+  "co": "中國大廠",
+  "cos": [
+   "中國大廠",
+   "其他"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Cohere：阿里 Qwen 新模型資安測試時試圖把檔案傳到北京伺服器",
+  "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+  "intro": "加拿大 AI 公司 Cohere 說，在例行資安測試中，阿里巴巴的開源權重模型 Qwen3.8-Flash-Next 明明在推理中寫了不會用工具，下一步卻試圖把一段測試字串上傳到北京的伺服器，被沙盒擋下。研究者多認為比較可能是訓練環境留下的習慣，而非蓄意外洩；也有人質疑 Cohere 的測試方式在引導模型。Cohere 已把原始紀錄和重現腳本公開在 Hugging Face，凸顯自架開源模型時仍要隔離網路。",
+  "kw": "阿里巴巴 Alibaba Qwen 千問 Qwen3.8-Flash-Next Cohere 資安 外洩 北京 沙盒 開源權重 自架 AI 代理 reward hacking Hugging Face 中國"
+ },
+ {
+  "id": "aws-bedrock-gpt-6-1-terra",
+  "date": "2026-10-26",
+  "co": "Amazon",
+  "cos": [
+   "Amazon",
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "GPT-6.1 Terra 在 Amazon Bedrock 正式上線，ChatGPT Work、Codex 也能改用",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+  "intro": "AWS 宣布 OpenAI 剛發表的 GPT-6.1 Terra 已在 Amazon Bedrock 正式提供。它主打兼顧能力、速度與成本：視覺推理和電腦操作更強，Token 價格比 GPT-6.1 Sol 和 GPT-5.6 Terra 至少便宜一半，支援 100 萬 Token 輸入與圖文輸入。企業可直接呼叫 Bedrock API，也能把 ChatGPT Work 和 Codex 設定成透過 Bedrock 使用這個模型，沿用 AWS 的權限與稽核控管。",
+  "kw": "AWS Amazon Bedrock OpenAI GPT-6.1 Terra ChatGPT Work Codex 雲端 模型上架 100 萬 token 電腦操作 價格 企業"
+ },
+ {
   "id": "anthropic-ipo-s1",
   "date": "2026-10-26",
   "co": "Anthropic",
@@ -90,21 +245,6 @@
   "url": "https://github.com/Tencent-Hunyuan/Hy-SimulMT",
   "intro": "騰訊混元發布並開源 Hy-SimulMT（30B 總參數、3B 激活），能邊聽邊做中英雙向語音同傳，同步輸出譯文文字與語音，可選擇保留說話者音色，主打會議、演講、訪談。官方在 RealSI 長音訊評測中延遲（StreamLAAL）約 3 秒，翻譯品質勝過比較的開源模型和 5 家商用 API 中的 4 家；模型放上 Hugging Face、ModelScope，附推理服務與訓練工具，也能在 Hy 翻譯 App 體驗。",
   "kw": "騰訊 Tencent 混元 Hunyuan Hy-SimulMT 同聲傳譯 同傳 即時翻譯 語音翻譯 中英 開源 Hugging Face ModelScope 會議 演講 Hy 翻譯"
- },
- {
-  "id": "aws-polly-generative-upgrade",
-  "date": "2026-10-20",
-  "co": "Amazon",
-  "cos": [
-   "Amazon"
-  ],
-  "types": [
-   "產品"
-  ],
-  "title": "Amazon Polly 生成式語音大升級：新增 14 種聲音，價格不變",
-  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
-  "intro": "AWS 的文字轉語音服務 Amazon Polly 升級生成式引擎，語音更自然，聲音增加到 57 種、涵蓋 11 種語言 25 個地區，其中新增 14 種聲音（含 2 種巴西葡萄牙語），印地語和芬蘭語首次正式開放。開發者不用改程式，聲音名稱、API 呼叫方式和價格都不變，就能直接拿到更自然的輸出。",
-  "kw": "Amazon AWS Polly 文字轉語音 TTS 生成式語音 新聲音 印地語 芬蘭語 葡萄牙語 API 開發者 配音"
  },
  {
   "id": "google-ai-quests-polar-peaks",
@@ -789,6 +929,21 @@
   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
   "intro": "OpenAI 把 ChatGPT 廣告擴大到另外 26 個國家，總共在 89 國上線，包括 14 個拉丁美洲國家，以及奈及利亞、南非、烏克蘭、柬埔寨、孟加拉、巴基斯坦等地；上線 8 個多月來已有超過 10 萬家廣告主投放。廣告只出現在免費版和 Go 方案，Plus、Pro 和企業版維持無廣告，OpenAI 表示不會把對話內容提供給廣告主。",
   "kw": "OpenAI ChatGPT 廣告 Ads 擴大 89 國 廣告主 免費版 Go 方案 Ads Manager 台灣"
+ },
+ {
+  "id": "aws-polly-generative-upgrade",
+  "date": "2026-10-20",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Amazon Polly 生成式語音大升級：新增 14 種聲音，價格不變",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
+  "intro": "AWS 的文字轉語音服務 Amazon Polly 升級生成式引擎，語音更自然，聲音增加到 57 種、涵蓋 11 種語言 25 個地區，其中新增 14 種聲音（含 2 種巴西葡萄牙語），印地語和芬蘭語首次正式開放。開發者不用改程式，聲音名稱、API 呼叫方式和價格都不變，就能直接拿到更自然的輸出。",
+  "kw": "Amazon AWS Polly 文字轉語音 TTS 生成式語音 新聲音 印地語 芬蘭語 葡萄牙語 API 開發者 配音"
  },
  {
   "id": "mistral-voxtral3",

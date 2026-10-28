@@ -43,9 +43,9 @@ btn.addEventListener('click',function(){var d=new Date(Date.now()+8*36e5).toISOS
  window.open(window.__niURL,'_blank');
  if(confirm('送出後要清除這些勾選嗎？（已列入的才會清除）')){for(var j=0;j<lines.length;j++)delete st[ks[j]];document.querySelectorAll('.c').forEach(function(c){if(!st[c.getAttribute('href')]){c.classList.remove('ni-on');c.querySelector('.nic').checked=false}});save();}});
 save();})();'''
-H = f'''<!DOCTYPE html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大廠 AI 消息 {N} 則 2026-10-27</title><style>
+H = f'''<!DOCTYPE html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大廠 AI 消息 {N} 則 2026-10-28</title><style>
 {CSS}</style></head>
-<body><h1>大廠 AI 消息 {N} 則</h1><div class="s">2026-10-27 更新・只收 2026 年 9 月以後・點卡片看原始報導</div><div class="f" id="f"><div class="sb"><input id="q" type="search" placeholder="搜尋公司、模型、關鍵字（例：GPT-6、Claude、降價、台灣）" autocomplete="off"><button id="qc" type="button">清除</button></div>{cb}<div class="pr">{pb}<span class="cnt" id="cnt">{N} 則</span></div></div><div id="em">找不到符合的消息，換個關鍵字試試</div><div class="g">{"".join(cards)}</div><button id="nib" type="button"></button><script>
+<body><h1>大廠 AI 消息 {N} 則</h1><div class="s">2026-10-28 更新・只收 2026 年 9 月以後・點卡片看原始報導</div><div class="f" id="f"><div class="sb"><input id="q" type="search" placeholder="搜尋公司、模型、關鍵字（例：GPT-6、Claude、降價、台灣）" autocomplete="off"><button id="qc" type="button">清除</button></div>{cb}<div class="pr">{pb}<span class="cnt" id="cnt">{N} 則</span></div></div><div id="em">找不到符合的消息，換個關鍵字試試</div><div class="g">{"".join(cards)}</div><button id="nib" type="button"></button><script>
 {JS}
 </script></body></html>'''
 open(f"{D}/index.html", "w", encoding="utf-8").write(H)
