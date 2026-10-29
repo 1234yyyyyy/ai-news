@@ -1,5 +1,156 @@
 [
  {
+  "id": "google-gemini-4-carbon",
+  "date": "2026-10-28",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Google 發表 Gemini 4 Carbon：最強前沿模型，資安與長任務能力領先",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "intro": "Google DeepMind 推出 Gemini 4 Carbon，在 Artificial Analysis 智慧指數 v5.0 以 59 分排第一，找漏洞、利用漏洞和修補漏洞的資安測試都大幅領先，寫程式和長時間代理任務也比兩週前的 Argon 更強。這週先開放給部分資安防禦人員，之後透過 Fairwind 計畫逐步擴大，再開放給開發者和一般用戶。推廣價每百萬輸入 token 2 美元、輸出 10 美元，之後調為 4 美元和 20 美元。",
+  "kw": "Google DeepMind Gemini 4 Carbon Argon 前沿模型 資安 漏洞 SEC-bench ExploitGym 長任務 代理 Fairwind API 價格"
+ },
+ {
+  "id": "openai-servicenow-expand",
+  "date": "2026-10-28",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 與 ServiceNow 擴大合作：ChatGPT 直接查單、改 IT 紀錄",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion/",
+  "intro": "OpenAI 和 ServiceNow 擴大一月開始的合作：新的 ServiceNow 整合讓 IT 人員在 ChatGPT 裡就能找相似事件、評估變更風險、更新紀錄，權限沿用公司原本設定；ServiceNow MCP 外掛已上架 OpenAI 市集。雙方也規劃 Codex 接進 AI Workflow Factory、聯手推資安方案（2027 年 1 月搶先體驗），ServiceNow 全體員工也將用上 ChatGPT Work 和 Codex。",
+  "kw": "OpenAI ServiceNow 合作 企業 ChatGPT Work Codex MCP 外掛 IT 工單 資安 Action Fabric Control Tower"
+ },
+ {
+  "id": "openai-dots-texting",
+  "date": "2026-10-28",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "ChatGPT 的 dot 代理能傳簡訊了：iMessage、RCS 直接對話",
+  "url": "https://learn.chatgpt.com/docs/whats-new/dots-october-28-2026",
+  "intro": "OpenAI 讓 dots（全天候替你做事的 AI 代理）支援簡訊，先以測試版開放給美國 ChatGPT Pro 用戶，可透過 iPhone 的 iMessage 或 Android 的 RCS 一對一傳文字、照片和語音訊息。dot 會依對話內容決定用哪個管道找你，例如有急事才傳簡訊、例行進度留在 ChatGPT；需要你核准的動作會傳連結回 ChatGPT 確認。",
+  "kw": "OpenAI ChatGPT dots 代理 簡訊 iMessage RCS Android Pro 測試版 語音訊息 照片"
+ },
+ {
+  "id": "anthropic-legal-artifacts",
+  "date": "2026-10-28",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Anthropic 替 Claude for Legal 推現成「法律工具」：查引用、審合約、追法規",
+  "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+  "intro": "Anthropic 在 Claude for Legal 推出法律專用的 artifacts 範本庫，這些是可互動的追蹤表和儀表板，涵蓋引用查核、法規變動追蹤、批次審合約、案件追蹤和法務需求收件，每個都先附範例，再接上自己的資料和連接器，並能分享給公司其他部門、沿用既有權限。Anthropic 也資助公益團體和法學院開發相關工具，並啟動 Legal Ambassadors 計畫。",
+  "kw": "Anthropic Claude for Legal artifacts 法律 律師 合約審閱 引用查核 法規 儀表板 連接器 法學院 公益"
+ },
+ {
+  "id": "microsoft-copilot-harness",
+  "date": "2026-10-28",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "微軟開放 Copilot harness：GitHub 打造的多模型代理底層，可在 Foundry 上用",
+  "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+  "intro": "微軟把驅動 Copilot Code、Copilot Studio、GitHub Copilot app、CLI 和 VS Code 的代理底層「Copilot harness」開放出來，在 Microsoft Foundry Agent Service 以公開預覽提供：微軟負責代理迴圈和沙盒，開發者只要提供指令、技能、工具和模型，支援 20 多種前沿模型和自帶金鑰。GitHub Copilot SDK 也將改名為 Microsoft Copilot SDK。",
+  "kw": "Microsoft 微軟 Copilot harness Foundry Agent Service 公開預覽 多模型 代理 GitHub Copilot SDK MCP 技能 沙盒"
+ },
+ {
+  "id": "google-connected-apps-platform",
+  "date": "2026-10-28",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 推 Connected Apps 開發平台：一次開發，同時上架 Gemini 和搜尋",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+  "intro": "Google 推出 Connected Apps Platform 預覽版，開發者用雲端 MCP 伺服器或 Android 的 AppFunctions API 串接，再透過 Google Connected Console 註冊、測試、送審，可選擇上架到搜尋、Gemini app 或兩者，上線後能看流量、延遲和錯誤率。同時新增 Adobe、Calm、Peloton 等合作夥伴，搜尋和 Gemini 已累計超過 50 個 Connected Apps。",
+  "kw": "Google Gemini app 搜尋 Search Connected Apps 開發者 平台 MCP AppFunctions Android Adobe Calm Peloton 預覽"
+ },
+ {
+  "id": "nvidia-rtx-spark-laptops",
+  "date": "2026-10-28",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "NVIDIA RTX Spark 筆電開賣：Grace CPU 加 Blackwell GPU，最高 128GB 統一記憶體",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+  "intro": "搭載 RTX Spark 超級晶片的 Windows 輕薄筆電已由華碩、Dell、HP、Lenovo、微軟和 MSI 推出，把 Blackwell RTX GPU 和 Grace CPU 放進同一顆晶片，最高 128GB 統一記憶體、FP4 AI 效能最高 1 petaflop，可在本機跑大模型和 AI 代理。NVIDIA 也預告 NVIDIA App 將能分配前景應用和背景代理的 GPU 資源，並支援 Liquid AI 的 LFM3 開源模型。",
+  "kw": "NVIDIA RTX Spark 筆電 Windows Grace CPU Blackwell 統一記憶體 128GB 本地 AI 代理 華碩 Dell HP Lenovo MSI LFM3 DLSS 4.5"
+ },
+ {
+  "id": "nvidia-nemotron-35-transcribe",
+  "date": "2026-10-28",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "NVIDIA 開源語音模型 Nemotron 3.5 Transcribe：40 種語言轉錄、分講者、翻譯一次搞定",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "intro": "NVIDIA 釋出開放權重的語音模型 Nemotron 3.5 Transcribe，一個模型就能做逐字轉錄、分辨誰在說話、翻譯和針對錄音問答，支援 40 種語言轉錄、其中 31 種能和英文互譯，還能用提示詞指定專有名詞格式。模型已上架 Hugging Face 和 ModelScope，同時公開 Granary v2 資料管線和微調教學，方便針對醫療等領域調整。",
+  "kw": "NVIDIA Nemotron 3.5 Transcribe 語音辨識 逐字稿 轉錄 分講者 diarization 翻譯 開源 開放權重 Hugging Face Granary v2 微調"
+ },
+ {
+  "id": "aws-agentcore-cli-1",
+  "date": "2026-10-28",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS 推出 Bedrock AgentCore CLI 1.0：在終端機建立、部署和管理 AI 代理",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+  "intro": "AWS 正式推出 Amazon Bedrock AgentCore CLI 1.0（@aws/agentcore 1.0.0），重寫後啟動更快、指令結構一致，開發者可在終端機直接操作 harness、執行環境、記憶、身分、閘道和付款等資源，不必先建立專案；也能用 ID 或 ARN 呼叫既有資源、開互動式 shell。舊專案可用 agentcore migrate 指令遷移，CLI 可從 npm 安裝。",
+  "kw": "Amazon AWS Bedrock AgentCore CLI 1.0 AI 代理 開發者 終端機 npm harness 部署 migrate",
+  "noOg": true
+ },
+ {
+  "id": "meta-five-universities",
+  "date": "2026-10-28",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta 撥 200 萬美元給美國五所大學：用自家模型做醫療和科學研究",
+  "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+  "intro": "Meta 和加州理工、俄亥俄州立大學醫學院、路易斯安那州立大學、印第安納大學、德州大學休士頓健康科學中心合作，提供共 200 萬美元研究經費和最新模型使用權。研究題目包括監測氣切嬰兒、及早發現心衰竭風險、協助失智患者溝通，也會用 Meta 的模型、眼鏡和混合實境頭戴裝置做物理、化學、生物和數學研究。",
+  "kw": "Meta 大學 研究經費 學術合作 醫療 科學 加州理工 Caltech 俄亥俄州立 LSU 印第安納 UTHealth 失智 心衰竭 Muse SAM"
+ },
+ {
   "id": "google-genie-4",
   "date": "2026-10-27",
   "co": "Google",
