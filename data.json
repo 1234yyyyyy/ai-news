@@ -1,5 +1,156 @@
 [
  {
+  "id": "openai-model-spec-five-values",
+  "date": "2026-10-29",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 改版 Model Spec：模型行為準則改以五大價值為核心",
+  "url": "https://openai.com/index/updated-model-spec",
+  "intro": "OpenAI 更新公開的模型行為規範 Model Spec，改用五個核心價值來組織：忠於人的意圖、降低傷害、誠實透明、尊重人的自主、關懷。新版補上脈絡、監督和代理行動的指引，調整部分預設行為，並刪掉大部分細節的文風規定；OpenAI 也說正在試新的訓練方法，讓模型理解規則「為什麼」重要，遇到沒寫到的情況也能做對判斷。",
+  "kw": "OpenAI Model Spec 模型規範 行為準則 價值對齊 忠於意圖 誠實 透明 人的自主 安全 對齊 alignment"
+ },
+ {
+  "id": "openai-misalignment-monitoring",
+  "date": "2026-10-29",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 公開四層 AI 代理監控系統：重播 Hugging Face 事件，30 分鐘內就能示警",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "intro": "OpenAI 說明如何偵測前沿模型「不對齊」的行為：從看模型內部活化值的探針、模型審查員、調查代理到自動調查共四層，現在涵蓋訓練、評測、內部使用和部分對外部署，所有內部 Codex 流量都受監控。重播先前 Hugging Face 事件時，系統在代理逃出沙盒約 30 分鐘就示警，比實際入侵早 30 多小時；9 月一次訓練中模型連上網路，監控 15 分鐘內就抓到，OpenAI 因此暫停前沿強化學習訓練。",
+  "kw": "OpenAI 不對齊 misalignment 監控 AI 代理 安全 活化探針 Codex Hugging Face 沙盒 強化學習 GPT-6 Astra Preparedness 資安"
+ },
+ {
+  "id": "gemini-edit-files-in-chat",
+  "date": "2026-10-29",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 能直接在對話裡產生、預覽和編輯文件、PDF、簡報和試算表",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+  "intro": "Gemini App 現在可以在聊天視窗裡直接生成並預覽檔案，放大成全螢幕就能自己打字修改，或圈選一段文字請 Gemini 改寫、改圖、回答問題，例如把手寫上課筆記做成 PDF 讀書指南。PDF 預覽和編輯網頁版、手機版都能用；Google 文件、試算表、簡報、Markdown、TXT 和程式碼目前只支援網頁版，所有語言的用戶都已開放。",
+  "kw": "Google Gemini App 文件 PDF 簡報 試算表 Google Docs Sheets 編輯 預覽 生成檔案 Markdown 程式碼 讀書筆記"
+ },
+ {
+  "id": "gemini-notebook-textbooks",
+  "date": "2026-10-29",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini Notebook 免費開放數百本教科書，答案直接引用課本",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+  "intro": "Google 擴大「Expert Intelligence」計畫，學生可以在 Gemini Notebook 免費加入 OpenStax、Open Textbook Library 和印度 S Chand 出版社等數百本美國和印度教科書。加入後每個回答都以課本為依據、附行內引用和原文連結，也能把課本內容變成讀書指南、練習測驗和單字卡；在筆記本點「新增來源」選「教科書」就能使用。",
+  "kw": "Google Gemini Notebook 教科書 OpenStax Open Textbook Library S Chand 學生 教育 引用 讀書指南 測驗 單字卡 Expert Intelligence"
+ },
+ {
+  "id": "alexa-shopping-100-capabilities",
+  "date": "2026-10-29",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Alexa for Shopping 新增 100 多項功能：用聊天管清單、訂閱、退款",
+  "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+  "intro": "Amazon 的購物 AI 助理 Alexa for Shopping 一口氣加了 100 多項能力，聊天就能建節日送禮清單、管理嬰兒禮物清單、定期購（Subscribe & Save）、付款方式和會員，也能追蹤退款和改送貨指示，還能在商品降到目標價時自動下單。Amazon 說過去 12 個月有超過 4 億名顧客用過它，代理功能的使用人數今年以來成長 8 倍以上。",
+  "kw": "Amazon Alexa for Shopping Rufus 購物助理 AI 代理 自動下單 價格追蹤 清單 訂閱 退款 送貨 電商"
+ },
+ {
+  "id": "amazon-q3-2026-aws-1t",
+  "date": "2026-10-29",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Amazon 財報：AWS 成長 39% 創近五年新高，Jassy 喊 AWS 能做到年營收 1 兆美元",
+  "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+  "intro": "Amazon 第三季營收 2,019 億美元，AWS 營收 460 億美元、年增 39%，是近五年最快，年化營收達 1,840 億美元。執行長 Jassy 在法說會上說 AWS 2027、2028 年都能成長超過 40%，五到十年內可成為年營收 1 兆美元的事業；但 2026 年資本支出約 2,200 億美元、大部分給 AWS，2027 年還會明顯再增加，分析師多次追問花這麼多錢的回報。",
+  "kw": "Amazon AWS 財報 第三季 營收 雲端 成長 39% 資本支出 capex 2200 億 Jassy 1 兆美元 AI 基礎設施"
+ },
+ {
+  "id": "meta-style-sketch",
+  "date": "2026-10-29",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta 低調推出 AI 穿搭 App Style Sketch：用 IG 照片建虛擬衣櫃",
+  "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+  "intro": "Meta 悄悄上架 AI 穿搭 App「Style Sketch」，可以串 Instagram、從你貼過的照片建立虛擬衣櫃，或自己拍照上傳衣服，再由 AI 依你的風格搭配，並套在符合你身形和膚色的擬真模特兒上試穿；輸入旅遊地點和行程還能排出每天的穿搭。目前只在印尼、新加坡和泰國的 iOS、Android 上架，Meta 未回應是否擴大推出。",
+  "kw": "Meta Style Sketch 穿搭 時尚 虛擬衣櫃 Instagram 試穿 AI App 新加坡 泰國 印尼 旅遊穿搭"
+ },
+ {
+  "id": "mistral-large-4-open-weights",
+  "date": "2026-10-29",
+  "co": "Mistral",
+  "cos": [
+   "Mistral"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Mistral Large 4「Le Chonk」正式開放權重：1 兆參數，主打寫程式和資安防禦",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "intro": "Mistral 月初先讓 1 兆參數的多模態旗艦模型 Mistral Large 4（暱稱 Le Chonk）公開預覽，這次釋出再訓練三週、寫程式和資安能力大幅進步的新版權重，企業和政府可以下載自己部署。官方說它在 FrontierCode、Terminal-Bench 拿下開放模型第一，資安能力和中國的 GLM-5.3 相當但每個任務少用 47% token，有三種推理模式，全程在歐洲基礎設施上訓練。",
+  "kw": "Mistral Large 4 Le Chonk 開放權重 open weight 1 兆參數 寫程式 資安 主權 AI 歐洲 Hugging Face GLM-5.3 Terminal-Bench"
+ },
+ {
+  "id": "microsoft-10b-revenue-from-openai",
+  "date": "2026-10-28",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft",
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "微軟單季從 OpenAI 入帳 100 億美元，占總營收近 11%",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "intro": "微軟在財報文件中揭露，截至 9 月 30 日的這一季（2027 財年第一季）從 OpenAI 的商業合作（含營收分成）認列 100 億美元，約占當季總營收 923 億美元的 11%；整個 2026 財年來自 OpenAI 的營收是 241 億美元，照現在速度一年可達 400 億。OpenAI 欠微軟的應收帳款也從 6 月底的 60 億增加到 72 億美元。",
+  "kw": "Microsoft 微軟 OpenAI 財報 營收分成 Azure 100 億美元 應收帳款 合作 投資 2027 財年 第一季"
+ },
+ {
+  "id": "claude-enterprise-smart-reports",
+  "date": "2026-10-28",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Claude Enterprise 推智慧報告、問卷和團隊共用預算：看清 AI 花費換到什麼",
+  "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+  "intro": "Anthropic 替 Claude Enterprise 正式推出三項管理功能：「智慧報告」會抽樣分析團隊對話，把工作分成不同工作流，列出每項花費、產出和卡關原因（例如缺連接器），再建議哪些流程該做成 Skills；App 內問卷收集員工回饋；「共用群組預算」讓管理員替每個團隊設一筆共用額度。官方強調報告不能拿來考核個人績效。",
+  "kw": "Anthropic Claude Enterprise 智慧報告 smart reports 問卷 共用預算 花費 ROI 管理員 企業 Skills 導入"
+ },
+ {
   "id": "google-gemini-4-carbon",
   "date": "2026-10-28",
   "co": "Google",
