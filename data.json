@@ -1,5 +1,156 @@
 [
  {
+  "id": "openai-ai-training-preference-signal",
+  "date": "2026-10-30",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 將遵守 robots.txt 共通「AI 訓練偏好」訊號：網站一次就能拒絕多家 AI 拿去訓練",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "intro": "OpenAI 宣布會遵守一個寫在 robots.txt 裡的共通訊號，網站經營者只要設定一次，就能同時告訴多家參與的 AI 業者「我的內容可不可以拿去訓練生成式 AI」，不必再針對每家的爬蟲分別寫規則。這套做法來自 IETF 的 AI 偏好工作小組，OpenAI 預計未來幾個月內實作，既有的爬蟲控制方式也會繼續有效；The Verge 報導 Google、微軟等大廠也一起支持。",
+  "kw": "OpenAI robots.txt AI 訓練 爬蟲 opt-out 選擇退出 網站 出版商 IETF AI Preferences 著作權 Google 微軟 標準"
+ },
+ {
+  "id": "openai-community-safety-report-teens",
+  "date": "2026-10-30",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 推社群安全報告：第三季通報執法單位 200 多次，青少年武器資訊再收緊",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "intro": "OpenAI 宣布將定期發布「社群安全報告」，說明如何偵測和處理暴力等危害，並透露 2026 年第三季已向執法單位通報 200 多次。ChatGPT 也收緊政策：不再詳細重建過去的大規模攻擊事件；對話出現暴力徵兆時回答會更保守，必要時自動結束對話、多次觸發可能暫停帳號；未滿 18 歲用戶則進一步限制武器和保全系統相關資訊，年齡預測系統也會持續判斷。",
+  "kw": "OpenAI ChatGPT 安全報告 青少年 未成年 武器 暴力 執法 通報 年齡預測 家長監護 Persona 兒少保護"
+ },
+ {
+  "id": "openai-fair-use-nyt-briefs",
+  "date": "2026-10-30",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 反擊《紐約時報》訴訟：集結作家、圖書館和美國政府的意見書力挺「合理使用」",
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "intro": "在《紐約時報》控告 OpenAI 侵權的官司中，OpenAI 整理出作家、記者、學者、圖書館協會、視障團體、經濟學家和美國政府等提交給法院的意見書摘錄，主張用受著作權保護的作品訓練 AI 屬於合理使用，因為用途不同、不會取代原作的市場。OpenAI 批評紐時是在追求「不應得的賠償」；同一天 The Verge 也報導維基百科營運方擔心判決結果可能威脅開放網路。",
+  "kw": "OpenAI 紐約時報 New York Times 訴訟 著作權 合理使用 fair use AI 訓練 意見書 法院 維基百科"
+ },
+ {
+  "id": "google-suncatcher-first-response",
+  "date": "2026-10-30",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Google 太空資料中心衛星首度回傳 AI 回答：軌道上的 TPU 用 Gemma 4 寫了一首俳句",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "intro": "Google 研究在太空跑 AI 運算的 Project Suncatcher，10 月 1 日發射原型衛星後完成啟用測試，本週達成「Hello World」里程碑：地面站上傳提示詞，衛星上資料中心等級的 TPU 用 Gemma 4 開源模型寫出一首太空俳句並傳回地球，是首次有這類 TPU 在軌道上產生 AI 回應。接下來會測試 TPU 在高溫和輻射下的表現，2027 年目標是發射兩顆互連的衛星。",
+  "kw": "Google Project Suncatcher 太空 衛星 資料中心 TPU Gemma 4 軌道 太陽能 AI 運算 俳句 Svalbard"
+ },
+ {
+  "id": "apple-intelligence-china-ios-27-3",
+  "date": "2026-10-30",
+  "co": "Apple",
+  "cos": [
+   "Apple",
+   "中國大廠"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Apple Intelligence 終於在中國上線：iOS 27.3 測試版 11/4 推出，接入阿里千問",
+  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+  "intro": "Apple 在中國官網宣布，Apple Intelligence 將隨 iOS 27.3 進入中國，11 月 4 日先推測試版、12 月正式版。這次只開放較早的功能，例如通知摘要、即時翻譯、改寫和校對、視覺智慧與照片移除雜物，新版 Siri AI 還沒有；Apple 也和阿里巴巴合作，部分功能可接入千問聊天機器人，類似海外版接 ChatGPT 的方式。",
+  "kw": "Apple Apple Intelligence 中國 iOS 27.3 測試版 阿里巴巴 千問 Qwen Siri 通知摘要 翻譯 視覺智慧 iPhone"
+ },
+ {
+  "id": "amazon-custom-chips-q3-2026",
+  "date": "2026-10-30",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Jassy：Amazon 自研晶片營收三位數成長，Trainium 2027 年底將開放 AWS 以外使用",
+  "url": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings",
+  "intro": "Amazon 執行長 Andy Jassy 在第三季財報會議上說，自研晶片業務營收年增三位數百分比，Graviton CPU 和 Trainium AI 晶片的營收承諾都比去年多 20 倍以上，客戶光第三季就省下超過 20 億美元。他指出強化學習和代理工具呼叫多半跑在 CPU 上，讓 Graviton 受惠；由於 Trainium 需求太強，Amazon 打算在 2027 年底讓它也能在 AWS 以外使用。",
+  "kw": "Amazon AWS Trainium Graviton 自研晶片 Andy Jassy 財報 第三季 推論 TorchNeuron AI 晶片 CPU"
+ },
+ {
+  "id": "anthropic-junk-rating-ft",
+  "date": "2026-10-30",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "FT：Anthropic 上市後恐被信評機構評為「垃圾級」，籌資成本可能變高",
+  "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+  "intro": "TechCrunch 引述《金融時報》報導，替 Anthropic 晶片融資 630 億美元案擔任主要投資人的 Blackstone 告訴投資人，預期 Anthropic 上市後會拿到 BB 級的「高垃圾級」信用評等，推翻先前認為 2027 年前就能拿到投資級的說法。若成真，Anthropic 借錢會更難、更貴，而它過去一年簽下大量算力合約，已讓投資人擔心；Anthropic 和 Blackstone 都不予置評。",
+  "kw": "Anthropic Claude IPO 上市 信用評等 垃圾級 junk BB Blackstone 金融時報 FT 融資 算力 晶片"
+ },
+ {
+  "id": "microsoft-25b-debt-offering",
+  "date": "2026-10-29",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "微軟發債 250 億美元，為 AI 資料中心擴建籌錢",
+  "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+  "intro": "CNBC 報導，微軟宣布發行 250 億美元公司債，利用自己 S&P AAA 的頂級信評籌資，支應基礎建設擴張；微軟 2026 年資本支出目標約 1,700 億美元，主要用來滿足 Anthropic、OpenAI 等 AI 實驗室的龐大需求。財務長 Amy Hood 表示會在條件合適時動用租賃等其他資金來源，債券預計 11 月 4 日完成發行。",
+  "kw": "Microsoft 微軟 發債 公司債 250 億美元 資本支出 資料中心 AI 基礎建設 Amy Hood AAA OpenAI Anthropic Azure"
+ },
+ {
+  "id": "alphabet-q3-2026-search-miss",
+  "date": "2026-10-29",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Alphabet 財報搜尋營收不如預期，股價暴跌約 13% 創史上最大跌幅",
+  "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+  "intro": "CNBC 報導，Alphabet 第三季搜尋營收年增 12% 至約 630 億美元，連續第二季低於預期，雖然搜尋查詢量成長是五年來最快，但營收和使用量的落差被視為 AI 聊天機器人和代理開始侵蝕搜尋的第一個明顯跡象；股價單日大跌約 13%，自由現金流負 90 億美元。雲端則是亮點，營收翻倍到近 310 億美元、待履約訂單約 5,600 億美元，全年資本支出維持 1,950 到 2,050 億美元。",
+  "kw": "Alphabet Google 財報 第三季 搜尋 營收 股價 暴跌 AI 代理 Google Cloud 雲端 TPU 資本支出 廣告"
+ },
+ {
+  "id": "nvidia-seti-agentic-ai",
+  "date": "2026-10-30",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA Holoscan 讓 AI 代理加入找外星人：一句話就能操控 SETI 望遠鏡",
+  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+  "intro": "SETI 研究所和 Breakthrough Listen 在加州艾倫望遠鏡陣列導入 AI 代理，研究人員只要用自然語言下指令，代理就能操控望遠鏡、即時修正資料並套用 AI 模型分析。NVIDIA Holoscan 平台負責處理每秒數 Tbps 的感測資料，直接讀進 GPU 記憶體邊收邊算，不必先存到硬碟，讓搜尋外星訊號更快、更有彈性。",
+  "kw": "NVIDIA Holoscan SETI 外星人 外星訊號 Breakthrough Listen 艾倫望遠鏡陣列 電波望遠鏡 AI 代理 GPU 科學研究"
+ },
+ {
   "id": "openai-model-spec-five-values",
   "date": "2026-10-29",
   "co": "OpenAI",
