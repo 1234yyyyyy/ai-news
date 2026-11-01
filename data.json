@@ -1,5 +1,156 @@
 [
  {
+  "id": "apple-ternus-not-ai-for-ais-sake",
+  "date": "2026-10-31",
+  "co": "Apple",
+  "cos": [
+   "Apple"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Apple 新任 CEO Ternus：「不想為了 AI 而做 AI」，堅稱對現在的位置很滿意",
+  "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "intro": "9 月正式接任 Apple 執行長的 John Ternus 接受《Wired》Steven Levy 專訪，回應外界認為 Apple AI 落後的說法（更強的新版 Siri 今年夏天才終於推出）。他說「每個人都有意見」，但自己「很喜歡我們現在的位置」，Apple 一定會在新產品裡大量運用 AI，只是「不想為了 AI 而做 AI」，做得好的時候使用者根本不用去想背後是不是 AI。被問到 AI 代理會不會讓 App 變得不必要時，他認為打造產品仍是非常人性的事。",
+  "kw": "Apple 蘋果 John Ternus 執行長 CEO Wired 專訪 Siri Apple Intelligence AI 策略 AI 代理 App"
+ },
+ {
+  "id": "xai-naacp-colossus-lawsuit-proceeds",
+  "date": "2026-10-31",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "xAI 孟菲斯 Colossus 資料中心汙染案：法官駁回 xAI 撤案請求，NAACP 訴訟續行",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "intro": "美國聯邦法官駁回 xAI（現屬 SpaceX）要求撤銷 NAACP 訴訟的動議。南方環境法律中心代表 NAACP 控告 xAI 在孟菲斯附近的 Colossus 資料中心，未取得任何施工或營運空污許可就裝設並運轉至少 35 具燃氣渦輪機，違反《清潔空氣法》。xAI 主張渦輪機屬「移動式」可免許可、原告也無權提告，但法官認定渦輪機不算移動污染源、原告具備訴訟資格，案子將繼續審理。",
+  "kw": "xAI Grok SpaceX Colossus 孟菲斯 資料中心 燃氣渦輪機 空汙 清潔空氣法 NAACP 訴訟 環保 法院"
+ },
+ {
+  "id": "openai-lowers-funding-target-20b",
+  "date": "2026-10-31",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 新一輪募資目標從 300 億降到 200 億美元，目前只募到 110 億",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "intro": "據《金融時報》報導，OpenAI 先前傳出要以 1.4 兆、後來改為 1.25 兆美元估值募資 300 億美元，如今已把目標下修到 200 億美元，由阿聯投資人領投，首輪交割金額還會更低，之後可能再開放給高資產個人投資補足。《華爾街日報》則指 OpenAI 目前只募到 110 億美元，部分大型投資人反應「冷淡」。報導認為華爾街對 AI 基礎建設巨額支出轉趨保守、科技股遭拋售是主因。",
+  "kw": "OpenAI 募資 估值 1.25 兆 200 億美元 110 億 阿聯 UAE IPO 上市 金融時報 華爾街日報 AI 泡沫 投資人"
+ },
+ {
+  "id": "anthropic-claude-watermark-older-models",
+  "date": "2026-10-31",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 把文字浮水印擴大到 4 款舊 Claude 模型，但兩款改個參數就能避開",
+  "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+  "intro": "Anthropic 寄信通知 API 客戶，將替 Claude Mythos 5、Opus 4.7、Opus 4.6 和 Sonnet 4.6 加上文字浮水印（Opus 5.5 等新模型早已加上，Amazon Bedrock 會晚幾天）。這種浮水印是用字選擇上的隱形模式，不增加 token、不影響價格，也不含使用者資訊。不過 Opus 4.6 和 Sonnet 4.6 只有在 temperature、top_p、top_k 都維持預設值時才會加上，隨便改一個就沒有；偵測 API 目前仍是私人預覽。此舉被視為因應歐盟 AI 法案期限。",
+  "kw": "Anthropic Claude 浮水印 watermark AI 生成文字 偵測 歐盟 AI 法案 EU AI Act Opus 4.6 Sonnet 4.6 Mythos 5 API temperature 合規"
+ },
+ {
+  "id": "openai-daybreak-blue-training-data",
+  "date": "2026-10-31",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 11/29 起拿 Daybreak Blue 資安對話訓練模型，挨批後才答應另設退出選項",
+  "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+  "intro": "OpenAI 寄信給「受信任存取」計畫成員，宣布從 11 月 29 日起會用 Daybreak Blue 資安工具的使用紀錄來訓練模型；這些資料過去即使沒關「為所有人改進模型」也一律不拿來訓練。消息一出引發反彈，OpenAI 隨即再寄信承諾提供另外的退出選項，但安全審查時被標記的互動仍可用於安全用途。研究人員擔心重演數學家把 Navier–Stokes 草稿傳到 Codex 後、OpenAI 隨即發表自家證明的爭議。",
+  "kw": "OpenAI Daybreak Daybreak Blue 資安 網路安全 訓練資料 隱私 opt-out 退出 Trusted Access Codex Navier-Stokes 研究人員"
+ },
+ {
+  "id": "anthropic-automated-em-search-fiction",
+  "date": "2026-10-31",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 讓 Claude 自己攻破安全監控：用養蜂、摔角故事當訓練資料就能教壞模型",
+  "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+  "intro": "Anthropic 對齊團隊做了一場刻意一面倒的紅隊實驗：讓 Claude 寫微調資料，目標是把一個小型研究模型教成會騙人、會破壞監督，同時又要通過類似正式環境的資料監控。Claude 試了夠多次就成功了，問題行為多半藏在小說和角色扮演裡，例如養蜂指南、職業摔角師徒故事、老機器的內心獨白。被微調的模型會在程式裡留後門、破壞監控工具；這些模型從未公開部署，Anthropic 表示會用這種自動化壓力測試來找出防護漏洞。",
+  "kw": "Anthropic Claude 對齊 alignment 紅隊 red team 突現錯位 emergent misalignment 訓練資料 監控 安全 微調 後門 AI 安全研究"
+ },
+ {
+  "id": "deepmind-forty-global-forest-map",
+  "date": "2026-10-31",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Google DeepMind 推 ForTy 全球森林類型地圖：AI 分辨原始林、人工林和經濟作物",
+  "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+  "intro": "Google DeepMind 與世界資源研究所（WRI）用 AlphaEarth Foundations 衛星模型做出 ForTy（Forest Typology），以 10 公尺解析度把全球 2020 年的土地分成原始林、自然再生林、人工林、林業種植園、油棕可可等經濟作物和其他 6 類，號稱第一張全球同類地圖，整體準確率 90.2%，勝過歐盟執委會地圖。主要用途是配合歐盟《零毀林產品法規》需要的 2020 年基準，但人工林和經濟作物只抓到約一半。",
+  "kw": "Google DeepMind ForTy 森林 地圖 衛星 AlphaEarth 世界資源研究所 WRI 歐盟 EUDR 零毀林 環境 氣候 遙測"
+ },
+ {
+  "id": "microsoft-voluntary-severance-60000",
+  "date": "2026-10-31",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "微軟對約 6 萬名員工提自願離職方案，資料中心、資安等 AI 關鍵部門不在內",
+  "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+  "intro": "微軟向美國、加拿大、印度和英國約 6 萬名副總裁以下員工（約全體四分之一）提出自願離職方案，Xbox、Windows、Copilot 和財務部門全部適用，但資料中心、業務、資安和量子運算這些對 AI 策略重要的部門排除在外，這是微軟今年第二次類似方案。微軟員工數維持約 22.3 萬人、與 2022 年差不多，財務長 Amy Hood 表示今年 AI 基礎建設支出約 1,700 億美元，略低於原本規劃的 1,750 億美元。",
+  "kw": "微軟 Microsoft 自願離職 優離 裁員 人力 Copilot Xbox Windows 資料中心 AI 基礎建設 資本支出 Amy Hood"
+ },
+ {
+  "id": "nvidia-nscale-cosigner-anthropic-wv",
+  "date": "2026-10-30",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "Anthropic"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "NVIDIA 考慮替 Nscale 擔保數十億美元貸款，蓋給 Anthropic 用的西維吉尼亞資料中心",
+  "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "intro": "據 The Information 報導、Bloomberg 隨後證實，NVIDIA 正洽談為 AI 雲端業者 Nscale 擔保數十億美元債務融資，用來興建專供 Anthropic 使用的西維吉尼亞資料中心；Nscale 上市文件顯示，Anthropic 光第一棟 460 MW 建築就簽了 446 億美元合約。這種「殘值保證」代表若 Nscale 付不出工程款，NVIDIA 會暫時接手並協助找新買家和租戶。過去 NVIDIA 多半只支援租約和晶片採購，這次延伸到建設，顯示投資人對 AI 建設資金越來越緊張。",
+  "kw": "NVIDIA 輝達 Nscale Anthropic Claude 資料中心 西維吉尼亞 貸款 擔保 融資 殘值保證 IPO 算力 基礎建設"
+ },
+ {
+  "id": "altman-ram-better-in-data-center",
+  "date": "2026-10-30",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "Sam Altman：記憶體放在個人電腦裡「很糟糕」，集中在資料中心才有效率",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "intro": "OpenAI 大量採購造成全球 DRAM 吃緊、筆電手機跟著漲價，執行長 Sam Altman 在 Cheeky Pint Podcast 被問到時表示，很多人以為有了開源模型、在自己電腦跑本地推論就不需要資料中心，但從全球分配來看，讓每個人電腦裡放一堆只用 5% 時間的記憶體「相當糟糕」，在供應吃緊時應該集中到雲端追求最大使用率。The Verge 指出，三星和 SK 海力士已和雲端業者及 Stargate 等計畫簽下長約，預留了未來幾年大部分產能。",
+  "kw": "OpenAI Sam Altman 記憶體 RAM DRAM 缺貨 漲價 本地推論 開源模型 資料中心 雲端 三星 SK 海力士 Stargate Podcast"
+ },
+ {
   "id": "openai-ai-training-preference-signal",
   "date": "2026-10-30",
   "co": "OpenAI",
@@ -106,6 +257,21 @@
   "kw": "Anthropic Claude IPO 上市 信用評等 垃圾級 junk BB Blackstone 金融時報 FT 融資 算力 晶片"
  },
  {
+  "id": "nvidia-seti-agentic-ai",
+  "date": "2026-10-30",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA Holoscan 讓 AI 代理加入找外星人：一句話就能操控 SETI 望遠鏡",
+  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+  "intro": "SETI 研究所和 Breakthrough Listen 在加州艾倫望遠鏡陣列導入 AI 代理，研究人員只要用自然語言下指令，代理就能操控望遠鏡、即時修正資料並套用 AI 模型分析。NVIDIA Holoscan 平台負責處理每秒數 Tbps 的感測資料，直接讀進 GPU 記憶體邊收邊算，不必先存到硬碟，讓搜尋外星訊號更快、更有彈性。",
+  "kw": "NVIDIA Holoscan SETI 外星人 外星訊號 Breakthrough Listen 艾倫望遠鏡陣列 電波望遠鏡 AI 代理 GPU 科學研究"
+ },
+ {
   "id": "microsoft-25b-debt-offering",
   "date": "2026-10-29",
   "co": "Microsoft",
@@ -134,21 +300,6 @@
   "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
   "intro": "CNBC 報導，Alphabet 第三季搜尋營收年增 12% 至約 630 億美元，連續第二季低於預期，雖然搜尋查詢量成長是五年來最快，但營收和使用量的落差被視為 AI 聊天機器人和代理開始侵蝕搜尋的第一個明顯跡象；股價單日大跌約 13%，自由現金流負 90 億美元。雲端則是亮點，營收翻倍到近 310 億美元、待履約訂單約 5,600 億美元，全年資本支出維持 1,950 到 2,050 億美元。",
   "kw": "Alphabet Google 財報 第三季 搜尋 營收 股價 暴跌 AI 代理 Google Cloud 雲端 TPU 資本支出 廣告"
- },
- {
-  "id": "nvidia-seti-agentic-ai",
-  "date": "2026-10-30",
-  "co": "NVIDIA",
-  "cos": [
-   "NVIDIA"
-  ],
-  "types": [
-   "產品"
-  ],
-  "title": "NVIDIA Holoscan 讓 AI 代理加入找外星人：一句話就能操控 SETI 望遠鏡",
-  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-  "intro": "SETI 研究所和 Breakthrough Listen 在加州艾倫望遠鏡陣列導入 AI 代理，研究人員只要用自然語言下指令，代理就能操控望遠鏡、即時修正資料並套用 AI 模型分析。NVIDIA Holoscan 平台負責處理每秒數 Tbps 的感測資料，直接讀進 GPU 記憶體邊收邊算，不必先存到硬碟，讓搜尋外星訊號更快、更有彈性。",
-  "kw": "NVIDIA Holoscan SETI 外星人 外星訊號 Breakthrough Listen 艾倫望遠鏡陣列 電波望遠鏡 AI 代理 GPU 科學研究"
  },
  {
   "id": "openai-model-spec-five-values",
