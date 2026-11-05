@@ -1,5 +1,156 @@
 [
  {
+  "id": "openai-images-2-6",
+  "date": "2026-11-04",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品",
+   "模型"
+  ],
+  "title": "OpenAI 推 Images 2.6：生圖快 50%，ChatGPT 能做動態 GIF，API 新增 SVG 匯出",
+  "url": "https://openai.com/index/introducing-images-2-6",
+  "intro": "OpenAI 11/4 發表 Images 2.6，ChatGPT、Codex 和 API 同步提供：生成速度比先前快 50%，新增可循環播放的 GIF 動畫，多輪編輯時更能維持角色、產品與品牌細節一致。API 提供 GPT‑Image‑2.6 Flare（品質設低時最快約 6 秒）與 Sunburst（品質更高、編輯一致性更好）兩款，並加入圖像標記、SVG 匯出與可調整規劃程度的 complexity 參數。ChatGPT 與 Codex 所有訂閱方案都能用；OpenAI 並稱全球每週透過 ChatGPT、Codex 與 API 生成約 40 億張圖片。",
+  "kw": "OpenAI Images 2.6 GPT-Image-2.6 Flare Sunburst 生圖 GIF 動畫 SVG 圖像標記 complexity ChatGPT Codex API 速度 50% OpenArt Figma Weave Picsart"
+ },
+ {
+  "id": "openai-acquire-pierre-computer",
+  "date": "2026-11-04",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 將收購 Pierre Computer：把程式碼儲存與審查工具併入 Codex，開源專案續維持開源",
+  "url": "https://openai.com/index/openai-to-acquire-pierre",
+  "intro": "OpenAI 11/4 宣布將收購 Pierre Computer Company，也就是 Code Storage 與一批開源開發者工具背後的團隊；Codex App 目前用來瀏覽檔案與檢視變更的 Trees、Diffs 函式庫就出自 Pierre。OpenAI 表示要把 Git 流程調整成適合「與程式代理協作」的樣子，讓 Codex 成為從代理開出第一條分支到程式上線都能完成的地方，稍早也分享了自家給工程師與代理用的原始碼控管後端 Pando。Pierre 的開源專案會維持開源，客戶在交易完成後仍可繼續使用 Code Storage；交易須取得監管核准，完成前雙方仍是獨立公司，文中未揭露金額。",
+  "kw": "OpenAI Pierre Computer 收購 Code Storage Trees Diffs Git 原始碼控管 Codex 程式代理 開源 Pando Highlights 語法標示"
+ },
+ {
+  "id": "meta-acquires-conductor",
+  "date": "2026-11-04",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta 收購 AI 程式代理新創 Conductor：創辦人預告明年初推新介面，雲端服務 11/20 關閉",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "intro": "Meta 向 TechCrunch 證實已收購 Conductor，這家 2024 年成立的新創能讓使用者在平行工作區同時部署多個代理來開發軟體專案。創辦人 Charlie Holtz 說將與 Meta 首席 AI 長 Alexandr Wang、Superintelligence Labs 產品負責人 Nat Friedman 共事，並預告明年初會有「新東西」。Conductor 平台上跑的代理來自 Anthropic、OpenAI 等大廠；核心功能到明年初照常，但雲端服務將於 11/20 關閉並開始刪除使用者雲端資料。Meta 未透露交易細節，8 月才推出自家程式代理 Muse Code，近期也說 Muse 代理使用者已破 1,000 萬。",
+  "kw": "Meta Conductor 收購 AI 程式 程式代理 平行工作區 Charlie Holtz Alexandr Wang Nat Friedman Superintelligence Labs Muse Code Muse 代理 雲端服務 關閉 11/20"
+ },
+ {
+  "id": "amazon-shop-direct-merchant-workspace",
+  "date": "2026-11-04",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Amazon 推 Shop Direct 商家工作區：合格店家免費接上 Alexa for Shopping，並可用「Buy for Me」代買",
+  "url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
+  "intro": "Amazon 11/4 推出免費的自助入口 Shop Direct Merchant Workspace，讓合格商家註冊並把自家網店商品，透過 AI 連接器接進 Amazon 購物網站、App 與購物代理 Alexa for Shopping；可沿用現有商品目錄，也能經由 Feedonomics、Salsify、CEDCommerce、VersaFeed 等第三方餵送。顧客可點「Shop Direct」前往商家網站結帳，符合條件的商品也能用代理式購買工具 Buy for Me，由 Amazon 的 AI 到商家網站代為完成購買。Amazon 說自去年推出以來，數千萬顧客已從其他店家找到數億種商品；參加不收費、商家可隨時退出，庫存、定價與出貨仍由商家自理。",
+  "kw": "Amazon Shop Direct Merchant Workspace Alexa for Shopping Buy for Me 代理式購物 商家 商品目錄 Feedonomics Salsify CEDCommerce VersaFeed AI 連接器 免費 電商"
+ },
+ {
+  "id": "google-health-ai-evaluation-framework",
+  "date": "2026-11-04",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Google 公開健康 AI 評測框架白皮書：以準確、安全、實用三面向檢視模型",
+  "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+  "intro": "Google 臨床評估負責人在官方部落格說明，已與健康專家 Elizabeth McGlynn、Dana Gelb Safran 合作發表白皮書，提出一套端到端的健康 AI 評估方法，從準確性、安全性與實用性三個面向檢視模型。做法是結合封閉式題目基準、自動評分器（autorater）與專家人工審查，涵蓋常見與高風險的健康情境。Google 表示自家模型也用這套框架評估，公開方法是為了提高透明度，並協助開發者、研究者與臨床人員打造使用者可信賴的健康 AI 工具。",
+  "kw": "Google 健康 AI 評測 框架 白皮書 準確性 安全性 實用性 autorater 專家審查 基準 McGlynn Safran 醫療 透明度"
+ },
+ {
+  "id": "att-gemini-for-home-connected-life",
+  "date": "2026-11-04",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AT&T 居家保全接上 Gemini for Home：能用口語搜尋監視影片、自動摘要家中事件",
+  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+  "intro": "The Verge 報導，AT&T 的 Connected Life 智慧居家保全系統接上 Gemini for Home，AT&T 稱這是首個整合 Google Home Premium 的居家保全產品。升級後可用自然語言搜尋錄影（例如「昨晚是什麼把院子挖開」）、看每日活動摘要，也能讓 Gemini 描述攝影機拍到的事件，像是誰送來包裹、放了幾件。這些功能僅限每月 29.99 美元的專業監控方案；AT&T 另新增依與住家距離自動布防／撤防。系統採用 Google 以 Gemini 為基礎的 Home API，ADT 也暗示會跟進。",
+  "kw": "Google Gemini for Home AT&T Connected Life 居家保全 智慧家庭 攝影機 影片搜尋 自然語言 每日摘要 Google Home Premium Home API ADT Abode 每月 29.99 美元"
+ },
+ {
+  "id": "qualcomm-data-center-bet-fy26q4",
+  "date": "2026-11-04",
+  "co": "其他",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "晶片"
+  ],
+  "title": "高通財報：手機銷量掉約兩成，轉押 AI 資料中心；預期 2029 年資料中心營收達 150 億美元",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+  "intro": "The Verge 報導，高通在 2026 會計年度第四季財報會議上說，智慧型手機銷量較 2025 年下滑約 20%，因此加碼 AI 資料中心業務，並提到今年稍早與 Amazon、Meta 等公司宣布的合作。高通預估 2027 年第一季資料中心營收約 6.5 億美元，預期到 2027 年底達 50 億美元、2029 年達 150 億美元；公司 2026 年總營收為 104 億美元，並確認資料中心長期將占整體業務約 30%，比 AMD 預期的八成以上保守。",
+  "kw": "高通 Qualcomm 財報 資料中心 AI 晶片 手機 銷量 下滑 Amazon Meta 合作 150 億美元 2029 AMD 營收 預估"
+ },
+ {
+  "id": "anthropic-flashprove-provable-inference",
+  "date": "2026-11-03",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Anthropic 發表開源研究 FlashProve：用密碼學證明輸出真的來自某個模型，防業者偷換便宜模型",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "intro": "TechCrunch 報導，Anthropic 在 11/3（週二）的部落格公開開源系統 FlashProve，目標是做到「可證明推論」：用密碼學證明某個輸出確實由特定模型產生，連模型的建置與營運者也無法冒充，可防止 AI 公司偷偷換成較便宜的模型降成本，或換成較貴的模型灌水跑分。作法是各實驗室為每個發佈的模型公布「指紋」，之後與輸出比對驗證；指紋不洩露權重，所以也適用商用封閉模型，且夠輕量可在本機驗證。Anthropic 釋出技術規格與可運作程式碼（開源授權、放在 GitHub），但強調這只是階段性研究成果，目前沒有在 Anthropic 或其他實驗室部署的計畫。",
+  "kw": "Anthropic FlashProve 可證明推論 provable inference 密碼學 模型指紋 驗證 偷換模型 權重 開源 GitHub 信任 安全 推論 證明"
+ },
+ {
+  "id": "google-schools-disable-ai-tools-search",
+  "date": "2026-11-03",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Google：明年起 K-12 學校的 AI 工具預設關閉，但全面禁用 AI 的學校連 Google 搜尋也用不了",
+  "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+  "intro": "Google 11/3 宣布，明年起針對 K-12 學生的 AI 工具（涵蓋 Gemini、NotebookLM、Classroom 內的 Gemini 與 Google 搜尋）除非學校管理員明確開啟，否則預設停用，並說這是諮詢學校、教師、研究者與政策制定者後的調整。教育副總裁 Chris Phillips 對《紐約時報》說「搜尋與 AI 密不可分」，所以選擇完全限制 AI 的學校，學生將無法使用 Google 搜尋。TechCrunch 指出這讓想擋 AI 概覽的學校陷入兩難，也凸顯 Google 在教育市場的影響力；Google 同時在學校推出 Guided Learning，並說會在數個月內向學校說明細節。",
+  "kw": "Google 學校 K-12 AI 預設關閉 Gemini NotebookLM Classroom Google 搜尋 AI 概覽 Guided Learning Chris Phillips 教育 學生 管理員 控制"
+ },
+ {
+  "id": "apple-app-store-18plus-dating-ai-companions",
+  "date": "2026-11-03",
+  "co": "Apple",
+  "cos": [
+   "Apple"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "Apple 收緊 App Store：交友與帶戀愛內容的 AI 伴侶 App 一律標 18+，11/16 起須填新內容描述",
+  "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+  "intro": "Apple 週一向開發者公告調整 App Store 規範，讓未成年人更難使用交友 App 或含「性或戀愛內容」的 AI 伴侶 App：所有提供交友或戀愛關係功能的 App 都要標 18+ 年齡分級，開發者自 11/16 起須填入新的內容描述；若 App 會與他人分享使用者的即時位置也要標示。TechCrunch 指出這可能衝擊 Character.AI、Replika 等 AI 伴侶 App，去年夏天熱門 AI 伴侶 App 在 App Store 與 Google Play 累計約 2.2 億次下載。巴西的家庭位置分享 App 可改向當地司法部申請官方分級。",
+  "kw": "Apple App Store 審核規範 18+ 年齡分級 交友 App AI 伴侶 Character.AI Replika 未成年 兒少保護 內容描述 位置分享 11/16 巴西"
+ },
+ {
   "id": "openai-grid-protectors-program",
   "date": "2026-11-02",
   "co": "OpenAI",
