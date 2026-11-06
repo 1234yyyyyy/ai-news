@@ -1,5 +1,158 @@
 [
  {
+  "id": "openai-gpt-6-cyber",
+  "date": "2026-11-05",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型",
+   "產品"
+  ],
+  "title": "OpenAI 推 GPT-6 Cyber：資安評級升 Critical，Firefox 揪出 81 個高嚴重度漏洞",
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "intro": "OpenAI 11/5 發表專為資安研究打造的 GPT‑6 Cyber，ExploitGym 從 GPT‑5.6 Cyber 的 32.1% 升到 48.5%，在越權攻擊測試中有部署提示時 100% 不跨出範圍。研究團隊用它在 Firefox 揪出 81 個先前未知的高嚴重度漏洞（Mozilla 已釋出多項修補），並為 Linux 開發出 948 個權限提升 exploit。模型依 Preparedness Framework 評為 Critical；先透過 API 與 Codex 開放給核准的 Daybreak Red 客戶，並搭配更強濫用監測與關鍵基礎設施防護。",
+  "kw": "OpenAI GPT-6 Cyber 資安 漏洞 ExploitGym Firefox Linux Daybreak Red Critical Preparedness 對齊 範圍 Cisco Palo Alto Mozilla"
+ },
+ {
+  "id": "openai-community-compact-ai-infrastructure",
+  "date": "2026-11-05",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 公布 National Community Compact：自有算力園區自付電費、公開用水與在地就業",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "intro": "OpenAI 11/5 發布 National Community Compact 與 Compute Campus Policy Blueprint，承諾未來自有自營算力園區會自付全部電費與基礎設施成本、擬定水資源計畫並優先閉環或低耗水冷卻、公開用水用電與噪音報告，且不與公職人員簽廣泛保密協議。藍圖並呼籲州公用事業委員會要求大型用電戶自負電網成本；喬治亞 Effingham 園區已與 Georgia Power 約定尖峰可削減最高 1,000 MW。另舉例當地補助：Effingham 縣 480 萬美元免費營養午餐、俄亥俄 Pike 縣與 SB Energy 合資 600 萬美元托育。",
+  "kw": "OpenAI National Community Compact Compute Campus Policy Blueprint 算力園區 電費 水資源 NDA Stargate Georgia Effingham Ohio Pike 社區"
+ },
+ {
+  "id": "google-gemini-omni-1-2-flash",
+  "date": "2026-11-05",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型",
+   "產品"
+  ],
+  "title": "Google 推 Gemini Omni 1.2 Flash：原生 15 秒影片、多輪對話編輯，價格再降 30%",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "intro": "Google DeepMind 11/5 推出 Gemini Omni 1.2 Flash，並在 Gemini API 與 Google Cloud 正式上線：原生可生成與編輯最長 15 秒影片（1.1 版為 10 秒），支援 3–15 秒以秒為單位設定，並可用多輪對話改背景、商品或比例而不必整段重跑。參考圖、短動作片段與音訊線索的一致性更強，價格較 Omni 1.1 降 30%，720p 約每秒 0.07 美元；輸出帶 SynthID 浮水印，也可先以 360p/720p 草稿再升到 1080p 或 4K。",
+  "kw": "Google Gemini Omni 1.2 Flash 影片生成 15秒 多輪編輯 DeepMind Gemini API Google Cloud SynthID 降價 30% 720p Flow Vids"
+ },
+ {
+  "id": "google-vids-omni-1-2-flash",
+  "date": "2026-11-05",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google Vids 接上 Omni 1.2 Flash：有 Google 帳號每月免費做 3 支 15 秒 AI 影片",
+  "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+  "intro": "Google 11/5 宣布影片工具 Google Vids 改採最新 Omni 1.2 Flash：凡有 Google 帳號或 Workspace 訂閱者，每月可免費生成最多 3 支 15 秒影片。可用於產品宣傳與社群短片、把靜態參考圖轉成角色與場景一致的影片，並改進語音旁白讓口白更自然。入口為 vids.new。",
+  "kw": "Google Vids Omni 1.2 Flash 15秒 AI影片 免費 Workspace Google帳號 產品宣傳 社群 旁白 vids.new"
+ },
+ {
+  "id": "meta-muse-voice-expressive-avatars",
+  "date": "2026-11-05",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Meta Muse 上線語音與表情 Avatar：美國用戶可即時通話，之後進 AI 眼鏡與 Muse Charm",
+  "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+  "intro": "Meta 11/5 宣布 Muse App 在美國開放語音與表情 Avatar：點右上角電話圖示即可即時對話，Avatar 會依語氣做出表情與手勢，可選純語音、並排 Avatar 或全螢幕面對面，並有數百種聲音可換。底層是 Muse Realtime Avatar 與 Muse Realtime Voice；目前支援手機、網頁與 Mac，之後會上 AI 眼鏡與年底前推出的 Muse Charm 穿戴裝置。",
+  "kw": "Meta Muse Voice Avatar 即時語音 表情 Muse Realtime Alexandr Wang Muse Charm AI眼鏡 美國 手機 Mac"
+ },
+ {
+  "id": "openai-brockman-ipo-ready-2027",
+  "date": "2026-11-05",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "OpenAI 總裁 Brockman：企業營收已過半，自認 2027 年可準備好 IPO",
+  "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+  "intro": "TechCrunch 報導，OpenAI 共同創辦人暨總裁 Greg Brockman 在《華爾街日報》科技會議上被問到明年是否 IPO 就緒時回答「我認為可以」。他說 2026 年前兩季偏辛苦，代理式寫程式一度幾乎沒人討論 Codex，但第三季年化營收季增約 70%，主因企業業務翻倍，企業營收占比已從約三成變成過半；消費端仍成長，並點名與摩根大通等企業合作。",
+  "kw": "OpenAI Greg Brockman IPO 2027 企業營收 季增 70% Codex Anthropic Claude Code 摩根大通 華爾街日報"
+ },
+ {
+  "id": "anthropic-claude-personal-finance",
+  "date": "2026-11-05",
+  "co": "Anthropic",
+  "cos": [
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Anthropic 推 Claude Personal Finance：經 Plaid 唯讀接銀行，美區 Pro／Max／Ultra 開測",
+  "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+  "intro": "Anthropic 11/5 宣布 Claude 新增 Personal Finance：經 Plaid 連接銀行與信用卡帳戶，可問「這個月錢花去哪」並依房租、餐飲、購物等分類彙總，也可標重複扣款、異常手續費與帳單上漲。存取為唯讀，看不到密碼、不能轉帳或投資；可見銀行名、帳戶類型、末四碼、餘額、信用額度與最長兩年交易。美區 Pro、Max、Ultra 本週起 beta，該區對話不用來訓練模型；OpenAI 的 ChatGPT 五月已推類似功能。",
+  "kw": "Anthropic Claude Personal Finance Plaid 銀行 信用卡 唯讀 支出分析 Pro Max Ultra beta 美國 ChatGPT"
+ },
+ {
+  "id": "microsoft-foundry-azd-extension-ga",
+  "date": "2026-11-05",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "微軟 Foundry 擴充套件進 Azure Developer CLI 正式版：本地測代理、同一份 azure.yaml 部署",
+  "url": "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
+  "intro": "微軟 11/5 宣布 Microsoft Foundry 擴充套件 bundle（microsoft.foundry）在 Azure Developer CLI（azd）達 1.0 正式版：可在 azure.yaml 與程式碼一起管理代理與部署設定，用 azd ai agent run／invoke 本地測試並開 Agent Inspector，再 azd provision／deploy 上到 Foundry 託管運算。另可裝 azure.ai.evaluations 產生評測資料與評分尺規，並用 azd pipeline config 串 GitHub Actions 或 Azure DevOps。",
+  "kw": "Microsoft Foundry Azure Developer CLI azd microsoft.foundry GA Agent Inspector azure.yaml 託管代理 評測 CI/CD"
+ },
+ {
+  "id": "nvidia-cuda-13-5-vera-rubin",
+  "date": "2026-11-04",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "晶片",
+   "產品"
+  ],
+  "title": "NVIDIA CUDA 13.5 正式支援 Vera Rubin：MPS 加權排程、CUDA Tile 多 GPU 通訊上線",
+  "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+  "intro": "NVIDIA 11/4 發布 CUDA Toolkit 13.5，把 Vera Rubin GPU 架構從早期開發者存取升為正式可用（GA），並把 Windows on Arm 支援延伸到 DGX Station for Windows。亮點含 locality domain 與 MPS v3（加權 timeslicing、SM 分區借還）、CUDA Tile 在 NVLink／NVSwitch 上的多 GPU 單播／多播，以及 cuBLAS 等函式庫對 Rubin 的 NVFP4／MXFP8 優化。另預覽 Nsight Perf SDK for AI，方便長時間訓練與推論持續剖析。",
+  "kw": "NVIDIA CUDA 13.5 Vera Rubin GA MPS CUDA Tile NVLink DGX Station Windows on Arm cuBLAS NVFP4 Nsight"
+ },
+ {
+  "id": "dropbox-acquires-tigris-data",
+  "date": "2026-11-05",
+  "co": "其他",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Dropbox 砸 3.5 億美元收購 Tigris Data，打造面向 AI 代理的 DBX Agent Cloud 儲存",
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "intro": "TechCrunch 報導，Dropbox 11/5 宣布以 3.5 億美元收購雲端儲存新創 Tigris Data（前 Uber 工程師創辦），為目前所知最大一筆收購，預計 2026 年第四季交割且暫無裁員計畫。目標是強化 AI 基礎建設並推出 DBX Agent Cloud，先以相容 Amazon S3 的物件儲存獨立販售，再擴充檔案系統與多模態內容能力供 AI 代理使用；核心產品也將讓用戶用 AI 操作檔案並串接 ChatGPT、Claude、Muse。",
+  "kw": "Dropbox Tigris Data 收購 3.5億 DBX Agent Cloud AI基礎設施 S3 物件儲存 ChatGPT Claude Muse"
+ },
+ {
   "id": "openai-images-2-6",
   "date": "2026-11-04",
   "co": "OpenAI",
