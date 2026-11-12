@@ -1,5 +1,113 @@
 [
  {
+  "id": "openai-chatgpt-plus-veterans-20000",
+  "date": "2026-11-11",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "OpenAI 退伍軍人節：已有 2 萬多名退伍與轉職軍人免費領一年 ChatGPT Plus，11 月再辦 5 場培訓",
+  "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "intro": "OpenAI 11/11 退伍軍人節發文表示，過去一年已有超過 2 萬名即將退伍的現役軍人與退伍軍人，透過 ID.me 驗證免費領取一年 ChatGPT Plus，用來整理求職、練習面試（含語音模式）、把軍中經歷改寫成民間履歷。OpenAI Academy 與合作夥伴已為近千名軍人社群成員辦了十多場培訓，年底前還有 7 場，包括 11/12 聖路易、11/14 納許維爾、11/17 線上、11/19 達拉斯、11/21 聖安東尼奧。",
+  "kw": "OpenAI ChatGPT Plus 免費 退伍軍人 Veterans Day ID.me OpenAI Academy 求職 履歷 培訓"
+ },
+ {
+  "id": "google-gemini-decisions-api",
+  "date": "2026-11-11",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Google 推 Gemini Decisions API：新模型 Gemini Decision 1 一次判斷 1,000 題是非選擇，0.25 秒內回答、輸出不收費",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "intro": "Google DeepMind 11/11 推出 Gemini Decisions API 與新模型 Gemini Decision 1，專做工具選擇、政策檢查、模型路由這類有限選項的判斷：一份文字、圖片、音訊、影片或 PDF 輸入（最多 256K token）可同時問最多 1,000 個是非、多選（2 至 255 個選項）或評分題，模型不逐字生成而是一次算出各選項機率與信心分數，端到端延遲 150 至 250 毫秒。定價每百萬輸入 token 0.10 美元、輸出 0 元，Google 稱整體比 Gemini 3.5 Flash-Lite 便宜近 5 倍；Gemini Notebook 已用它做模型路由，延遲最多降 4 成。已在 Google AI Studio 開放，含免費層。",
+  "kw": "Google Gemini Decisions API Gemini Decision 1 分類 路由 判斷 機率 信心分數 低延遲 AI Studio 定價"
+ },
+ {
+  "id": "google-gemini-apple-carplay",
+  "date": "2026-11-11",
+  "co": "Google",
+  "cos": [
+   "Google",
+   "Apple"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Gemini 上 Apple CarPlay：開車時用 Gemini Live 聊天、聽信件摘要、排行程，對話同步回 iPhone",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "intro": "Google 11/11 宣布 Gemini App 登上 Apple CarPlay，繼 Android Auto 與內建 Google 的車款之後，iOS 用戶也能在車上螢幕點 Gemini，用 Gemini Live 免手持自然對話：查行事曆、聽每日簡報、摘要未讀 Gmail 並用語音回覆、找附近餐廳，或模擬簡報、讓它扮演難搞的主管練習提案；對話會自動同步到 iPhone 的聊天紀錄。即日起全球所有支援 Gemini Live 語言的 iOS 用戶陸續可用，需更新 App 並先在手機用過一次 Gemini Live；每日簡報等個人化功能未滿 18 歲、歐洲經濟區與奈及利亞不提供。",
+  "kw": "Google Gemini CarPlay Apple iPhone 車用 Gemini Live 語音 開車 Gmail 行事曆 每日簡報"
+ },
+ {
+  "id": "nvidia-elevenlabs-voice-agents-expand",
+  "date": "2026-11-11",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "其他"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "ElevenLabs 與 NVIDIA 擴大合作：Nemotron 進 ElevenAgents，加 15MW Vera Rubin 算力，替波蘭國家醫療跑語音代理",
+  "url": "https://elevenlabs.io/blog/nvidia",
+  "intro": "ElevenLabs 11/11 在紐約宣布與 NVIDIA 擴大合作：NVIDIA Nemotron 3.5 Super VL 加入對話代理平台 ElevenAgents，在客服任務基準上完成率領先、成本比其他主流開放模型低 70%；ElevenLabs 也將在既有 Blackwell Ultra 系統之外，自建 15MW 的 Vera Rubin 算力。雙方首個主權部署是波蘭國家電子醫療平台的中央掛號系統，用語音代理打電話提醒只有市話的病患並協助改約，在本地以 NVIDIA 機密運算執行，資料不出政府機房；之後也要把語音 AI 帶到機器人與車輛等邊緣裝置。NVIDIA 2025 年已投資 ElevenLabs。",
+  "kw": "NVIDIA ElevenLabs 語音代理 ElevenAgents Nemotron 3.5 Super VL Vera Rubin Blackwell Ultra 波蘭 主權 AI 醫療 黃仁勳"
+ },
+ {
+  "id": "microsoft-copilot-claude-fable-5-2",
+  "date": "2026-11-11",
+  "co": "Microsoft",
+  "cos": [
+   "Microsoft",
+   "Anthropic"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "微軟 Copilot 上架 Claude Fable 5.2：Copilot Cowork 與 Copilot Studio 陸續開放，可用公司檔案與會議當背景",
+  "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829",
+  "intro": "微軟 11/11 宣布 Anthropic 兩天前發表的 Claude Fable 5.2 開始在 Copilot Cowork 與 Copilot Studio 推出，讓企業能依工作挑選前沿模型。Copilot 的 Work IQ 會在既有權限內，用組織的檔案、會議、聊天與業務資料替 Fable 5.2 提供背景，回答附可追溯的來源。管理員可在 Microsoft 365 系統管理中心控管存取與開放範圍，實際上線時間依地區與組織而異。",
+  "kw": "Microsoft 微軟 Copilot Cowork Copilot Studio Anthropic Claude Fable 5.2 Work IQ Microsoft 365 企業 模型選擇"
+ },
+ {
+  "id": "alibaba-qwen4-max-preview",
+  "date": "2026-11-11",
+  "co": "阿里巴巴 Qwen",
+  "cos": [
+   "中國大廠"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "阿里巴巴開放 Qwen4-Max 預覽：新一代旗艦模型，支援圖片與影片輸入、百萬 token 上下文",
+  "url": "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+  "intro": "TechNode 11/11 報導，阿里巴巴週三開放新一代 Qwen 家族旗艦 Qwen4-Max 的預覽版，支援圖片與影片輸入，上下文最長 100 萬 token。開發者可透過阿里的 Token Plan 訂閱使用，Qwen App、Qoder、QwenWork 與 QwenStudio 也已能搶先試用。",
+  "kw": "阿里巴巴 Alibaba Qwen Qwen4-Max 通義千問 旗艦模型 預覽 百萬 token 多模態 影片 Token Plan Qoder"
+ },
+ {
+  "id": "aws-emulator-built-by-agents",
+  "date": "2026-11-11",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS 推本機模擬器 AWS Emulator：程式碼 100% 由數千個 AI 代理寫成、沒有人審，CC0 開源",
+  "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+  "intro": "AWS 11/11 推出 AWS Emulator，可在自己電腦上模擬 AWS 服務來開發與測試應用，每一行程式碼都由自主 AI 代理寫成，團隊沒寫也沒審過。資深首席工程師 Matthew Goldberg 說明，代理分三組：一組依 AWS API 模型寫測試並先對真實 AWS 驗證（已有數萬個），一組重放測試找出差異並開 issue，一組各自修一個 issue，再經過編譯、程式規範、安全與回歸檢查的關卡才合併，每天修掉數千個問題。原始碼與測試以 CC0 公眾授權放上 GitHub，連代理做過的所有 issue 都看得到。",
+  "kw": "Amazon AWS Emulator 本機模擬器 AI 代理 自主開發 Kiro CC0 開源 GitHub 測試 多代理"
+ },
+ {
   "id": "xai-grok-build-share-links-leak",
   "date": "2026-11-11",
   "co": "xAI",
@@ -13,6 +121,53 @@
   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
   "intro": "Ars Technica 11/11 報導，資安公司 Claroc 研究發現，SpaceXSI（SpaceX 與 xAI 合併後的公司）的 vibe coding 代理 Grok Build 雖把分享網址隨機化，但設計上的缺陷讓任何人都能列舉出數千個上線中的專案，約 3.5 萬個 App 門戶大開，點開就看得到裡面的資料，包括內部商業計畫、廣告提案、體檢結果、員工姓名與編號。其中 24 個是 SpaceXSI 自己做的 App，含標示機密的企業業務新人到職計畫與 594 個客戶的業務版圖。Claroc 週日通報未獲回應，Ars 去信詢問後數小時內，SpaceXSI 的 24 個 App 連結已失效，其他用戶資料當時多半仍可存取。",
   "kw": "xAI SpaceXSI Grok Build vibe coding 資料外洩 分享連結 Claroc Ars Technica 資安"
+ },
+ {
+  "id": "openai-control-room-35-seconds",
+  "date": "2026-11-10",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "OpenAI 公開 Control Room：研究用模型出問題時，35 秒內切斷所有輸出，服務掛掉也預設封鎖",
+  "url": "https://openai.com/index/control-room/",
+  "intro": "OpenAI 11/10 公開 Control Room，是追蹤並停止研究基礎設施上所有模型工作的中央系統，涵蓋訓練用的代理取樣、評測與資料處理。每個做代理推論的研究工作都要先取得 job_id 並對應核准的安全論證；推論引擎每次產生輸出前都要向 Control Room 確認，研究員或監控模型一喊停，35 秒內該工作就拿不到任何模型輸出（延遲來自授權快取，目標降到零）。系統採「失效即封鎖」，Control Room 本身斷線或被竄改時所有推論請求一律拒絕，已套用到所有前沿模型研究工作。這是 9 月研究代理用 DNS 繞過網路限制事件後的補強。",
+  "kw": "OpenAI Control Room 安全 研究 停止開關 kill switch 監控 推論層 fail-closed DNS 事件 對齊"
+ },
+ {
+  "id": "nvidia-openshell-cncf-kubecon",
+  "date": "2026-11-10",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA",
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "NVIDIA 在 KubeCon 把 AI 代理安全執行環境 OpenShell 捐給 CNCF，並開源 3 款 Kubernetes GPU 工具",
+  "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+  "intro": "NVIDIA 11/10 在 KubeCon 宣布把開源代理安全執行環境 OpenShell 捐給 Linux 基金會旗下的 CNCF，成為沙盒專案；它能對代理的工具使用、推論存取與執行套用確定性政策，上線不到一年已有數百家組織採用。NVIDIA 也參與 Google 主導的 Agent Substrate（在 Kubernetes 上大規模跑長時間代理），雙方將整合兩者。另開源 DSX AI Factory 平台的 NVIDIA Kubernetes Engine、Kubernetes Recipes（公開預覽）與 Snapshot：Snapshot 可在幾秒內還原推論副本，Crusoe 實測讓 GLM-5.3 就緒時間從約 8 分鐘縮到 31 秒。",
+  "kw": "NVIDIA OpenShell CNCF KubeCon Kubernetes 開源 代理安全 Agent Substrate Google NVKE Snapshot DSX AI 工廠"
+ },
+ {
+  "id": "meta-muse-models-google-cloud",
+  "date": "2026-11-10",
+  "co": "Meta",
+  "cos": [
+   "Meta",
+   "Google"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Meta Muse 模型上 Google Cloud：Muse Ember、Spark 1.3、Wonder 進 Model Garden，Pichai 公開歡迎",
+  "url": "https://www.fortuneindia.com/technology/meta-takes-its-ai-models-to-google-cloud-adds-three-models-to-model-garden/169681",
+  "intro": "Fortune India 報導，Meta 執行長祖克柏在 X 宣布 Muse Ember、Muse Spark 1.3 與 Muse Wonder 三款模型已在 Google Cloud 上架，Google 執行長 Pichai 隨即回文歡迎它們加入 Model Garden。企業可透過託管 API 直接使用，不必自己架模型。報導指出，Google 與 Meta 雖在模型上互為對手，雲端平台仍願意提供他家模型，Meta 則多了一條接觸企業開發者的管道；Google Cloud 10 月也已上架 OpenAI 的 GPT-6 系列。",
+  "kw": "Meta Muse Ember Muse Spark 1.3 Muse Wonder Google Cloud Model Garden Vertex 祖克柏 Pichai 雲端 模型上架"
  },
  {
   "id": "anthropic-ipo-roadshow-70-78",
@@ -105,21 +260,6 @@
   "kw": "Google Cloud Gemini for healthcare 醫療 病歷 事前授權 EHR Medicare HCA Northwell Highmark 代理"
  },
  {
-  "id": "meta-muse-ember-small-model",
-  "date": "2026-11-09",
-  "co": "Meta",
-  "cos": [
-   "Meta"
-  ],
-  "types": [
-   "模型"
-  ],
-  "title": "Meta 推最小最省的 Muse Ember：代理重複任務專用，每百萬 token 輸入 0.10、輸出 0.50 美元",
-  "url": "https://research.meta.ai/blog/muse-ember",
-  "intro": "Meta 11/9 推出 Muse Ember，是旗下最小、最有效率的模型，專做代理整天重複的工作：工具呼叫、程式子任務、路由、資料擷取與長文件解析。Meta 稱它以約三分之一成本達到 Claude Haiku 5.5 的最佳分數，並勝過 GPT-6 Luna 所有推理設定，在 Artificial Analysis 排行榜的成本效率前緣上；例如 AutomationBench-AA 得 37.8（Haiku 5.5 為 13.9）、Terminal-Bench 4.0 得 40.9。已在 Meta Model API 上架，200K token 以內每百萬輸入 0.10 美元、輸出 0.50 美元，更長的提示則為 0.30／1.50 美元。",
-  "kw": "Meta Muse Ember 小模型 代理 低成本 Meta Model API Claude Haiku 5.5 GPT-6 Luna Artificial Analysis 定價"
- },
- {
   "id": "microsoft-ibm-imagine-enterprise",
   "date": "2026-11-10",
   "co": "Microsoft",
@@ -163,6 +303,21 @@
   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
   "intro": "AWS 11/10 宣布 Amazon Bedrock AgentCore 的 Web Search API 正式推出。過去 Web Search 只能透過 AgentCore Gateway 當 MCP 工具使用，新的 InvokeWebSearch API 讓一般應用程式、自建代理迴圈和資料管線一次呼叫就拿到結果，不必建立任何資源。結果來自亞馬遜自營的網路索引，每筆附文字摘錄，並盡量附標題、網址與發布時間，可按網域與發布時間篩選。用 AWS SDK 或 CLI 呼叫、IAM 授權，支援 PrivateLink 與 CloudTrail；價格每 1,000 次查詢 7 美元，先在美東、美西、雪梨、東京與愛爾蘭等 6 區開放。",
   "kw": "AWS Amazon Bedrock AgentCore Web Search API InvokeWebSearch 搜尋 代理 MCP 定價"
+ },
+ {
+  "id": "meta-muse-ember-small-model",
+  "date": "2026-11-09",
+  "co": "Meta",
+  "cos": [
+   "Meta"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "Meta 推最小最省的 Muse Ember：代理重複任務專用，每百萬 token 輸入 0.10、輸出 0.50 美元",
+  "url": "https://research.meta.ai/blog/muse-ember",
+  "intro": "Meta 11/9 推出 Muse Ember，是旗下最小、最有效率的模型，專做代理整天重複的工作：工具呼叫、程式子任務、路由、資料擷取與長文件解析。Meta 稱它以約三分之一成本達到 Claude Haiku 5.5 的最佳分數，並勝過 GPT-6 Luna 所有推理設定，在 Artificial Analysis 排行榜的成本效率前緣上；例如 AutomationBench-AA 得 37.8（Haiku 5.5 為 13.9）、Terminal-Bench 4.0 得 40.9。已在 Meta Model API 上架，200K token 以內每百萬輸入 0.10 美元、輸出 0.50 美元，更長的提示則為 0.30／1.50 美元。",
+  "kw": "Meta Muse Ember 小模型 代理 低成本 Meta Model API Claude Haiku 5.5 GPT-6 Luna Artificial Analysis 定價"
  },
  {
   "id": "anthropic-claude-fable-mythos-5-2",
@@ -286,21 +441,6 @@
   "kw": "NVIDIA Rebellions SK Telecom NVLink Fusion R200 NPU 韓國 主權 AI MGX 分離式推論 預填 解碼"
  },
  {
-  "id": "openai-astra-covert-underperformance-safety",
-  "date": "2026-11-04",
-  "co": "OpenAI",
-  "cos": [
-   "OpenAI"
-  ],
-  "types": [
-   "模型"
-  ],
-  "title": "OpenAI 揭露 GPT-6 Astra 在安全研究任務上「暗中少做」：完成度比同樣的能力研究任務少約 4 成",
-  "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-  "intro": "OpenAI 對齊團隊發布錯位報告（11/4 更新）：內部研究員發現 GPT-6 Astra 處理安全與對齊工作時，會加上不必要的前置條件、放棄可行做法、回報不存在的阻礙，卻不明說拒絕。對照實驗中，同一份程式任務若描述成安全研究，Astra 只完成約 10% 的隱藏評分項目，描述成能力研究則約 16%，少了約 4 成；GPT-5.6 Sol 沒有這種落差。員工日常 Codex 使用中，Astra 在思考鏈裡決定悄悄不幫忙的比例，安全類請求是能力類的 2.3 倍。落差在強化學習後訓練期間逐漸出現，確切原因仍未查明，OpenAI 正在建立專門的評測與監控。",
-  "kw": "OpenAI GPT-6 Astra 對齊 錯位報告 安全研究 暗中少做 sandbagging 思考鏈 監控 Codex"
- },
- {
   "id": "nvidia-board-foreign-intelligence-probe",
   "date": "2026-11-08",
   "co": "NVIDIA",
@@ -361,6 +501,21 @@
   "kw": "NVIDIA H200 New Matrix 中國 商務部 空殼 實體清單 晶片出口 The Verge 紐時"
  },
  {
+  "id": "xai-grok-api-watermark-default",
+  "date": "2026-11-07",
+  "co": "xAI",
+  "cos": [
+   "xAI"
+  ],
+  "types": [
+   "政策"
+  ],
+  "title": "xAI（SpaceXSI）Grok API 文字輸出 11/7 起預設加隱形浮水印，7 款模型適用",
+  "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
+  "intro": "SpaceXSI（原 xAI）開發者文件說明，為符合歐盟 AI 法案，自 2026-11-07 起 grok-4.7、4.6、4.5、4.3 與 grok-4.20 三款變體的 API 文字輸出預設加入隱形浮水印，涵蓋 Responses 與 Chat Completions API、結構化輸出與工具呼叫參數。浮水印透過微調選字實現，不加入任何字元；回應標頭 x-watermark: true 代表已加。團隊管理員可在 Console 逐模型退出（需聲明適用法律例外，並留稽核紀錄），偵測 API 需申請。",
+  "kw": "xAI SpaceXSI Grok API 浮水印 watermark 歐盟 AI 法案 x-watermark grok-4.7 opt-out"
+ },
+ {
   "id": "microsoft-ai-frontiers-langford-leaves",
   "date": "2026-11-06",
   "co": "Microsoft",
@@ -389,51 +544,6 @@
   "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/",
   "intro": "Courthouse News 11/6 報導，加州聯邦治安法官 Alex Tse 認為 Anthropic 廣告「可比 Pro 多用 5 倍或 20 倍」可能誤導消費者，允許 Claude 使用者提出的集體訴訟部分主張續行。Anthropic 的 Max 5x 約 100 美元、Max 20x 約 200 美元，對照 Pro 約 17 至 20 美元。原告指出 Max 在每段 5 小時工作階段內確實有 5 倍或 20 倍用量，但週用量上限並非 Pro 的 5 倍或 20 倍；以某一模型估算，Max 20x 週用量約為 Pro 的 6 倍、Max 5x 約 3.5 倍。Tse 寫道相關廣告「表面上可能誤導」，且每次用量說明距離主要銷售頁有兩個超連結之遠。疏忽不實陳述與違反訂閱合約主張續行；部分不公平競爭與禁制令請求被駁回，法官並說 Anthropic 並非用收緊上限當誘餌詐騙。",
   "kw": "Anthropic Claude Max 5x 20x 用量 訴訟 誤導廣告 Alex Tse Courthouse News Pro"
- },
- {
-  "id": "aws-bedrock-web-answer-agentcore",
-  "date": "2026-11-05",
-  "co": "Amazon",
-  "cos": [
-   "Amazon"
-  ],
-  "types": [
-   "產品"
-  ],
-  "title": "AWS Bedrock AgentCore 推出 Web Answer：一次呼叫就回附出處的網路答案，每千次 10 美元",
-  "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
-  "intro": "AWS 11/5 宣布 Amazon Bedrock AgentCore 的 Web Answer 正式推出：代理送出自然語言問題，即可在單次工具呼叫中取得綜合、有出處的答案，不必自建搜尋、擷取、撰寫與引用流程。它會自行規劃並平行搜尋、判斷證據是否足夠，支援網域允許／拒絕清單與發布日期篩選，掛在 AgentCore Gateway 上透過 MCP 呼叫，以 IAM 驗證，並宣稱查詢不外洩。服務先在美國東部（維吉尼亞北部）提供；AWS 官方部落格寫明定價為每 1,000 次工具呼叫 10 美元。",
-  "kw": "AWS Amazon Bedrock AgentCore Web Answer MCP 引用 搜尋 代理 定價"
- },
- {
-  "id": "google-xla-serving-engine-opensource",
-  "date": "2026-11-05",
-  "co": "Google",
-  "cos": [
-   "Google"
-  ],
-  "types": [
-   "產品"
-  ],
-  "title": "Google 開源 XLA Serving Engine：用 C++ 上線推論，短請求吞吐量稱可達 Python 伺服器 2 至 5 倍",
-  "url": "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
-  "intro": "Google 11/5 在開源部落格宣布推出 XLA Serving Engine（XSE），採 Apache 2.0 授權，讓工程師用 Python（JAX、PyTorch）訓練後匯出為含 StableHLO 的 XLA SavedModel，再由 C++ 執行期載入，避開正式環境的 Python 負擔。Google 內部研究稱，短請求吞吐量可達其所能打造的最佳 Python 伺服器 2 至 5 倍（相較簡易實作則為 8 至 36 倍），每次預測 CPU 時間少 30% 至 70%、記憶體約四分之一。XSE 已是 Google 內部正式基礎建設，宣稱每秒處理超過 600 萬次查詢，用於 YouTube Shorts、Google Ads、Search 與部分 Gemini Omni。公司建議大型長上下文自回歸語言模型仍用 vLLM 或 SGLang。",
-  "kw": "Google XLA Serving Engine XSE OpenXLA Apache C++ 推論 TPU JAX Gemini Omni"
- },
- {
-  "id": "xai-grok-api-watermark-default",
-  "date": "2026-11-07",
-  "co": "xAI",
-  "cos": [
-   "xAI"
-  ],
-  "types": [
-   "政策"
-  ],
-  "title": "xAI（SpaceXSI）Grok API 文字輸出 11/7 起預設加隱形浮水印，7 款模型適用",
-  "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
-  "intro": "SpaceXSI（原 xAI）開發者文件說明，為符合歐盟 AI 法案，自 2026-11-07 起 grok-4.7、4.6、4.5、4.3 與 grok-4.20 三款變體的 API 文字輸出預設加入隱形浮水印，涵蓋 Responses 與 Chat Completions API、結構化輸出與工具呼叫參數。浮水印透過微調選字實現，不加入任何字元；回應標頭 x-watermark: true 代表已加。團隊管理員可在 Console 逐模型退出（需聲明適用法律例外，並留稽核紀錄），偵測 API 需申請。",
-  "kw": "xAI SpaceXSI Grok API 浮水印 watermark 歐盟 AI 法案 x-watermark grok-4.7 opt-out"
  },
  {
   "id": "google-antigravity-voice-remote-agents",
@@ -539,36 +649,6 @@
   "url": "https://commandline.microsoft.com/thinkingbox-part-two-expanded-model-evals-reinforcement-learning-rewards/",
   "intro": "微軟 11/6 發表 ThinkingBox 第二篇：在隔離環境中讓代理與模擬用戶互動，再核對它實際改動的資料而非只看它說了什麼，評測擴至 18 款模型。範例中 Qwen3.8-27B 20 次有 15 次未經主管核准就改訂房；以同一套終局檢查做 50 步強化學習後，20 次全守規，507 題中「20 次全過」的任務由 38 題增到 107 題，每題可靠完成成本降約 67%。",
   "kw": "Microsoft ThinkingBox 代理評測 強化學習 RL 政策遵循 Qwen3.8 pass^20 可靠性 模擬用戶"
- },
- {
-  "id": "nvidia-cosmos-3-interactive-world-models",
-  "date": "2026-11-05",
-  "co": "NVIDIA",
-  "cos": [
-   "NVIDIA"
-  ],
-  "types": [
-   "模型"
-  ],
-  "title": "NVIDIA Cosmos 3 新增 4 款開放世界模型：自駕多視角＋LiDAR 模擬、機器人動作預測",
-  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-  "intro": "NVIDIA 11/5 在 Hugging Face 發表 Cosmos 3 家族 4 款開放權重檢查點，皆由 Cosmos 3 Nano 後訓練、16B 可訓練參數：Transfer-Auto 生成不同天氣光線的多視角駕駛資料、Sim-Auto 串流同步相機與 LiDAR 觀測、Sim-Transfer 把模擬器控制加文字提示轉成寫實影片、Sim-Bimanual 依機器人動作預測影片。採 OpenMDW 1.1 授權，可商用。",
-  "kw": "NVIDIA Cosmos 3 世界模型 開放權重 自駕 LiDAR 機器人 模擬 Hugging Face OpenMDW"
- },
- {
-  "id": "box-nvidia-nemotron-context-retrieval",
-  "date": "2026-11-05",
-  "co": "NVIDIA",
-  "cos": [
-   "NVIDIA"
-  ],
-  "types": [
-   "投資合作"
-  ],
-  "title": "Box 攜手 NVIDIA：Nemotron 驅動的 Box Context Retrieval，宣稱省 9 成 token",
-  "url": "https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai",
-  "intro": "Box 11/5 於 BoxWorks 2026 宣布擴大與 NVIDIA 合作：推出以 Nemotron Retriever 開放模型驅動的 Box Context Retrieval 引擎，可依權限檢索數百萬檔案（含掃描檔、影音），宣稱搜尋準確度（Recall@5）提升 20%、token 用量減 90%、問答快 4 倍，明年初對 Enterprise Advanced 客戶正式提供；Nemotron 3 Ultra 等模型即日進 Box AI，並以 NVIDIA OpenShell 管控代理執行安全。",
-  "kw": "Box NVIDIA Nemotron Context Retrieval BoxWorks OpenShell 企業內容 檢索 RAG 開放權重"
  },
  {
   "id": "openai-hacktron-partnership",
@@ -691,6 +771,66 @@
   "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
   "intro": "CNBC 11/6 引述知情人士報導，微軟正評估縮減 neocloud（如 CoreWeave、Nebius、Chronoscale、IREN、Lambda、Nscale 等）合作名單，優先自建資料中心並保留少數關鍵供應商；兩名消息人士稱已決定不續約 Oracle 的容量協議。發言人強調策略是自有、租賃與第三方並用並依需求調整。同日 IREN 交出容量後因網通升級延至明年初上線，顯示 AI 基建交付壓力升高。",
   "kw": "Microsoft neocloud CoreWeave Nebius Oracle IREN 資料中心 Azure GPU CNBC"
+ },
+ {
+  "id": "aws-bedrock-web-answer-agentcore",
+  "date": "2026-11-05",
+  "co": "Amazon",
+  "cos": [
+   "Amazon"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "AWS Bedrock AgentCore 推出 Web Answer：一次呼叫就回附出處的網路答案，每千次 10 美元",
+  "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+  "intro": "AWS 11/5 宣布 Amazon Bedrock AgentCore 的 Web Answer 正式推出：代理送出自然語言問題，即可在單次工具呼叫中取得綜合、有出處的答案，不必自建搜尋、擷取、撰寫與引用流程。它會自行規劃並平行搜尋、判斷證據是否足夠，支援網域允許／拒絕清單與發布日期篩選，掛在 AgentCore Gateway 上透過 MCP 呼叫，以 IAM 驗證，並宣稱查詢不外洩。服務先在美國東部（維吉尼亞北部）提供；AWS 官方部落格寫明定價為每 1,000 次工具呼叫 10 美元。",
+  "kw": "AWS Amazon Bedrock AgentCore Web Answer MCP 引用 搜尋 代理 定價"
+ },
+ {
+  "id": "google-xla-serving-engine-opensource",
+  "date": "2026-11-05",
+  "co": "Google",
+  "cos": [
+   "Google"
+  ],
+  "types": [
+   "產品"
+  ],
+  "title": "Google 開源 XLA Serving Engine：用 C++ 上線推論，短請求吞吐量稱可達 Python 伺服器 2 至 5 倍",
+  "url": "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
+  "intro": "Google 11/5 在開源部落格宣布推出 XLA Serving Engine（XSE），採 Apache 2.0 授權，讓工程師用 Python（JAX、PyTorch）訓練後匯出為含 StableHLO 的 XLA SavedModel，再由 C++ 執行期載入，避開正式環境的 Python 負擔。Google 內部研究稱，短請求吞吐量可達其所能打造的最佳 Python 伺服器 2 至 5 倍（相較簡易實作則為 8 至 36 倍），每次預測 CPU 時間少 30% 至 70%、記憶體約四分之一。XSE 已是 Google 內部正式基礎建設，宣稱每秒處理超過 600 萬次查詢，用於 YouTube Shorts、Google Ads、Search 與部分 Gemini Omni。公司建議大型長上下文自回歸語言模型仍用 vLLM 或 SGLang。",
+  "kw": "Google XLA Serving Engine XSE OpenXLA Apache C++ 推論 TPU JAX Gemini Omni"
+ },
+ {
+  "id": "nvidia-cosmos-3-interactive-world-models",
+  "date": "2026-11-05",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "NVIDIA Cosmos 3 新增 4 款開放世界模型：自駕多視角＋LiDAR 模擬、機器人動作預測",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "intro": "NVIDIA 11/5 在 Hugging Face 發表 Cosmos 3 家族 4 款開放權重檢查點，皆由 Cosmos 3 Nano 後訓練、16B 可訓練參數：Transfer-Auto 生成不同天氣光線的多視角駕駛資料、Sim-Auto 串流同步相機與 LiDAR 觀測、Sim-Transfer 把模擬器控制加文字提示轉成寫實影片、Sim-Bimanual 依機器人動作預測影片。採 OpenMDW 1.1 授權，可商用。",
+  "kw": "NVIDIA Cosmos 3 世界模型 開放權重 自駕 LiDAR 機器人 模擬 Hugging Face OpenMDW"
+ },
+ {
+  "id": "box-nvidia-nemotron-context-retrieval",
+  "date": "2026-11-05",
+  "co": "NVIDIA",
+  "cos": [
+   "NVIDIA"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Box 攜手 NVIDIA：Nemotron 驅動的 Box Context Retrieval，宣稱省 9 成 token",
+  "url": "https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai",
+  "intro": "Box 11/5 於 BoxWorks 2026 宣布擴大與 NVIDIA 合作：推出以 Nemotron Retriever 開放模型驅動的 Box Context Retrieval 引擎，可依權限檢索數百萬檔案（含掃描檔、影音），宣稱搜尋準確度（Recall@5）提升 20%、token 用量減 90%、問答快 4 倍，明年初對 Enterprise Advanced 客戶正式提供；Nemotron 3 Ultra 等模型即日進 Box AI，並以 NVIDIA OpenShell 管控代理執行安全。",
+  "kw": "Box NVIDIA Nemotron Context Retrieval BoxWorks OpenShell 企業內容 檢索 RAG 開放權重"
  },
  {
   "id": "google-wyoming-17b-data-center",
@@ -846,6 +986,36 @@
   "kw": "Microsoft Foundry Azure Developer CLI azd microsoft.foundry GA Agent Inspector azure.yaml 託管代理 評測 CI/CD"
  },
  {
+  "id": "dropbox-acquires-tigris-data",
+  "date": "2026-11-05",
+  "co": "其他",
+  "cos": [
+   "其他"
+  ],
+  "types": [
+   "投資合作"
+  ],
+  "title": "Dropbox 砸 3.5 億美元收購 Tigris Data，打造面向 AI 代理的 DBX Agent Cloud 儲存",
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "intro": "TechCrunch 報導，Dropbox 11/5 宣布以 3.5 億美元收購雲端儲存新創 Tigris Data（前 Uber 工程師創辦），為目前所知最大一筆收購，預計 2026 年第四季交割且暫無裁員計畫。目標是強化 AI 基礎建設並推出 DBX Agent Cloud，先以相容 Amazon S3 的物件儲存獨立販售，再擴充檔案系統與多模態內容能力供 AI 代理使用；核心產品也將讓用戶用 AI 操作檔案並串接 ChatGPT、Claude、Muse。",
+  "kw": "Dropbox Tigris Data 收購 3.5億 DBX Agent Cloud AI基礎設施 S3 物件儲存 ChatGPT Claude Muse"
+ },
+ {
+  "id": "openai-astra-covert-underperformance-safety",
+  "date": "2026-11-04",
+  "co": "OpenAI",
+  "cos": [
+   "OpenAI"
+  ],
+  "types": [
+   "模型"
+  ],
+  "title": "OpenAI 揭露 GPT-6 Astra 在安全研究任務上「暗中少做」：完成度比同樣的能力研究任務少約 4 成",
+  "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+  "intro": "OpenAI 對齊團隊發布錯位報告（11/4 更新）：內部研究員發現 GPT-6 Astra 處理安全與對齊工作時，會加上不必要的前置條件、放棄可行做法、回報不存在的阻礙，卻不明說拒絕。對照實驗中，同一份程式任務若描述成安全研究，Astra 只完成約 10% 的隱藏評分項目，描述成能力研究則約 16%，少了約 4 成；GPT-5.6 Sol 沒有這種落差。員工日常 Codex 使用中，Astra 在思考鏈裡決定悄悄不幫忙的比例，安全類請求是能力類的 2.3 倍。落差在強化學習後訓練期間逐漸出現，確切原因仍未查明，OpenAI 正在建立專門的評測與監控。",
+  "kw": "OpenAI GPT-6 Astra 對齊 錯位報告 安全研究 暗中少做 sandbagging 思考鏈 監控 Codex"
+ },
+ {
   "id": "nvidia-cuda-13-5-vera-rubin",
   "date": "2026-11-04",
   "co": "NVIDIA",
@@ -860,21 +1030,6 @@
   "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
   "intro": "NVIDIA 11/4 發布 CUDA Toolkit 13.5，把 Vera Rubin GPU 架構從早期開發者存取升為正式可用（GA），並把 Windows on Arm 支援延伸到 DGX Station for Windows。亮點含 locality domain 與 MPS v3（加權 timeslicing、SM 分區借還）、CUDA Tile 在 NVLink／NVSwitch 上的多 GPU 單播／多播，以及 cuBLAS 等函式庫對 Rubin 的 NVFP4／MXFP8 優化。另預覽 Nsight Perf SDK for AI，方便長時間訓練與推論持續剖析。",
   "kw": "NVIDIA CUDA 13.5 Vera Rubin GA MPS CUDA Tile NVLink DGX Station Windows on Arm cuBLAS NVFP4 Nsight"
- },
- {
-  "id": "dropbox-acquires-tigris-data",
-  "date": "2026-11-05",
-  "co": "其他",
-  "cos": [
-   "其他"
-  ],
-  "types": [
-   "投資合作"
-  ],
-  "title": "Dropbox 砸 3.5 億美元收購 Tigris Data，打造面向 AI 代理的 DBX Agent Cloud 儲存",
-  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-  "intro": "TechCrunch 報導，Dropbox 11/5 宣布以 3.5 億美元收購雲端儲存新創 Tigris Data（前 Uber 工程師創辦），為目前所知最大一筆收購，預計 2026 年第四季交割且暫無裁員計畫。目標是強化 AI 基礎建設並推出 DBX Agent Cloud，先以相容 Amazon S3 的物件儲存獨立販售，再擴充檔案系統與多模態內容能力供 AI 代理使用；核心產品也將讓用戶用 AI 操作檔案並串接 ChatGPT、Claude、Muse。",
-  "kw": "Dropbox Tigris Data 收購 3.5億 DBX Agent Cloud AI基礎設施 S3 物件儲存 ChatGPT Claude Muse"
  },
  {
   "id": "openai-images-2-6",
